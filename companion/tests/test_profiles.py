@@ -1,3 +1,4 @@
+import base64
 import hashlib
 import importlib.util
 import json
@@ -259,6 +260,21 @@ class Profiles(unittest.TestCase):
             wp.refresh_desktop(target,current)
         self.assertEqual(calls[0],['omarchy','theme','bg','set',str(target)])
         self.assertEqual(len(calls),2)
+
+    def test_refresh_sends_the_staged_theme_colors_and_shell(self):
+        # An empty shell payload makes the shell drop the theme's bar, menu and lock styling (#1)
+        current,dest=self.stage()
+        (current/'theme/colors.toml').write_text('accent = "#4cc9ff"\n')
+        (current/'theme/shell.toml').write_text('[bar]\nbackground-alpha = 0.90\n')
+        calls=[]
+        def run(args,**kwargs):
+            calls.append(args)
+            return subprocess.CompletedProcess(args,0)
+        with patch.object(wp.shutil,'which',return_value='/usr/bin/omarchy-shell'),patch.object(wp.subprocess,'run',side_effect=run),patch.object(wp.time,'sleep'):
+            wp.refresh_desktop(dest/'one.webp',current)
+        transition=calls[1]
+        self.assertEqual(base64.b64decode(transition[8]).decode(),'accent = "#4cc9ff"\n')
+        self.assertEqual(base64.b64decode(transition[9]).decode(),'[bar]\nbackground-alpha = 0.90\n')
 
     def test_other_theme_and_no_monitor_are_untouched(self):
         current, dest = self.stage()
