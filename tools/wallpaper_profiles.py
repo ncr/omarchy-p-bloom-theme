@@ -497,7 +497,7 @@ def refresh_desktop(target, current):
         snapshot=Path(directory)/target.name
         shutil.copyfile(target,snapshot)
         result=subprocess.run(['omarchy','shell','-q','background','themeTransition','',str(snapshot),str(target),
-                               payload('colors.toml'),payload('shell.json')],check=False,timeout=10)
+                               payload('colors.toml'),payload('shell.toml')],check=False,timeout=10)
         if result.returncode==0:time.sleep(3)
 
 
