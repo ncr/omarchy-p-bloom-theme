@@ -1,0 +1,62 @@
+{
+ "rule": "An NCR number is permanent and never reused. Every new wallpaper gets the next number after the highest ever issued, including rejected or unfinished attempts. Collection order, file names and sheet positions may change; NCR numbers do not.",
+ "originals": {
+  "quantum-simulator": 126,
+  "sky-racer": 127,
+  "fusion-transport": 128,
+  "greener": 129,
+  "cortical-mesh": 130,
+  "bounder": 131,
+  "air-refinery": 132,
+  "aroma-organ": 133,
+  "tether-climber": 134,
+  "truth-lamp": 135,
+  "organ-foundry": 136,
+  "volumetric-stage": 137,
+  "proxy": 138,
+  "presence-rig": 139
+ },
+ "century": "numbers 1-110 as recorded in docs/century/catalog.json (102 and 109 were issued to attempts that did not ship)",
+ "bloom": {
+  "b01": 111,
+  "b02": 112,
+  "b03": 113,
+  "b04": 114,
+  "b05": 115,
+  "b06": 116,
+  "b07": 117,
+  "b08": 118,
+  "b09": 119,
+  "b10": 120,
+  "b11": 121,
+  "b12": 122,
+  "b13": 123,
+  "b14": 124,
+  "b15": 125,
+  "b16": 140,
+  "b17": 141,
+  "b18": 142,
+  "b19": 143,
+  "b20": 144,
+  "b21": 145,
+  "b22": 146,
+  "b23": 147,
+  "b24": 148,
+  "b25": 149
+ },
+ "next": 150,
+ "originals_note": "The 14 originals first printed NCR-01..14, which duplicated Century 001..014. On 2026-09-27 the owner had them renumbered to the next free numbers, 126-139, in collection order.",
+ "retired_from_collection": {
+  "2026-09-27": {
+   "truth-lamp": 135,
+   "greener": 129,
+   "c010 sock-oracle": 10,
+   "c030 advice-filter": 30,
+   "c060 meeting-buoy": 60,
+   "c070 queue-garden": 70,
+   "c080 compliment-mill": 80,
+   "c100 plant-alibi": 100
+  },
+  "note": "Sheets that left the collection keep their numbers; the numbers are never issued again."
+ }
+}

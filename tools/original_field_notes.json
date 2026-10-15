@@ -1,0 +1,306 @@
+{
+  "organ-foundry": [
+    [
+      "PRINT TIME",
+      "38 h"
+    ],
+    [
+      "MATURATION",
+      "21 d"
+    ],
+    [
+      "CELLS PLACED",
+      "1.1 × 10¹¹"
+    ],
+    [
+      "VESSEL LENGTH",
+      "160 km"
+    ],
+    [
+      "OUTPUT",
+      "1 ORGAN / 23 d"
+    ]
+  ],
+  "quantum-simulator": [
+    [
+      "LOGICAL QUBITS",
+      "10 200"
+    ],
+    [
+      "PHYSICAL QUBITS",
+      "2.5 × 10⁶"
+    ],
+    [
+      "BASE TEMPERATURE",
+      "8 mK"
+    ],
+    [
+      "COOLING AT BASE",
+      "30 µW"
+    ],
+    [
+      "WALL POWER",
+      "180 kW"
+    ]
+  ],
+  "tether-climber": [
+    [
+      "PAYLOAD",
+      "20 t"
+    ],
+    [
+      "CLIMB SPEED",
+      "200 km/h"
+    ],
+    [
+      "ANCHOR TO GEO",
+      "7.5 d"
+    ],
+    [
+      "BEAM POWER",
+      "30 MW"
+    ],
+    [
+      "COST TO ORBIT",
+      "$40 PER kg"
+    ]
+  ],
+  "cortical-mesh": [
+    [
+      "CHANNELS",
+      "1 048 576"
+    ],
+    [
+      "SAMPLING",
+      "20 kHz PER SITE"
+    ],
+    [
+      "LINK",
+      "800 Mbit/s"
+    ],
+    [
+      "IMPLANT POWER",
+      "15 mW"
+    ],
+    [
+      "SERVICE LIFE",
+      "40 YEARS"
+    ]
+  ],
+  "fusion-transport": [
+    [
+      "CREW",
+      "6"
+    ],
+    [
+      "DRY MASS",
+      "140 t"
+    ],
+    [
+      "FUSION POWER",
+      "75 MW"
+    ],
+    [
+      "THRUST",
+      "900 N"
+    ],
+    [
+      "EXHAUST SPEED",
+      "100 km/s"
+    ]
+  ],
+  "air-refinery": [
+    [
+      "CO₂ FIXED",
+      "40 000 t PER YEAR"
+    ],
+    [
+      "FUEL MADE",
+      "13 000 t PER YEAR"
+    ],
+    [
+      "WATER USED",
+      "46 t PER DAY"
+    ],
+    [
+      "SUNLIGHT TO FUEL",
+      "21 %"
+    ],
+    [
+      "MIRROR FIELD",
+      "40 ha"
+    ]
+  ],
+  "sky-racer": [
+    [
+      "TOP SPEED",
+      "320 km/h"
+    ],
+    [
+      "PEAK POWER",
+      "570 kW"
+    ],
+    [
+      "MASS WITH PILOT",
+      "410 kg"
+    ],
+    [
+      "TURN LOAD",
+      "6 g"
+    ],
+    [
+      "ONE HEAT",
+      "12 min"
+    ]
+  ],
+  "volumetric-stage": [
+    [
+      "VOXELS",
+      "2 × 10⁹"
+    ],
+    [
+      "REFRESH",
+      "60 Hz"
+    ],
+    [
+      "EMITTER HEADS",
+      "17"
+    ],
+    [
+      "GLASSES",
+      "NONE"
+    ],
+    [
+      "AUDIENCE",
+      "12 000"
+    ]
+  ],
+  "presence-rig": [
+    [
+      "TACTILE POINTS",
+      "1.2 × 10⁶"
+    ],
+    [
+      "TOUCH DELAY",
+      "4 ms"
+    ],
+    [
+      "ELBOW TORQUE",
+      "60 N·m"
+    ],
+    [
+      "SUIT MASS",
+      "3.8 kg"
+    ],
+    [
+      "FLOOR",
+      "Ø 3 m"
+    ]
+  ],
+  "aroma-organ": [
+    [
+      "BASE ODORANTS",
+      "96"
+    ],
+    [
+      "SMELLS IT CAN MAKE",
+      "2 × 10⁶"
+    ],
+    [
+      "ONSET",
+      "80 ms"
+    ],
+    [
+      "CLEARING",
+      "400 ms"
+    ],
+    [
+      "SMALLEST DOSE",
+      "5 pl"
+    ]
+  ],
+  "bounder": [
+    [
+      "TOP SPEED",
+      "62 km/h"
+    ],
+    [
+      "HIGH JUMP",
+      "6.2 m"
+    ],
+    [
+      "PEAK POWER",
+      "9 kW PER LEG"
+    ],
+    [
+      "MASS",
+      "4.1 kg PER LEG"
+    ],
+    [
+      "RUN TIME",
+      "45 min"
+    ]
+  ],
+  "proxy": [
+    [
+      "RUNS PER WEEK",
+      "5, UP FROM 2"
+    ],
+    [
+      "DISTANCE",
+      "10 km IN ABOUT 60 min"
+    ],
+    [
+      "TETHER",
+      "50 cm LOOP"
+    ],
+    [
+      "CHARGE",
+      "2 h / TWO RUNS"
+    ]
+  ],
+  "greener": [
+    [
+      "TARGET",
+      "NEIGHBOUR + 4 %"
+    ],
+    [
+      "CHECKS PER NIGHT",
+      "12"
+    ],
+    [
+      "FENCE RAISED",
+      "TWICE"
+    ],
+    [
+      "SOLD IN PAIRS",
+      "88 %"
+    ],
+    [
+      "SEEN FROM ORBIT",
+      "SINCE 2059"
+    ]
+  ],
+  "truth-lamp": [
+    [
+      "RIGHT",
+      "97 % OF THE TIME"
+    ],
+    [
+      "UNTRUTHS PER DINNER",
+      "40"
+    ],
+    [
+      "OF THOSE, KIND ONES",
+      "36"
+    ],
+    [
+      "TYPICAL OWNERSHIP",
+      "ONE DINNER"
+    ],
+    [
+      "GIVEN AWAY AS A GIFT",
+      "61 %"
+    ]
+  ]
+}

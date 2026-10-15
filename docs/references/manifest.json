@@ -1,0 +1,232 @@
+{
+  "snapshot_date": "2026-09-24",
+  "purpose": "Frozen visual references, reduced previews only. Source hashes identify full renders; live source paths can change. Approval is fragment-specific, not inferred from a file existing.",
+  "wallpapers": [
+    {
+      "id": 1,
+      "slug": "quantum-simulator",
+      "palette": "indigo",
+      "source": "concepts/development/01-quantum-simulator.webp",
+      "source_sha256": "23f48d3d0f509066f83c2a8212238766bf91d556468d6c9ee52c4fc9a6fdd4af",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/01-quantum-simulator.jpg",
+      "preview_sha256": "ec1e8c9cee5d1bf1ea3b82ef5d132353b2abd1607f33e1eaf8018c5033cc702a",
+      "review_note": "Main hardware style reference; surface-code inset is a study."
+    },
+    {
+      "id": 2,
+      "slug": "sky-racer",
+      "palette": "petrol",
+      "source": "concepts/development/02-sky-racer.webp",
+      "source_sha256": "a8c1611df5406b06b32ee77ce68896c189c26decc5c22d955e82f5be2e8042c5",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/02-sky-racer.jpg",
+      "preview_sha256": "e2a65b5869d388d5a76283d0df068ab156cb05063707139b5b82426c40b407eb",
+      "review_note": "Main and left views accepted; newest right course awaits feedback."
+    },
+    {
+      "id": 3,
+      "slug": "fusion-transport",
+      "palette": "rust",
+      "source": "concepts/development/03-fusion-transport.webp",
+      "source_sha256": "feef2cc56b8ff812d18cc27cdb68cac42a3669a858c07d7501877c7a6a2ab354",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/03-fusion-transport.jpg",
+      "preview_sha256": "73447c9a02e45888ccb6f4d0f214d293ec415921050aca0754238deef2869f3f",
+      "review_note": "Main and auxiliary redesign accepted as a style reference."
+    },
+    {
+      "id": 4,
+      "slug": "greener",
+      "palette": "grass",
+      "source": "concepts/development/04-greener.webp",
+      "source_sha256": "84ef81a759a4bb0fd842e4c4c4d4a557e46c36ce7d02e5fd67272857ea4804ee",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/04-greener.jpg",
+      "preview_sha256": "73a75a598309e9d7dc809af1f92db7c56263f2ca1d257805b50e24fc13dd305c",
+      "review_note": "Visual style reference; inspect organic details individually."
+    },
+    {
+      "id": 5,
+      "slug": "cortical-mesh",
+      "palette": "plum",
+      "source": "concepts/development/05-cortical-mesh.webp",
+      "source_sha256": "2601cbb05be7fd83b784744ec51f3fc1028ea060423bbb648477971cad997ac8",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/05-cortical-mesh.jpg",
+      "preview_sha256": "25a7ecea34618c74ccfb41d25d05e7c3cb61f5697b1cc8e0f81d14e9a73a51d2",
+      "review_note": "Visual style reference; not a validated neural interface."
+    },
+    {
+      "id": 6,
+      "slug": "bounder",
+      "palette": "royal",
+      "source": "concepts/development/06-bounder.webp",
+      "source_sha256": "c251b61602ffb7431620d29cbbfc13f5e721857ab3d4352258e13afe748b0260",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/06-bounder.jpg",
+      "preview_sha256": "e44564462ec80791ced9b91e48a81adac1561d428dc415f2895f980f67e1d47a",
+      "review_note": "Equipped runner direction accepted; authored pose, not motion capture."
+    },
+    {
+      "id": 7,
+      "slug": "air-refinery",
+      "palette": "olive",
+      "source": "concepts/development/07-air-refinery.webp",
+      "source_sha256": "da900faa5c3cba9b15464d00c4ce7b3f7b2e5bff9fd11924850a840585a715c9",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/07-air-refinery.jpg",
+      "preview_sha256": "a5a4bce81740ff2579704b834b815aa416e72f5124990cd303e14a5b7bdc1508",
+      "review_note": "Right process layout accepted; enzyme route speculative."
+    },
+    {
+      "id": 8,
+      "slug": "aroma-organ",
+      "palette": "wine",
+      "source": "concepts/development/08-aroma-organ.webp",
+      "source_sha256": "14dfb3a2bda3889df415c527240c472c1b327ee13f9b4fd0cef002c3dbeffe9a",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/08-aroma-organ.jpg",
+      "preview_sha256": "c9681d98aa86dfc5fc499a4f00c652fa81a8723c27f9b86431684ce72866d423",
+      "review_note": "Caution: right receptor matrix is illustrative random data; do not reuse as science."
+    },
+    {
+      "id": 9,
+      "slug": "tether-climber",
+      "palette": "navy",
+      "source": "concepts/development/09-tether-climber.webp",
+      "source_sha256": "6e8a22f89cd45ba07b4a50e475808c9e1cd95a3401533d83d7610cb9d76f3f7b",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/09-tether-climber.jpg",
+      "preview_sha256": "0b769a81b817d8fd63a6e3b86f56e758650fd238cf979d258199a27ed69d82b3",
+      "review_note": "Auxiliary redesign accepted; material strata conceptual."
+    },
+    {
+      "id": 10,
+      "slug": "truth-lamp",
+      "palette": "umber",
+      "source": "concepts/development/10-truth-lamp.webp",
+      "source_sha256": "90c69763a3cb19dc56959caf91e3ff7ae74fcf5a3bef106f8eb9ebb094b8895b",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/10-truth-lamp.jpg",
+      "preview_sha256": "08fa59f07e8229e61c69af94a8021285c50d0e9c30e9660b0060b44f17dff2c7",
+      "review_note": "Right statistics and single-line text accepted; original fictional data retained."
+    },
+    {
+      "id": 11,
+      "slug": "organ-foundry",
+      "palette": "teal",
+      "source": "concepts/development/11-organ-foundry.webp",
+      "source_sha256": "e6d87df7fce9549af104b5bd30c138474290c748fb13accc0d5b18f468c33da5",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/11-organ-foundry.jpg",
+      "preview_sha256": "8bfbd82c192e3e2bf1ab6b9c373ca29edebc987c71fef98f5b1e24a456039256",
+      "review_note": "New right coronal section awaits feedback; conceptual anatomy."
+    },
+    {
+      "id": 12,
+      "slug": "volumetric-stage",
+      "palette": "violet",
+      "source": "concepts/development/12-volumetric-stage.webp",
+      "source_sha256": "43483dd7009ec8448f51ba4db175c37443ef5c1e9dce773c4638efb8bae91b04",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/12-volumetric-stage.jpg",
+      "preview_sha256": "e3559357f8af9a8e10f065fc92daa506b4c4810aaa65f72202332b93f12e3bf3",
+      "review_note": "Style reference with selected microscopic inset revision."
+    },
+    {
+      "id": 13,
+      "slug": "proxy",
+      "palette": "sand",
+      "source": "concepts/development/13-proxy.webp",
+      "source_sha256": "4f37c9a387209259c4914777d7bae4675770c0f900f685fb3c5bc9a023f062ff",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/13-proxy.jpg",
+      "preview_sha256": "fb9987aef38bacb23f2a7f00b45c0b9feadb177e230e7f49ef2a0ece8d84f89c",
+      "review_note": "Latest gait and right owner inset await feedback; do not label as approved."
+    },
+    {
+      "id": 14,
+      "slug": "presence-rig",
+      "palette": "graphite",
+      "source": "concepts/development/14-presence-rig.webp",
+      "source_sha256": "2021f3ee9813d4ee361a40a12864a039e4357212c15ae7ff25341a7f85293c1d",
+      "source_size": [
+        5120,
+        2160
+      ],
+      "preview": "docs/references/14-presence-rig.jpg",
+      "preview_sha256": "f3d06108120c66f685d6399d393c8d59523aefced7035f15cf2da1fc29a6de53",
+      "review_note": "Shared line-shell convention; assess pose and interfaces per use."
+    }
+  ],
+  "comparisons": [
+    {
+      "source": "concepts/proxy-gait-review/comparison.jpg",
+      "snapshot": "docs/references/proxy-gait-before-after.jpg",
+      "sha256": "bc7760a234e3057dcce65e0aab37b0e8f878e3c2a31c101f51b29fd919bd4a21",
+      "status": "latest study; pending feedback"
+    },
+    {
+      "source": "concepts/right-panel-redesign/three-panels.jpg",
+      "snapshot": "docs/references/right-panel-studies.jpg",
+      "sha256": "c2a14a82d1a255c33d0686190b3b67202fcbe9372e188388671e58463f4beefa",
+      "status": "latest study; pending feedback"
+    },
+    {
+      "source": "concepts/unique-main-captions/all-A-labels.jpg",
+      "snapshot": "docs/references/all-A-labels.jpg",
+      "sha256": "df28fd62c0c08cc7af4dd566c9db3a4e037ebbf3f6e2e2362f2f61f18a0ea850",
+      "status": "All 14 A captions now use unique device-specific names; layout verified in both formats."
+    }
+  ],
+  "source_hashes": {
+    "tools/sheet.py": "5c57efc5bf97cff715f59668f6c0f9a18cc6e2ea4f44ad736948bbc682e02559",
+    "tools/order.py": "1c4e8eed155bc9a3ffe152ad5a20aa5c049d9e09916e3118dcdd84f8ff0ae3fe",
+    "tools/omarchy-logo.svg": "e05ab723c3b9df19d4140b1d97eff0303ba07366aa1fe431b4ad0c8af7fc51f0",
+    "tools/starmap.py": "3ff4eb4a16a7347b5cd5599ba00715a1a34684341c360c06cb25ccd33d68fead",
+    "tools/starmap_study.py": "de79b2b572313076a54390dead9f1be28ac1e30989400127fa34260909c54c10",
+    "tools/mannequin3d/build.py": "72e32d03f32ec2f53ccbb38f50b85174889eece6e01a6ef17a5b0e312e43dc5b",
+    "tools/mannequin3d/proxy_pose.py": "2d1297090c904cee3e6fea74f63d7d965a94256304f0875b4f7e410e69b3dbc8",
+    "tools/hardware3d/right_aux_build.py": "4a4a8c842f66a43f5b4db73e8a19fe8c7561c7d07dd0508765d9e4b7d8355356"
+  }
+}

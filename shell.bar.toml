@@ -1,0 +1,10 @@
+# The bar is the darkest surface on screen, slightly see-through. Modules that
+# call for attention light up in Solar orange.
+[bar]
+background       = "#04060b"
+background-alpha = 0.90
+text             = "#d9e8ff"
+active           = "#ff8a3d"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28

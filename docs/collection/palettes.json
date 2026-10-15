@@ -1,0 +1,337 @@
+{
+ "note": "Owner-approved 2026-09-27: ten clearly distinct grounds (closest pair crimson-berry, OKLab dE 0.064; all others >= 0.076), defined by the measured rendered ground in OKLCH (targets_oklch; median of the 1080p ground). Saffron is unchanged. Accents come only from the theme palette (colors.toml) and keep >= 3:1 on their ground; saffron has light accents (bright_cyan / bright_green) because its accent labels sit on the darker vignetted edges. Dropped grounds map through old_to_new: umber->copper, moss->emerald, sage->teal, navy->ink, periwinkle->cobalt, plum->violet. Teal retargeted darker (OKLCH .232 .040 191, glow 0.10/0.28 via default_glow) so white text keeps 4.5:1 at Default; closest pairs now graphite-teal 6.2, ink-teal 6.4, crimson-berry 6.4.",
+ "theme_colours": {
+  "signal": "#4cc9ff",
+  "bloom": "#b97aff",
+  "sunrise": "#ff8a3d",
+  "pollen": "#f5c945",
+  "sprout": "#3ddc97",
+  "lagoon": "#4fe3d0",
+  "flare": "#ff5468",
+  "horizon": "#5b8dff",
+  "bright_red": "#ff8a98",
+  "bright_yellow": "#ffe08a",
+  "bright_green": "#86f0c0",
+  "bright_cyan": "#9af3e8",
+  "bright_blue": "#94b4ff",
+  "bright_magenta": "#d4b0ff"
+ },
+ "palettes": {
+  "crimson": [
+   356.6,
+   0.809,
+   0.154,
+   "pollen",
+   "signal"
+  ],
+  "copper": [
+   31.0,
+   0.934,
+   0.142,
+   "signal",
+   "pollen"
+  ],
+  "saffron": [
+   45,
+   0.85,
+   0.26,
+   "bright_cyan",
+   "bright_green"
+  ],
+  "emerald": [
+   130.0,
+   0.96,
+   0.085,
+   "pollen",
+   "bright_cyan"
+  ],
+  "teal": [
+   178.0,
+   1.0,
+   0.07,
+   "pollen",
+   "bright_green"
+  ],
+  "cobalt": [
+   209.2,
+   0.875,
+   0.173,
+   "pollen",
+   "sunrise"
+  ],
+  "ink": [
+   222.5,
+   0.681,
+   0.092,
+   "signal",
+   "pollen"
+  ],
+  "violet": [
+   267.2,
+   0.574,
+   0.185,
+   "lagoon",
+   "pollen"
+  ],
+  "berry": [
+   325.6,
+   0.884,
+   0.098,
+   "lagoon",
+   "pollen"
+  ],
+  "graphite": [
+   227.8,
+   0.053,
+   0.16,
+   "sprout",
+   "pollen"
+  ]
+ },
+ "old_to_new": {
+  "umber": "copper",
+  "moss": "emerald",
+  "sage": "teal",
+  "navy": "ink",
+  "periwinkle": "cobalt",
+  "plum": "violet",
+  "indigo": "cobalt",
+  "rust": "crimson",
+  "olive": "emerald",
+  "petrol": "teal",
+  "wine": "berry",
+  "royal": "ink",
+  "sand": "saffron",
+  "grass": "emerald"
+ },
+ "assignment_42": {
+  "o03": "crimson",
+  "b04": "emerald",
+  "o02": "cobalt",
+  "c087": "berry",
+  "o09": "emerald",
+  "c001": "violet",
+  "o01": "teal",
+  "c025": "ink",
+  "o13": "saffron",
+  "b02": "violet",
+  "o11": "teal",
+  "o05": "violet",
+  "c017": "crimson",
+  "c056": "cobalt",
+  "b13": "emerald",
+  "b11": "copper",
+  "c031": "emerald",
+  "c018": "ink",
+  "b12": "teal",
+  "o07": "saffron",
+  "o06": "graphite",
+  "b03": "saffron",
+  "b18": "copper",
+  "c044": "ink",
+  "c002": "teal",
+  "o14": "copper",
+  "c099": "cobalt",
+  "c042": "berry",
+  "b21": "graphite",
+  "c006": "saffron",
+  "c065": "crimson",
+  "o12": "cobalt",
+  "o08": "crimson",
+  "c038": "violet",
+  "c101": "copper",
+  "c103": "ink",
+  "c104": "berry",
+  "c105": "graphite",
+  "c106": "berry",
+  "c107": "graphite",
+  "c108": "berry",
+  "c110": "emerald"
+ },
+ "rule": "No two neighbours in collection order (the last sheet neighbours the first) share a ground or have grounds closer than OKLab dE 0.10; 4-5 sheets per ground (saffron 3-4).",
+ "levels": {
+  "note": "Ground levels (tools/ground_levels.py derives these; Default is `palettes` above). Per ground: HLS saturation and lightness of the gradient, opacity and HLS lightness of the central glow (Default glow 0.20 / 0.53). Rule, OKLab on the rendered ground: per ground, Muted and Vivid are the same Delta E d from Default; Muted = half the chroma at the same lightness defines d, Vivid adds chroma (lightness only as needed) to the same d; graphite steps 0.02 mostly in lightness. Caps: white text 4.5:1 and accents 3:1, or never below Default where Default is below; white text relaxed on saffron only. Lines, type and accents are identical at every level.",
+  "muted": {
+   "crimson": {
+    "sat": 0.405,
+    "light": 0.156,
+    "glow": 0.166,
+    "glow_light": 0.662
+   },
+   "copper": {
+    "sat": 0.438,
+    "light": 0.164,
+    "glow": 0.228,
+    "glow_light": 0.553
+   },
+   "saffron": {
+    "sat": 0.393,
+    "light": 0.323,
+    "glow": 0.259,
+    "glow_light": 0.543
+   },
+   "emerald": {
+    "sat": 0.363,
+    "light": 0.113,
+    "glow": 0.257,
+    "glow_light": 0.599
+   },
+   "teal": {
+    "sat": 0.302,
+    "light": 0.101,
+    "glow": 0.067,
+    "glow_light": 0.559
+   },
+   "cobalt": {
+    "sat": 0.404,
+    "light": 0.177,
+    "glow": 0.207,
+    "glow_light": 0.555
+   },
+   "ink": {
+    "sat": 0.434,
+    "light": 0.083,
+    "glow": 0.13,
+    "glow_light": 0.694
+   },
+   "violet": {
+    "sat": 0.29,
+    "light": 0.163,
+    "glow": 0.251,
+    "glow_light": 0.435
+   },
+   "berry": {
+    "sat": 0.463,
+    "light": 0.096,
+    "glow": 0.176,
+    "glow_light": 0.7
+   },
+   "graphite": {
+    "sat": 0.03,
+    "light": 0.131,
+    "glow": 0.223,
+    "glow_light": 0.494
+   }
+  },
+  "vivid": {
+   "crimson": {
+    "sat": 1.0,
+    "light": 0.205,
+    "glow": 0.068,
+    "glow_light": 0.477
+   },
+   "copper": {
+    "sat": 0.974,
+    "light": 0.192,
+    "glow": 0.081,
+    "glow_light": 0.258
+   },
+   "saffron": {
+    "sat": 0.691,
+    "light": 0.325,
+    "glow": 0.297,
+    "glow_light": 0.319
+   },
+   "emerald": {
+    "sat": 0.976,
+    "light": 0.14,
+    "glow": 0.075,
+    "glow_light": 0.258
+   },
+   "teal": {
+    "sat": 0.97,
+    "light": 0.083,
+    "glow": 0.072,
+    "glow_light": 0.339
+   },
+   "cobalt": {
+    "sat": 1.0,
+    "light": 0.227,
+    "glow": 0.24,
+    "glow_light": 0.281
+   },
+   "ink": {
+    "sat": 0.956,
+    "light": 0.102,
+    "glow": 0.296,
+    "glow_light": 0.383
+   },
+   "violet": {
+    "sat": 0.941,
+    "light": 0.196,
+    "glow": 0.201,
+    "glow_light": 0.512
+   },
+   "berry": {
+    "sat": 0.998,
+    "light": 0.135,
+    "glow": 0.285,
+    "glow_light": 0.349
+   },
+   "graphite": {
+    "sat": 0.076,
+    "light": 0.192,
+    "glow": 0.133,
+    "glow_light": 0.673
+   }
+  }
+ },
+ "targets_oklch": {
+  "crimson": [
+   0.27,
+   0.095,
+   24
+  ],
+  "copper": [
+   0.32,
+   0.07,
+   64
+  ],
+  "saffron": [
+   0.482,
+   0.095,
+   88.5
+  ],
+  "emerald": [
+   0.285,
+   0.085,
+   148
+  ],
+  "teal": [
+   0.232,
+   0.04,
+   191
+  ],
+  "cobalt": [
+   0.3,
+   0.08,
+   252
+  ],
+  "ink": [
+   0.205,
+   0.055,
+   265
+  ],
+  "violet": [
+   0.265,
+   0.095,
+   302
+  ],
+  "berry": [
+   0.232,
+   0.085,
+   351
+  ],
+  "graphite": [
+   0.285,
+   0.006,
+   260
+  ]
+ },
+ "default_glow": {
+  "teal": [
+   0.1,
+   0.28
+  ]
+ }
+}

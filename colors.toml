@@ -1,0 +1,45 @@
+# p(bloom) — deep-space navy, and a future that is about to flower.
+# The ground is almost black with a blue cast. Text is ice white. Colour comes
+# in three leads: Signal blue, Bloom violet and Sunrise orange, with Pollen
+# gold for the things worth finding.
+
+mode                     = "dark"
+
+# Signal, selection and the de-emphasised ramp
+accent                   = "#4cc9ff"  # Signal
+selection                = "#1f3a5f"
+muted                    = "#586c96"
+
+# Ground, from the deepest surface up to the elevated one
+background               = "#090d16"
+dark_background          = "#070a11"
+darker_background        = "#04060b"
+lighter_background       = "#121a2a"
+
+# Text, from de-emphasised up to the cursor
+foreground               = "#d9e8ff"
+dark_foreground          = "#7389ad"
+light_foreground         = "#b4c8e8"
+bright_foreground        = "#ffffff"
+
+# Window borders. The focused window is framed in Signal running into Bloom.
+hyprland_active_border   = "rgba(4cc9ffee) rgba(b97affee) 45deg"
+hyprland_inactive_border = "rgba(586c9666)"
+
+# Named colours
+red                      = "#ff5468"  # Flare
+orange                   = "#ff8a3d"  # Sunrise
+yellow                   = "#f5c945"  # Pollen
+green                    = "#3ddc97"  # Sprout
+cyan                     = "#4fe3d0"  # Lagoon
+blue                     = "#5b8dff"  # Horizon
+magenta                  = "#b97aff"  # Bloom
+brown                    = "#c19a5b"  # Brass
+
+# Bright variants. Lighter, not darker — this ground is dark.
+bright_red               = "#ff8a98"
+bright_yellow            = "#ffe08a"
+bright_green             = "#86f0c0"
+bright_cyan              = "#9af3e8"
+bright_blue              = "#94b4ff"
+bright_magenta           = "#d4b0ff"

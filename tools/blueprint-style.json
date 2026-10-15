@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "canvas": [1916, 821],
+  "font_regular": "/usr/share/fonts/gsfonts/NimbusSans-Regular.otf",
+  "font_bold": "/usr/share/fonts/gsfonts/NimbusSans-Bold.otf",
+  "font_family": "Nimbus Sans",
+  "ink": "#c9dce8",
+  "accent": "#78b8d2",
+  "legend": {"x": 42, "title_y": 622, "width": 396},
+  "code": {"right": 1865, "baseline": 32},
+  "emblem": {"center": [1804, 706], "radius": 70, "logo_width": 76}
+}

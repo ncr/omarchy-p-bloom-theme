@@ -1,0 +1,1220 @@
+{
+  "o03": {
+    "file": "03-fusion-transport.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.49,
+        "y": 0.39,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.57,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.41,
+        "y": 0.53,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.72
+      },
+      {
+        "x": 0.575,
+        "y": 0.29000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.29
+      }
+    ]
+  },
+  "o10": {
+    "file": "10-truth-lamp.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.497,
+        "y": 0.38,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.38,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.417,
+        "y": 0.52,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.1
+      },
+      {
+        "x": 0.582,
+        "y": 0.28,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.47
+      }
+    ]
+  },
+  "o02": {
+    "file": "02-sky-racer.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.25,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.81
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.35
+      }
+    ]
+  },
+  "c087": {
+    "file": "087-neutrino-bell.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.11,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.74
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.96
+      }
+    ]
+  },
+  "o09": {
+    "file": "09-tether-climber.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.59,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.52
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.11
+      }
+    ]
+  },
+  "c001": {
+    "file": "001-light-sail.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.38,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.56,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.52,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.05
+      },
+      {
+        "x": 0.585,
+        "y": 0.28,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.15
+      }
+    ]
+  },
+  "o01": {
+    "file": "01-quantum-simulator.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.477,
+        "y": 0.43,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.6,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.39699999999999996,
+        "y": 0.5700000000000001,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.21
+      },
+      {
+        "x": 0.5619999999999999,
+        "y": 0.32999999999999996,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.9
+      }
+    ]
+  },
+  "c025": {
+    "file": "025-fibre-braid.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.52,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.15
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.04
+      }
+    ]
+  },
+  "o13": {
+    "file": "13-proxy.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.48,
+        "y": 0.43,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.22,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.39999999999999997,
+        "y": 0.5700000000000001,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.98
+      },
+      {
+        "x": 0.565,
+        "y": 0.32999999999999996,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.45
+      }
+    ]
+  },
+  "c100": {
+    "file": "100-plant-alibi.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.65,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.82
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.57
+      }
+    ]
+  },
+  "o11": {
+    "file": "11-organ-foundry.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.68,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.95
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.84
+      }
+    ]
+  },
+  "o05": {
+    "file": "05-cortical-mesh.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.09,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.75
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.0
+      }
+    ]
+  },
+  "c017": {
+    "file": "017-memory-kiln.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.19,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.79
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.32
+      }
+    ]
+  },
+  "c056": {
+    "file": "056-dune-skimmer.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.86,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.01
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.06
+      }
+    ]
+  },
+  "c010": {
+    "file": "010-sock-oracle.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.47,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.42
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.07
+      }
+    ]
+  },
+  "c080": {
+    "file": "080-compliment-mill.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.16,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.16
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.79
+      }
+    ]
+  },
+  "c031": {
+    "file": "031-petal-eye.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.13,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.91
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.68
+      }
+    ]
+  },
+  "c018": {
+    "file": "018-lunar-porch.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.3,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.14
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.24
+      }
+    ]
+  },
+  "o04": {
+    "file": "04-greener.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.505,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.1,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.425,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.15
+      },
+      {
+        "x": 0.59,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.39
+      }
+    ]
+  },
+  "o07": {
+    "file": "07-air-refinery.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.57,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.67
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.03
+      }
+    ]
+  },
+  "o06": {
+    "file": "06-bounder.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.21,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.39
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.11
+      }
+    ]
+  },
+  "c030": {
+    "file": "030-advice-filter.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.62,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.51
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.57
+      }
+    ]
+  },
+  "c070": {
+    "file": "070-queue-garden.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.46,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.1
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.41
+      }
+    ]
+  },
+  "c044": {
+    "file": "044-coral-cradle.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.62,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.03
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.64
+      }
+    ]
+  },
+  "c002": {
+    "file": "002-tidal-loom.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.74,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.91
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.17
+      }
+    ]
+  },
+  "o14": {
+    "file": "14-presence-rig.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.11,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.08
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.92
+      }
+    ]
+  },
+  "c099": {
+    "file": "099-sleep-cocoon.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.1,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.22
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.88
+      }
+    ]
+  },
+  "c042": {
+    "file": "042-wind-kite.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.96,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.27
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.1
+      }
+    ]
+  },
+  "c060": {
+    "file": "060-meeting-buoy.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.58,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.82
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.71
+      }
+    ]
+  },
+  "c006": {
+    "file": "006-manta-foil.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.48,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.91
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.17
+      }
+    ]
+  },
+  "c065": {
+    "file": "065-seam-surgeon.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.27,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.45
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.95
+      }
+    ]
+  },
+  "o12": {
+    "file": "12-volumetric-stage.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.83,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.63
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.21
+      }
+    ]
+  },
+  "o08": {
+    "file": "08-aroma-organ.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.47,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.16
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.72
+      }
+    ]
+  },
+  "c038": {
+    "file": "038-quiet-stair.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.41,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.3
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.59
+      }
+    ]
+  },
+  "c101": {
+    "file": "101-velvet-hammer.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.2,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.63
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.8
+      }
+    ]
+  },
+  "c103": {
+    "file": "103-bubble-bailiff.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.63,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.69
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.45
+      }
+    ]
+  },
+  "c104": {
+    "file": "104-key-concord.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.04,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.7
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.2
+      }
+    ]
+  },
+  "c105": {
+    "file": "105-metric-embassy.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.69,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.13
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.63
+      }
+    ]
+  },
+  "c106": {
+    "file": "106-muon-customs.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.41,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.77
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.57
+      }
+    ]
+  },
+  "c107": {
+    "file": "107-resonance-tailor.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.47,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.5
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.21
+      }
+    ]
+  },
+  "c108": {
+    "file": "108-suture-loom.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.58,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.5
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.01
+      }
+    ]
+  },
+  "c110": {
+    "file": "110-spin-table.webp",
+    "loopSeconds": 24,
+    "spots": [
+      {
+        "x": 0.5,
+        "y": 0.4,
+        "radius": 0.1,
+        "cycles": 2,
+        "phase": 0.0,
+        "orbitX": 0.032,
+        "orbitY": 0.045
+      },
+      {
+        "x": 0.42,
+        "y": 0.54,
+        "radius": 0.055,
+        "cycles": 3,
+        "phase": 0.72
+      },
+      {
+        "x": 0.585,
+        "y": 0.30000000000000004,
+        "radius": 0.045,
+        "cycles": 4,
+        "phase": 0.19
+      }
+    ]
+  }
+}

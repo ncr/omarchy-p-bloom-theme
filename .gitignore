@@ -1,0 +1,13 @@
+__pycache__/
+.DS_Store
+concepts/
+tmp/
+
+# Runtime registry lock; never part of the wallpaper source.
+docs/century/catalog.lock
+
+# Rendered wallpaper sets and release archives (GitHub Release assets).
+dist/
+
+# Exported drawing geometry: a release archive, see tools/fetch_render_assets.py
+tools/assets/

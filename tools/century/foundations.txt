@@ -1,0 +1,100 @@
+light-sail|Solar radiation pressure, deployable booms and attitude control.
+tidal-loom|Shrouded water turbines, reversing flow and sealed electrical generation.
+dew-crown|Radiative condensation, wetting textures and gravity-fed collection.
+seed-courier|Capsule indexing, mapped planting and controlled soil penetration.
+glass-river|Glass batch separation, controlled melting and roller drawing.
+manta-foil|Hydrofoil lift, retractable struts and guarded marine propulsion.
+hush-field|Microphone feedback and active control of sound in a limited region.
+storm-petal|Deployable rigid shells, continuous weather seals and insulated service cores.
+load-fern|External load paths, compliant springs and fitted human interfaces.
+sock-oracle|Fabric inspection, gentle indexing and mechanical sorting.
+ring-tender|Soft docking, relative navigation and reaction-control thrusters.
+inertia-bank|Rotational kinetic energy, vacuum enclosures and magnetic bearings.
+river-sieve|Cross-flow membrane filtration, controlled backwashing and floating service access.
+pollen-steward|Machine vision, compliant contact and controlled pollen transfer.
+road-mender|Surface inspection, debris removal and metered repair-material delivery.
+snow-thread|Wide articulated tracks, low ground pressure and forward terrain sensing.
+memory-kiln|Ultrafast writing of nanostructures in glass and optical readout.
+lunar-porch|Rear-entry suitports and separation of exterior dust from a clean cabin.
+hand-stead|Motion sensing, a tool gimbal and a broad-contact forearm cuff.
+snooze-engine|Timed cues, low-speed drive control and obstacle detection.
+sweep-net|Tensioned capture structures, momentum exchange and controlled deorbiting.
+ember-vault|Resistive heating, ceramic sensible-heat storage and closed heat exchangers.
+brine-garden|Selective ion transport, controlled precipitation and separated process streams.
+root-post|Root-zone sensing, metered injection and local nutrient delivery.
+fibre-braid|Moving yarn carriers, a central mandrel and controlled braid angle.
+canyon-car|Cable-supported transport, traction bogies and damped cabin suspension.
+quasar-clock|Laser-cooled atoms, vacuum optics and stable optical frequency references.
+heat-window|Layered optical materials, edge control and measured daylight exposure.
+breath-shell|Monitored gas circulation, replaceable sorbent and separated breathing paths.
+advice-filter|Speech pattern recognition, an acoustic shutter and explicit user consent.
+petal-eye|Segmented reflective optics, wavefront control and passive thermal shielding.
+mantle-needle|Closed-loop geothermal exchange, controlled drilling and sealed circulation.
+ice-stitcher|Metered water delivery, heat extraction and successive thin ice layers.
+mycelium-loom|Fungal fibre growth, breathable molds and controlled drying.
+metal-orchard|Gas atomisation, inert processing and screened metal powder.
+rescue-fan|Ducted lift, distributed propulsion and controlled suspended loads.
+stone-listener|Acoustic travel times, contact transducers and inverse reconstruction.
+quiet-stair|Parallel linkages, level load platforms and obstruction sensing.
+stride-return|Elastic energy storage, ankle cams and load-spreading cuffs.
+later-anchor|Timed mechanical latching and a plainly accessible manual override.
+wheelhouse|Angular momentum storage, magnetic bearings and spacecraft attitude control.
+wind-kite|Crosswind flight, tether traction and a generating ground winch.
+flood-lung|Low-head pumping, screened suction and cam-lock hose connections.
+coral-cradle|Nursery fragments, low-shear circulation and compliant handling.
+patch-arm|Localized deposition, mechanical fixturing and a small process shield.
+cargo-snake|Articulated electric modules, steering coordination and mechanical coupling.
+dark-bloom|Spectral filters, passive optical collection and cooled low-noise detectors.
+air-root|Particle filtration, adsorption and separately serviced treatment stages.
+cold-mantle|Liquid microchannels, a thermal buffer and local circulation.
+pet-diplomat|Posture observation, routine comparison and a simple request switch.
+ice-mule|Low-speed rover suspension, insulated storage and sealed sample handling.
+salt-delta|Ion-selective membranes and energy recovered from a salinity gradient.
+mist-spire|Fog droplet interception, porous fibre meshes and covered drainage.
+spore-library|Sealed culture storage, environmental control and identity verification.
+ceramic-nest|Paste extrusion, gantry positioning and controlled refractory drying.
+dune-skimmer|Variable wheel contact area, low-pressure traction and passive shade.
+gravity-pencil|Atom interferometry, a vacuum fall tube and vibration isolation.
+frost-house|Insulation, phase-change thermal reserves and temperature monitoring.
+reach-friend|Passive tool-weight compensation and articulated shoulder support.
+meeting-buoy|Speech-context classification and a visible mechanical status flag.
+shade-courier|Radiative thermal shielding, vacuum insulation and low-thrust electric propulsion.
+sun-fold|Tracked concentrating reflectors and a small thermal receiver.
+well-warden|Down-well sensing, sealed cable feedthroughs and environmental time series.
+canopy-weaver|Broad-contact tree saddles, cable tensioning and load-limited handling.
+seam-surgeon|Orbital tool motion, prepared pipe joints and nondestructive inspection.
+canal-thread|Shallow-draft hulls, separable towing joints and azimuth propulsion.
+spectrum-harp|Diffraction gratings, folded optics and calibrated intensity detection.
+bridge-kit|Pinned trusses, interlocking deck panels and distributed bank support.
+balance-thread|Depth sensing, local mapping and directional tactile feedback.
+queue-garden|Persistent position registers, ticket reading and a mechanical progress display.
+regolith-kite|Rotary excavation, tether support, particle screening and sealed sample handling.
+pulse-reef|Relative wave motion, a magnetic translator and a moored reaction spar.
+blue-loop|Biofilm treatment, membrane separation and a distinct non-potable supply.
+algae-ribbon|Thin-film cultivation, light exposure and controlled gas exchange.
+foam-forge|Gas introduction into metal, split molds and controlled solidification.
+cliff-step|Alternating clamps, prepared structural anchors and hydraulic load transfer.
+fault-lantern|Coherent optical comparison of a surface before and during loading.
+sand-archive|Dry storage, passive moisture buffering and documented physical access.
+dive-spine|Close-body equipment mounting, controlled buoyancy and accessible releases.
+compliment-mill|Visual inspection, specific language generation and a small paper printer.
+comet-anchor|Low-torque coring, surface reaction forces and in-situ material analysis.
+night-cell|Radiative sky cooling and thermoelectric conversion of a temperature difference.
+silt-heron|Low ground pressure, short sediment coring and quasi-static legged motion.
+soil-choir|Distributed soil sensing, shared calibration and comparison of local trends.
+thread-doctor|Optical weave inspection, yarn tension and small-scale reweaving.
+island-wing|Ground-effect aerodynamics, broad wings and spray management.
+neutrino-bell|Photomultiplier sensing of rare light flashes in a detector medium.
+floating-court|Compartmented buoyancy, flexible joints and shore moorings.
+grip-print|Tendon transmission, contact sensing and individually fitted interfaces.
+crumb-pilot|Surface mapping, edge sensing and miniature vacuum collection.
+star-post|Laser communication, precision pointing and acquisition by radio.
+district-heart|Vapour-compression heat transfer, reversible valves and district water loops.
+cloud-cistern|Buoyant lift, suspended loads and controlled winch transfer.
+orchard-tender|Fruit localisation, compliant grasping and cushioned transfer.
+brick-return|Compliant clamping, controlled vibration and mortar separation.
+rail-pod|Rail running gear, automatic coupling and route reservation.
+echo-cartographer|Complementary optical and acoustic ranging with local navigation.
+shade-orchard|Controlled louvers, passive shade and separated rainwater drainage.
+sleep-cocoon|Supported posture, parallel seat links and adjustable head contact.
+plant-alibi|Measured moisture, metered watering and light-exposure logging.

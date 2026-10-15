@@ -1,0 +1,475 @@
+{
+  "updated_at": "2026-09-27T00:00:00+00:00",
+  "finalized_count": 42,
+  "queued_count": 2,
+  "archived_rejected_count": 80,
+  "cutoff_status": "42 retained. 2026-09-27 owner swap: eight sheets left the collection (retired_2026_09_27) and eight p(bloom) sheets joined; order and grounds in docs/collection/palettes.json assignment_42.",
+  "finalized": [
+    {
+      "id": "o03",
+      "title": "FUSION TRANSPORT",
+      "source": "concepts/development/03-fusion-transport.webp",
+      "sha256": "0f805d425b38674ba34538f8b9a5ca8142bb98382dbd5ae5c69466c3b00427e6",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "3cfc8882fd1c8ba981bb313db1305f1d88b647eefe592ca82bb4d9a475ee563e",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "7f7b360ead34e7c4bb1d88a20f5b5e7e963518f24ad847c87b1703da261ddbcd"
+    },
+    {
+      "id": "b04",
+      "title": "FIRST LIGHT",
+      "source": "concepts/bloom-ten/21x9/b04-first-light.webp",
+      "status": "p(bloom) series / retained 2026-09-27 (collection swap)",
+      "ncr": 114
+    },
+    {
+      "id": "o02",
+      "title": "SKY RACER",
+      "source": "concepts/development/02-sky-racer.webp",
+      "sha256": "92d0c0034dfdfee96cf39c68664512f338fc3ee569993b867ee4cc4eade86382",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "a4e036e039ca38e19776ba8ee1fa09fa132d8ca753ae33f0c7a154dc79ae93ba",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "1b60eacec605eb6dc5daf6e6177381c8d445739388699dc34041df260c51a82e"
+    },
+    {
+      "id": "c087",
+      "title": "NEUTRINO BELL",
+      "source": "concepts/century/wide/087-neutrino-bell.webp",
+      "sha256": "af9af4a2c5cebedae22f1a42f293960b02d56405ee27b60bf1e45180ddad2a56",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "7b4ce687d4f0435ea042ffdf57fc9cf724fc91ff9daf6dc6f4509ca43a25c900",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "7e9fc398599e77eddf85810f1ffa02e6ab6957c0283f93f7f1b323826628613e"
+    },
+    {
+      "id": "o09",
+      "title": "TETHER CLIMBER",
+      "source": "concepts/development/09-tether-climber.webp",
+      "sha256": "e7f76fde73bde21f17132adc6d1f3ef8f4450bc27c033d35b4f3783bd12b1e6d",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "2803302675c7513b9ef0cf368e1d2f141573cd82da71a81578b8cfbd5d8ca4bb",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "e6a4508db7f8072fdb6db9c1dddd58809bc19cdeb9a0e441a4d335a15aacf412"
+    },
+    {
+      "id": "c001",
+      "title": "LIGHT SAIL",
+      "source": "concepts/century/wide/001-light-sail.webp",
+      "sha256": "09d09c053351547f242d30ef32e7bf53affa1033610ae618e988b8cfe8b59e06",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "3810b37cadea7b923f2344b0af271eba23223eab0b1f6ea129d3920e08632d67",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "3614b8ef7b1481cfc0fa68f18d33ffa2f860da3a22c7173f83ce8b946fcfb10d"
+    },
+    {
+      "id": "o01",
+      "title": "QUANTUM SIMULATOR",
+      "source": "concepts/development/01-quantum-simulator.webp",
+      "sha256": "8b1bb009f9571416f97b22db88c34f1a06f80d9d019d238b12e0699499f82630",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "3558318b2cdfae28946f33a74e6d7a52dea1995af5644291341a204227cabecb",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "4697676a45c4af615aaad2effcef2276d0bd99266b153c00358fbe2198f8b425"
+    },
+    {
+      "id": "c025",
+      "title": "FIBRE BRAID",
+      "source": "concepts/century/wide/025-fibre-braid.webp",
+      "sha256": "a2f5d7d59b24201b854a275609db2b98805930491c23fe0359a75aa32d3bec60",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "723cb37b2db3e689a891850ddf383adecd8687d4e75a824b8976504a1254aaa5",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "c105a1509a8380162ab78aea25c2aec491bc7274a75d3fbe0e82d2edd46228d5"
+    },
+    {
+      "id": "o13",
+      "title": "PROXY",
+      "source": "concepts/development/13-proxy.webp",
+      "sha256": "48b5e0c70f0b473e8554bb5ea9f71f977714e243a0443a0fbf64c868d4433ae7",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "bcf35064907527ff0d273cdec83ba516ede73a4d34a6c9382acc1dffdf6492be",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "a3da7a3b974b30258627c17904a5e6064e7448db40f1faab7de713389fa8e1ec"
+    },
+    {
+      "id": "b02",
+      "title": "REEF NURSERY",
+      "source": "concepts/bloom-ten/21x9/b02-reef-nursery.webp",
+      "status": "p(bloom) series / retained 2026-09-27 (collection swap)",
+      "ncr": 112
+    },
+    {
+      "id": "o11",
+      "title": "ORGAN FOUNDRY",
+      "source": "concepts/development/11-organ-foundry.webp",
+      "sha256": "4c1fd9eda9f86a37e77634b965477669408a325bf728148ed09e1c8b92993d4d",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "1af3d2d6dab4bdb343769cada5127ae9b154bfe05a8a5c85346066da5ca68b81",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "6fcdcaa85597f88526d18ce33c23fe8663365c26c433fd9268c995e9cd9817ad"
+    },
+    {
+      "id": "o05",
+      "title": "CORTICAL MESH",
+      "source": "concepts/development/05-cortical-mesh.webp",
+      "sha256": "7b01344ee2b2c6e24e4f8a0ba1085f78780b4c760aaef815c062516ec79a1a8a",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "784c99ea6040d641484cbd20b8949bc057080e6d3cabc451c30ab50936e0f4ad",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "7556175fc948085a29703ec921867ec3f7050bafdba207b67705fe01022acad2"
+    },
+    {
+      "id": "c017",
+      "title": "MEMORY KILN",
+      "source": "concepts/century/wide/017-memory-kiln.webp",
+      "sha256": "964fb7cd9bd5fe55f86a6f6c758eb5ec217bbbe93085384094bf30c893806b99",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "1b2a3416e421f736d79a13b0bcf004e9dd70e8e3d9a8ebde9bbb2556d9ed1dec",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "7e684cf69ed7e2c5516135892a5051a83a5fed35307102c834a71da4624daefc"
+    },
+    {
+      "id": "c056",
+      "title": "DUNE SKIMMER",
+      "source": "concepts/century/wide/056-dune-skimmer.webp",
+      "sha256": "37fbdcc30e249fb1cb7347ebd664583162d57d0a5aca855f45a0654320f4bcf2",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "163173f56c2d49859cf5f382fc6b6c403e890c967371d05b9a66c9fe6ae50280",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "3278d3b53fed9dc331991610812804ce0161c5adc3a3c7cdd399dfb29ce7b77c"
+    },
+    {
+      "id": "b13",
+      "title": "GREEN FORGE",
+      "source": "concepts/bloom-ten/21x9/b13-green-forge.webp",
+      "status": "p(bloom) series / retained 2026-09-27 (collection swap)",
+      "ncr": 123
+    },
+    {
+      "id": "b11",
+      "title": "CLEAR SIGHT",
+      "source": "concepts/bloom-ten/21x9/b11-clear-sight.webp",
+      "status": "p(bloom) series / retained 2026-09-27 (collection swap)",
+      "ncr": 121
+    },
+    {
+      "id": "c031",
+      "title": "PETAL EYE",
+      "source": "concepts/century/wide/031-petal-eye.webp",
+      "sha256": "f021fa6ce679f6d3eef8795a2d779172f7a727db4ff33e2dc13f1db71cf07650",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "d545238f5d6d7f9e55af2e8464cab836ca19a8f6ffeb0ce3ef3d5634cf864057",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "cdf8ffa6030a909f619545ce58ede82b76c6198bdaf0a7b4c8bebba0aa0f0056"
+    },
+    {
+      "id": "c018",
+      "title": "LUNAR PORCH",
+      "source": "concepts/century/wide/018-lunar-porch.webp",
+      "sha256": "0d2eb6314dc35406446b3d8f1c447216001289bfcbb711861f8749c76f3a9ce2",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "9d13214b9571647cc45c8c2a931dcd76d52a0e5e756a1123cb2bcc3bf52d2a45",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "6fa166827c8816b1c51aff41cf0af6f8b46069b18654a6ee00d1ff279d1a9bf4"
+    },
+    {
+      "id": "b12",
+      "title": "WIND FREIGHTER",
+      "source": "concepts/bloom-ten/21x9/b12-wind-freighter.webp",
+      "status": "p(bloom) series / retained 2026-09-27 (collection swap)",
+      "ncr": 122
+    },
+    {
+      "id": "o07",
+      "title": "AIR REFINERY",
+      "source": "concepts/development/07-air-refinery.webp",
+      "sha256": "4d1de54631e824ea7e1fd3c89b9b37004607d6c0929ce65fc2f87f5e5f6543ef",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "6cb080913c255b9392b01ffbb82fe029c371054c6dfe5ed9745af94b73c6139a",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "ca0f72763a47e806d5a3c3b3a0b40f0a0220e5d5130f69ec628f609cef5829a5"
+    },
+    {
+      "id": "o06",
+      "title": "BOUNDER",
+      "source": "concepts/development/06-bounder.webp",
+      "sha256": "c6a122525843b4fc4c2cc39b28ff22297b2e0364a95be2865effc85115ae6366",
+      "status": "current finished master / retained",
+      "pre_format_sha256": "34d5bd14638ae4a39d9391c001213130205683e47ad8dfb4e5e264876388c7e8",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "a14f74a506e6cda84b348cead70aa52e7ce9888b16c8daf37fef24bba6f062ea"
+    },
+    {
+      "id": "b03",
+      "title": "SUN STILL",
+      "source": "concepts/bloom-ten/21x9/b03-sun-still.webp",
+      "status": "p(bloom) series / retained 2026-09-27 (collection swap)",
+      "ncr": 113
+    },
+    {
+      "id": "b18",
+      "title": "STELLARATOR HEARTH",
+      "source": "concepts/bloom-ten/21x9/b18-stellarator-hearth.webp",
+      "status": "p(bloom) series / retained 2026-09-27 (collection swap)",
+      "ncr": 142
+    },
+    {
+      "id": "c044",
+      "title": "CORAL CRADLE",
+      "source": "concepts/century/wide/044-coral-cradle.webp",
+      "sha256": "4f8649b655b52daebb768cd373439ff922460af20a45647adc25e32409241180",
+      "status": "retained / quality redesign awaiting user review",
+      "previous_sha256": "611f5ba139b03e0f503c0a26d535b3ba56372cd1e188c7a6765489c1eca32e5b",
+      "pre_format_sha256": "b5f81dd3b9866090f9086ee3279154a3b311336fb70719015511529199d3a0af",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "7238e2ed8cc6cb83d8afc6dcb51a502ae293f27108dc6e91d55639a63aecefbc"
+    },
+    {
+      "id": "c002",
+      "title": "TIDAL LOOM",
+      "source": "concepts/century/wide/002-tidal-loom.webp",
+      "sha256": "2e567b24d32479594080e8565a9b75094a4cd45b981222032df16e005a55ab23",
+      "status": "retained / quality redesign awaiting user review",
+      "previous_sha256": "c76e96fb8c5dd286288c8a9332816c4cbce5a11c9911ec9a3972451abbac7e47",
+      "pre_format_sha256": "eb18bd61b7d5e8d0a234f2937cab12340d29d930786ab38993a71310f4407be7",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "2066efdc360fc4473caaf2f70d053c7f7d73eeb790d8cd7f44174d46c1f04617"
+    },
+    {
+      "id": "o14",
+      "title": "PRESENCE RIG",
+      "source": "concepts/development/14-presence-rig.webp",
+      "sha256": "322c768fbaa91e3ecea70f2cf4836084d443b4c0153eba5b96177a092384d046",
+      "status": "retained / quality redesign awaiting user review",
+      "previous_sha256": "ca43e2ed2468b7e578a1c7a90728b47af1dd8627023f9c035d37c9ed57c6b8c5",
+      "pre_format_sha256": "c95e2fc3f8a465bbd31bc887b95dced4ee509e44357c3a09af80e8032de0d788",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "34655a8a986e79d3db81f712a4096c3dc74921bde5cea0b4b74b475b6ca04513"
+    },
+    {
+      "id": "c099",
+      "title": "SLEEP COCOON",
+      "source": "concepts/century/wide/099-sleep-cocoon.webp",
+      "sha256": "811edec5a1a1fbaf89d512993ad57c71070b077b94cac1b77bbcc92855af4e9e",
+      "status": "retained / quality redesign awaiting user review",
+      "previous_sha256": "d10ce1b2895cb0456f90465c1fd55f8267cd44c6cd8e611f8b3fa5369eee8000",
+      "pre_format_sha256": "d50080d489bde7c6a24fd2026fe28264daea489c3d6b355d7a94aa6e19c03d0f",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "01738e5f0f95136ab7e7193a74183c2dcd1d1bce17e46efb02533f582800a63f"
+    },
+    {
+      "id": "c042",
+      "title": "WIND KITE",
+      "source": "concepts/century/wide/042-wind-kite.webp",
+      "sha256": "016055ce47b059497fca9766947e07b4897f4a29701828f5197d7c798df35294",
+      "status": "retained / quality redesign awaiting user review",
+      "previous_sha256": "410c4d4c8b50384b3fccb0671dd6c65c362d6ee759d1cca1901dbddf19e31fa8",
+      "pre_format_sha256": "9178e3460cd13668fc6a7f3777049fc945a4dae7b53fef13737832f339ca2c6e",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "f87061e9a3a4068f8ca6110bfd952d60a7e8210e6ec3454fe2bd6fe22d327a85"
+    },
+    {
+      "id": "b21",
+      "title": "CRATER EAR",
+      "source": "concepts/bloom-ten/21x9/b21-crater-ear.webp",
+      "status": "p(bloom) series / retained 2026-09-27 (collection swap)",
+      "ncr": 145
+    },
+    {
+      "id": "c006",
+      "title": "MANTA FOIL",
+      "source": "concepts/century/wide/006-manta-foil.webp",
+      "sha256": "611f6f5d57738e5c59fde807404bb8566433f58b5d2538fc3e7b37b4854af805",
+      "status": "retained / quality redesign awaiting user review",
+      "previous_sha256": "624fd5168d1caa0759db8b291563e16fdb08deb859ea9fb4b42ff6e73ac5d581",
+      "pre_format_sha256": "f7e02df94a8cc22411223802df6afc617d52ccccef19e1c023b73ddd8b2d636c",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "8d36789d6927e566bb4cdee7860a47b990f73a9eca1d194af294149a5883979b"
+    },
+    {
+      "id": "c065",
+      "title": "SEAM SURGEON",
+      "source": "concepts/century/wide/065-seam-surgeon.webp",
+      "sha256": "02004f7cfcec1e33f5d5ae9f9b609421803ee482f6b0209384e4bd0fcf8160ea",
+      "status": "retained / quality redesign awaiting user review",
+      "previous_sha256": "e1b8ab0143027d8811e152429d494eaae28afd41563f7c21d71daaf5d1d0573c",
+      "pre_format_sha256": "9dc8dd3a12062a86ae811a6dd5155b83d0690f369ad5e0ee3cfdad8cd4b0cf2e",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "ce536a99218c49917748c268bfcabc7b8ac77f46e54fc85a5d6d97f14cb76565"
+    },
+    {
+      "id": "o12",
+      "title": "VOLUMETRIC STAGE",
+      "source": "concepts/development/12-volumetric-stage.webp",
+      "sha256": "a71186ddf31ae140b582ae86e36e78212549548ad706e8385e2f89434cfc3212",
+      "status": "retained / quality redesign awaiting user review",
+      "previous_sha256": "9b854d968491a5677c38f7582f45cb03d9f3d75cd81d966ae09a16a6b416f1d2",
+      "pre_format_sha256": "32e630299f10754449ac1b5123fa66afe930e47769d3d935bb9700e26f9dee14",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "0533f668517a3de24004855f08a9050a6826a5b73d270e5a5dc5797433b14cf6"
+    },
+    {
+      "id": "o08",
+      "title": "AROMA ORGAN",
+      "source": "concepts/development/08-aroma-organ.webp",
+      "sha256": "034477b3ca16e0396372d6e8ec05a6af26b2391e79e00f8c587bacd2ad61ffa1",
+      "status": "retained / quality redesign awaiting user review",
+      "previous_sha256": "aa1ce542ab26518e7be050fa0a218015268334e4d9c40313be867c19e21119f0",
+      "pre_format_sha256": "6ad29ca8e368ea9c754b3386e0e58ca7489d87696b135dad2e9b6042af0a2f5b",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "b2ea24c195343b7feb98ccf8275fc2491f1bab4fa0601766c3fd96ee4a1b5d33"
+    },
+    {
+      "id": "c038",
+      "title": "QUIET STAIR",
+      "source": "concepts/century/wide/038-quiet-stair.webp",
+      "sha256": "000d5b9f1a49620f77f963b90c5c7f497ed75fa744b3f3658115ae653c765c1d",
+      "status": "retained / quality redesign awaiting user review",
+      "previous_sha256": "fdeba935e7f94d5afc935c8df2bd34d43f7752f3dfaba35f381effff611e54c9",
+      "pre_format_sha256": "759b30cd2bac9b49c2c6f5234f168f8f571ede18cd5bfa516ff19e951916ce11",
+      "format_revision": "attached-captions-2026-09-25",
+      "pre_triptych_sha256": "abfabd0788805a82928dadd33a8eed5471bf424888dbf400061df6501a272ba6"
+    },
+    {
+      "id": "c101",
+      "title": "VELVET HAMMER",
+      "source": "concepts/century/wide/101-velvet-hammer.webp",
+      "status": "autonomous extension / retained",
+      "format_revision": "extension-42-2026-09-25",
+      "sha256": "029d940b29a407aac9b35e764a913df859a3f58cdbdbe003c0d130a480a830a1"
+    },
+    {
+      "id": "c103",
+      "title": "BUBBLE BAILIFF",
+      "source": "concepts/century/wide/103-bubble-bailiff.webp",
+      "status": "autonomous extension / retained",
+      "format_revision": "extension-42-2026-09-25",
+      "sha256": "bf039f0de35fa0fb00e739676d8701eb73f24395a8ef33e68d2aded06f197eb2"
+    },
+    {
+      "id": "c104",
+      "title": "KEY CONCORD",
+      "source": "concepts/century/wide/104-key-concord.webp",
+      "status": "autonomous extension / retained",
+      "format_revision": "extension-42-2026-09-25",
+      "sha256": "3f66908b78df01cbacbc0957ecf33c93566b9cd6ac4724c1842dc4833b1c1919"
+    },
+    {
+      "id": "c105",
+      "title": "METRIC EMBASSY",
+      "source": "concepts/century/wide/105-metric-embassy.webp",
+      "status": "autonomous extension / retained",
+      "format_revision": "extension-42-2026-09-25",
+      "sha256": "52d5026a47ba5102c7d99b83b42b9178359a9f41a7efdad8417951730520e9e0"
+    },
+    {
+      "id": "c106",
+      "title": "MUON CUSTOMS",
+      "source": "concepts/century/wide/106-muon-customs.webp",
+      "status": "autonomous extension / retained",
+      "format_revision": "extension-42-2026-09-25",
+      "sha256": "fc680bc09c3a7ffdb259c1ffe1918c0ea030158db969221c586154dfd631e7a6"
+    },
+    {
+      "id": "c107",
+      "title": "RESONANCE TAILOR",
+      "source": "concepts/century/wide/107-resonance-tailor.webp",
+      "status": "autonomous extension / retained",
+      "format_revision": "extension-42-2026-09-25",
+      "sha256": "66150a7baf947f5fe9024a9d285936cc9720a115b37185a296aff7cf178300a7"
+    },
+    {
+      "id": "c108",
+      "title": "SUTURE LOOM",
+      "source": "concepts/century/wide/108-suture-loom.webp",
+      "status": "autonomous extension / retained",
+      "format_revision": "extension-42-2026-09-25",
+      "sha256": "52d0bffa4955c780778fa892ecace50f491d383b34e3b2ef0485f76ec4e9e193"
+    },
+    {
+      "id": "c110",
+      "title": "SPIN TABLE",
+      "source": "concepts/century/wide/110-spin-table.webp",
+      "status": "autonomous extension / retained",
+      "format_revision": "extension-42-2026-09-25",
+      "sha256": "8f3eac2fa11b4be1bab53fe99b902d9ad5ab5c06e96eb84f3837aaa31cb077af"
+    }
+  ],
+  "queued": [
+    {
+      "id": "next-102",
+      "number": 102,
+      "title": "CAPILLARY SALON",
+      "purpose": "fryzjer dla nieważkości",
+      "status": "queued",
+      "brief": "Nożyce pracują wewnątrz lekkiego, otwartego pałąka ssącego; ścięte włosy trafiają\ndo wymiennej kasety, a nie do wentylacji statku. Sylwetka: asymetryczny fotel,\npółkorona zbierająca i płaski wachlarz kanałów. Model człowieka jako techniczny\nmanekin, bez włosów rysowanych fotorealistycznie.\nB: ssawka przy ostrzu. C: kaseta i fizyczna kontrola napełnienia.\nPanel: bilans zebranych fragmentów w fikcyjnym dzienniku. Punkt wyjścia: ssanie,\nfiltracja i osłonięte narzędzie; ergonomia oraz oddziaływanie na skórę do sprawdzenia.\n**Napis:** BAD HAIR DAY. CONTAINED.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": false
+    },
+    {
+      "id": "next-109",
+      "number": 109,
+      "title": "GLASS AMNESTY",
+      "purpose": "lokalna regeneracja powierzchni optycznej",
+      "status": "queued",
+      "brief": "Głowica pomiarowa mapuje defekt, a osobna głowica procesu próbuje skorygować\nmały obszar bez wymiany całego lustra. Sylwetka: płaskie lustro na trzech\nkinematycznych podporach, po łuku jeżdżą dwie niejednakowe głowice.\nB: metrologiczna stopa. C: wymienna optyka obróbcza.\nPanel: mapa błędu i ścieżka procesu, jednoznacznie hipotetyczne. Punkt wyjścia:\nmetrologia powierzchni i lokalna obróbka; regeneracja powłok wymaga researchu.\n**Napis:** OBJECTS IN MIRROR ARE UNDER REVIEW.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": false
+    }
+  ],
+  "rejected_source": "docs/century/catalog.json / curation.status=rejected",
+  "ranking": "docs/collection/quality-ranking.json",
+  "quality_redesign_review": "concepts/century/quality-redesign/index.html",
+  "extension_review": "docs/collection/extension-42-review.json",
+  "retired_2026_09_27": [
+    {
+      "id": "o10",
+      "title": "TRUTH LAMP",
+      "filename": "10-truth-lamp.webp",
+      "note": "Left the collection on the owner's request; its NCR number stays retired."
+    },
+    {
+      "id": "c100",
+      "title": "PLANT ALIBI",
+      "filename": "100-plant-alibi.webp",
+      "note": "Left the collection on the owner's request; its NCR number stays retired."
+    },
+    {
+      "id": "c010",
+      "title": "SOCK ORACLE",
+      "filename": "010-sock-oracle.webp",
+      "note": "Left the collection on the owner's request; its NCR number stays retired."
+    },
+    {
+      "id": "c080",
+      "title": "COMPLIMENT MILL",
+      "filename": "080-compliment-mill.webp",
+      "note": "Left the collection on the owner's request; its NCR number stays retired."
+    },
+    {
+      "id": "o04",
+      "title": "GREENER",
+      "filename": "04-greener.webp",
+      "note": "Left the collection on the owner's request; its NCR number stays retired."
+    },
+    {
+      "id": "c030",
+      "title": "ADVICE FILTER",
+      "filename": "030-advice-filter.webp",
+      "note": "Left the collection on the owner's request; its NCR number stays retired."
+    },
+    {
+      "id": "c070",
+      "title": "QUEUE GARDEN",
+      "filename": "070-queue-garden.webp",
+      "note": "Left the collection on the owner's request; its NCR number stays retired."
+    },
+    {
+      "id": "c060",
+      "title": "MEETING BUOY",
+      "filename": "060-meeting-buoy.webp",
+      "note": "Left the collection on the owner's request; its NCR number stays retired."
+    }
+  ]
+}

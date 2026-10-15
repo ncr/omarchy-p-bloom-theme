@@ -1,0 +1,15 @@
+# Rows are pale blue until the cursor reaches them. The selected row turns
+# white, fills with Arc and gets a full Arc frame.
+[menu]
+background                = "#090d16"
+background-alpha          = 0.95
+text                      = "#b4c8e8"
+border                    = "hyprland.active-border"
+border-alpha              = 0.85
+scrim                     = "#04060b"
+scrim-alpha               = 0.60
+selected-background       = "#4cc9ff"
+selected-background-alpha = 0.16
+selected-text             = "#ffffff"
+selected-border           = "#4cc9ff"
+selected-border-alpha     = 0.95

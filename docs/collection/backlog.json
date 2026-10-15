@@ -1,0 +1,113 @@
+{
+  "updated_at": "2026-09-25T13:57:51.026092+00:00",
+  "ideas": [
+    {
+      "id": "next-101",
+      "number": 101,
+      "title": "VELVET HAMMER",
+      "purpose": "bezudarowe zwalnianie ładunku orbitalnego",
+      "status": "completed / retained in collection of 42",
+      "brief": "Rozszczepiony pierścień trzyma ładunek podczas startu, a zsynchronizowane krzywki\noddają napięcie stopniowo zamiast efektownym hukiem. Sylwetka: otwarty sierp,\ntrzy nierówne kasety sprężyn, widoczny mechanizm przejmujący energię.\nB: profil krzywki i rolka. C: rejestrator zwolnienia z wymiennym wkładem.\nPanel: ilustracyjna kolejność przejęcia obciążenia i otwarcia, bez zmyślonej\nkrzywej udaru. Punkt wyjścia: mechaniczne zamki i niepirotechniczne zwalniaki.\n**Napis:** EXPLOSIVE PERSONALITY: NOT INSTALLED.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": true,
+      "implementation": "tools/century/extension_geometry.py"
+    },
+    {
+      "id": "next-102",
+      "number": 102,
+      "title": "CAPILLARY SALON",
+      "purpose": "fryzjer dla nieważkości",
+      "status": "queued",
+      "brief": "Nożyce pracują wewnątrz lekkiego, otwartego pałąka ssącego; ścięte włosy trafiają\ndo wymiennej kasety, a nie do wentylacji statku. Sylwetka: asymetryczny fotel,\npółkorona zbierająca i płaski wachlarz kanałów. Model człowieka jako techniczny\nmanekin, bez włosów rysowanych fotorealistycznie.\nB: ssawka przy ostrzu. C: kaseta i fizyczna kontrola napełnienia.\nPanel: bilans zebranych fragmentów w fikcyjnym dzienniku. Punkt wyjścia: ssanie,\nfiltracja i osłonięte narzędzie; ergonomia oraz oddziaływanie na skórę do sprawdzenia.\n**Napis:** BAD HAIR DAY. CONTAINED.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": false
+    },
+    {
+      "id": "next-103",
+      "number": 103,
+      "title": "BUBBLE BAILIFF",
+      "purpose": "pułapka gazu w obiegu cieczy bez grawitacji",
+      "status": "completed / retained in collection of 42",
+      "brief": "Urządzenie odprowadza pęcherze z obiegu chłodziwa, zanim trafią do pompy.\nSylwetka: esowaty przezroczysty kanał, boczne kasety separatora i mały zbiornik\nbuforowy; nie kolejny stos filtrów wody.\nB: interfejs membrany selektywnej. C: zawór pułapki gazowej.\nPanel: schemat tras cieczy i gazu; bez obietnicy uniwersalnej skuteczności.\nPunkt wyjścia: kapilarność i różne własności zwilżania, wymagające doboru do cieczy.\n**Napis:** ALL BUBBLES MUST DECLARE THEIR INTENTIONS.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": true,
+      "implementation": "tools/century/extension_geometry.py"
+    },
+    {
+      "id": "next-104",
+      "number": 104,
+      "title": "KEY CONCORD",
+      "purpose": "zamek wymagający dwóch równoprawnych zgód",
+      "status": "completed / retained in collection of 42",
+      "brief": "Dwa niezależne klucze napinają osobne tory. Mostek może przenieść ruch dopiero,\ngdy oba tory są gotowe; żaden klucz nie jest „ważniejszy”. Sylwetka: dwa różne\nbębny połączone widocznym mechanizmem różnicowym i krótkim ryglem.\nB: zapadka przeciw wymuszeniu. C: kaseta wycofania zgody przed otwarciem.\nPanel: tablica stanów obu kluczy i rygla. Punkt wyjścia: mechaniczne blokady;\nnie projekt zamka o potwierdzonej odporności na włamanie.\n**Napis:** ADMINISTRATOR IS NOT A THIRD PERSON.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": true,
+      "implementation": "tools/century/extension_geometry.py"
+    },
+    {
+      "id": "next-105",
+      "number": 105,
+      "title": "METRIC EMBASSY",
+      "purpose": "stacja uzgadniania obcych standardów przyłączy",
+      "status": "completed / retained in collection of 42",
+      "brief": "Przed połączeniem odzyskanego urządzenia skanuje gwint, rozstaw, polaryzację i\njednostki opisów. Wysuwa właściwą kasetę adaptacyjną dopiero po sprawdzeniu\nzgodności. Sylwetka: rozcięty rewolwer wzorców, miernik na ramieniu i szuflady\nz różnymi złączami, zamiast jednolitego korpusu.\nB: porównanie z fizycznym wzorcem. C: adapter z mechanicznym kodowaniem.\nPanel: drzewo odrzucenia błędnego połączenia. Punkt wyjścia: metrologia i\nidentyfikacja interfejsów; uniwersalność jest postulowanym przełomem.\n**Napis:** THE THREAD FITS. THAT IS NOT A TREATY.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": true,
+      "implementation": "tools/century/extension_geometry.py"
+    },
+    {
+      "id": "next-106",
+      "number": 106,
+      "title": "MUON CUSTOMS",
+      "purpose": "bramka tomograficzna bez własnego źródła promieniowania",
+      "status": "completed / retained in collection of 42",
+      "brief": "Stos płyt nad i pod skrzynią rejestruje tory mionów kosmicznych do analizy\nrozpraszania. Sylwetka: duża otwarta litera C z szufladami detektorów i niską\nplatformą ładunku; żadnych magicznych promieni rentgenowskich.\nB: warstwy śledzące. C: synchronizacja i kalibracja modułu.\nPanel: geometria dwóch torów i obszaru rozpraszania; przykładowe zdarzenia\njawnie ilustracyjne. Punkt wyjścia do researchu: tomografia mionowa.\n**Napis:** EXPRESS LANE SUBJECT TO COSMIC AVAILABILITY.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": true,
+      "implementation": "tools/century/extension_geometry.py"
+    },
+    {
+      "id": "next-107",
+      "number": 107,
+      "title": "RESONANCE TAILOR",
+      "purpose": "strojenie drgań przez przemieszczanie mas",
+      "status": "completed / retained in collection of 42",
+      "brief": "Obejma z przesuwanymi ciężarkami dostraja pochłaniacz drgań do konkretnego ramienia\nmaszyny. Sylwetka: trzy nierównej długości widełki, podziałki sanek i skrzyżowane\nsprężyny; rytm części zdradza kierunek pracy.\nB: regulowane podparcie sprężyny. C: blokada masy po strojeniu.\nPanel: model dwóch sprzężonych oscylatorów, opisany jako idealizacja. Punkt\nwyjścia: strojone tłumiki masowe, nie obietnica usunięcia wszystkich drgań.\n**Napis:** GOOD VIBRATIONS ARE STILL VIBRATIONS.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": true,
+      "implementation": "tools/century/extension_geometry.py"
+    },
+    {
+      "id": "next-108",
+      "number": 108,
+      "title": "SUTURE LOOM",
+      "purpose": "kaseta prowadzenia mikroszwu",
+      "status": "completed / retained in collection of 42",
+      "brief": "Dwa naprzemienne uchwyty przekazują sobie zakrzywioną igłę, a osobny tor kontroluje\nzapas i naprężenie nici. Sylwetka: otwarta podkowa, cienkie przeciwległe ramiona\ni podwieszona szpula. Przedmiot badań to mechanizm; zamiast realistycznej tkanki\npokazujemy neutralną membranę testową.\nB: przekazanie igły między szczękami. C: napinacz i zwolnienie awaryjne.\nPanel: kolejne stany chwytów i nici. Punkt wyjścia: robotyczne szycie; skuteczność\nkliniczna nie jest założona ani przedstawiona na wykresie.\n**Napis:** KNOTS SHOULD BE IN THE THREAD, NOT THE PLAN.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": true,
+      "implementation": "tools/century/extension_geometry.py"
+    },
+    {
+      "id": "next-109",
+      "number": 109,
+      "title": "GLASS AMNESTY",
+      "purpose": "lokalna regeneracja powierzchni optycznej",
+      "status": "queued",
+      "brief": "Głowica pomiarowa mapuje defekt, a osobna głowica procesu próbuje skorygować\nmały obszar bez wymiany całego lustra. Sylwetka: płaskie lustro na trzech\nkinematycznych podporach, po łuku jeżdżą dwie niejednakowe głowice.\nB: metrologiczna stopa. C: wymienna optyka obróbcza.\nPanel: mapa błędu i ścieżka procesu, jednoznacznie hipotetyczne. Punkt wyjścia:\nmetrologia powierzchni i lokalna obróbka; regeneracja powłok wymaga researchu.\n**Napis:** OBJECTS IN MIRROR ARE UNDER REVIEW.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": false
+    },
+    {
+      "id": "next-110",
+      "number": 110,
+      "title": "SPIN TABLE",
+      "purpose": "obrotowe stanowisko kuchenne dla nieważkości",
+      "status": "completed / retained in collection of 42",
+      "brief": "Zamknięte naczynie obraca się w jarzmie, by docisnąć składniki do zewnętrznej\nścianki podczas wybranego etapu przygotowania. Serwisowe osie, wyważanie i blokada\npokrywy są głównym tematem rysunku. Sylwetka: przechylony pierścień z jednym\nnaczyniem i masywną przeciwwagą; żadnej magicznej grawitacji w całej kabinie.\nB: łożysko i mechanizm wyważania. C: pokrywa oraz transfer naczynia po zatrzymaniu.\nPanel: a = ω²r oraz fikcyjna lista rzeczy, których nie należy wkładać.\nPunkt wyjścia: przyspieszenie dośrodkowe; zachowanie mieszanin i użyteczność kulinarna\npozostają spekulacją.\n**Napis:** ARTIFICIAL GRAVITY. AUTHENTIC LEFTOVERS.",
+      "source": "docs/century/NEXT-TEN-IDEAS.pl.md",
+      "rendered": true,
+      "implementation": "tools/century/extension_geometry.py"
+    }
+  ]
+}

@@ -1,0 +1,5337 @@
+{
+  "created_at": "2026-09-25T13:22:56.238707+00:00",
+  "count": 100,
+  "native_files": 200,
+  "total_bytes": 1142004288,
+  "formats": {
+    "wide": [
+      5120,
+      2160
+    ],
+    "16-9": [
+      5120,
+      2880
+    ]
+  },
+  "pipeline": "Authored Blender geometry \u2192 BVH visible paths \u2192 Cairo typography and original SVG \u2192 native raster + grain",
+  "font": "Nimbus Sans",
+  "font_file_sha256": "7c25be4d78155523080ab85b10277150657ff7dabbcad7037bdd536c9b6d0d08",
+  "source_sha256": {
+    "tools/century/catalog_seed.py": "917fa666fc5a89cdec98966072f02ded019ae9dca2adbbe0279e1cf45d2565ce",
+    "tools/century/__init__.py": "7a3109f60dc86f7b810a35e6b9c0b9f78b66553fbdd6405b03b5d98298550692",
+    "tools/century/kit.py": "2d8779121a9ca750fd8d3e276b3324792994f79075950191ba8c8bdbfd4a360d",
+    "tools/century/orbit.py": "35d673d9ae94fecfca3ab3772d72f164fae3c1513476272aadab8d7e84c779b2",
+    "tools/century/build.py": "862ca656ab0c9b3e5b1cac118fadd63461aaad2a8ae1fa48bd8a9b49e822e937",
+    "tools/century/render.py": "3a53ff23e46fcc2a608f225f355bd9a83f1e379ef1ce0adc9873f1ba289348d5",
+    "tools/century/energy.py": "a7433af8d6e2617a4380d36a03026d18a26f0248f43098b5e896946057dafea0",
+    "tools/century/audit.py": "cf66788c0e8a7c9024802562135f5bf75074b6b4a00d69122a337f01bc08ac02",
+    "tools/century/registry.py": "6f32b4fb4a643f40f140702e1e3017b06387b65597ff4e3bcbe74310a33d587a",
+    "tools/century/water.py": "bb4bac25564a394f18ea07b5e1ea1eba271b03b09ba97aeae183e27b0a77dd22",
+    "tools/century/biology.py": "32c5ed9b75b7932c2e588a5e3eaf27d13f793263ead48e27bfaf9a024e46fd8d",
+    "tools/century/fabrication.py": "15c96e68aa2b01e643224c0d8d2dd065a8576c8d542519fa8bcffb4e68f87e7f",
+    "tools/century/mobility.py": "36e1488efa51092f70f1be7132931f9dbdb9e1323996f464e0824499822ad5ad",
+    "tools/century/instruments.py": "9fac254ce4ecbec9d63adfa3cf7af697062a251eb825400b734a8acdd1d874c9",
+    "tools/century/habitats.py": "2eeedcd6971236b475cb605d26f3cc33e32d2a000ceb2648eabe203b96fdb623",
+    "tools/century/humans.py": "6520fc0e12babeea9cbaa708cb7b1e5157e5320b662b6bfa2f91340cac764414",
+    "tools/century/wearables.py": "3daac5ef411984f992e4cd12e18e80aaf53a1776602f48a42587dfecd7a1ee19",
+    "tools/century/domestic.py": "5a82611dc098cef18a1f990a4840d29673b8d7738acf87dc6a1c1abfbc05f176",
+    "tools/century/review.py": "fe4d3861c5dda4ea3a70447cbd82bcd4adcbdfa656bd6c9c67e6f02649fb6902",
+    "tools/century/gallery.py": "b7199818dd8ce57878a71cf2b302717d3ad5b6ce441fb6444e0a01348f0c77e3",
+    "tools/century/package.py": "8773fb4fa257c1a0d1eaaf63e0f64f9bc59ad53fc3e7eec1725ac0fcab3b2ab8",
+    "tools/century/document.py": "b19761dea10db18fe0e01c2a32b468c9985056bcad479142f934e1032b98bfb1",
+    "tools/century/batch.py": "eaf41a3e68b4e70d15cf33efb2e3ba1b5672a566ba9438e1bc8fcc54684e68d9",
+    "tools/century/exporter.py": "ff7a110c0dce21565591a79ff9d5880a765640a62ce415d93ee0422b1aa3c867",
+    "tools/century/check_export.py": "f31ffb7463aa705a3a3d2c32f7414f90c359e6d7d9265108d9fe99c7bb057070",
+    "tools/century/refinement_geometry.py": "5bbe50894ebbb2900c47ff21e73603f96689e36965bada2c4fbdeb0891870a07",
+    "tools/century/editorial.py": "56bd6ef622590d491fd874e5ff706817d3150b58f285fa8f043bfc058895411f",
+    "tools/century/refinement_review.py": "9529cacbd1f7007e9c58c234a6a5ca3db363a290acdb36042f05afbed22f68b3",
+    "tools/century/refinement_second_geometry.py": "c1aa07c3bfa9d2439376e9f8ebf500713e778e393da9496464130884ab9904bf",
+    "tools/century/editorial_second.py": "5b4f38fc119386425476f7f0591602cb87b39dbddf30241bbad2c5260df9e943",
+    "tools/century/ranking_gallery.py": "8093b4b0dbd7561bfd7c5e8b4c444aad008b963383ebf3b65bedb972e3d2d82a",
+    "tools/century/quality_geometry.py": "c918c478dfff2634b868cc116de9dd07a9d939ca1b9f0ec936a02fe5a885a608",
+    "tools/century/quality_review.py": "af82380f2bf0e7c3bd9affba8a4b2e82f356fee1f06d08e5c3297876ebd922b4",
+    "tools/century/gallery.html": "7c5e965306e8c18b10bdca391bf68792a2d5f18eaaf6cbfcf321c1531bbb6b5c",
+    "tools/century/ranking.html": "de77bed9e2f2b521056c8569602bc67a57d7500b0e2bfc424b9c4fc61fb6e91f",
+    "tools/century/quality_review.html": "0717f1142b38a3099f099c8c83b094fa92e57e1e25c77534535616c99b66a074",
+    "tools/century/foundations.txt": "54205503b66f7cd3f3c854e52e777c7ec1bc605e80bf343e0463b003f6cf795e",
+    "tools/sheet.py": "0a0883fb1ffb637c99ce32412a2e6057557503819ffef42e66d2b03b00cc5503",
+    "tools/collection_layout.py": "140034ce11f10bd9af16be95290c944f613c524c8c3d64726d9b9b4fcb390d5b",
+    "tools/original_field_notes.json": "a07f331da732d80bab336182b50e411eafc1a6876a3bd990ef14bc6a05c0ac9e",
+    "tools/starmap_study.py": "ae30fd2329a11bd95d284b30b832aa4a7da7f2c9b886f1e74d4e705d02bfb539",
+    "tools/omarchy-logo.svg": "e05ab723c3b9df19d4140b1d97eff0303ba07366aa1fe431b4ad0c8af7fc51f0",
+    "tools/hardware3d/family_core.py": "bb1d588c647ef4bcb6acabf8c2a185067cd010ac896478aaf079f5ea06ef806a",
+    "tools/hardware3d/main_scenes_build.py": "5ebc983e2940d40dc4e4481b48de491796931d96544de5a8793a1631b90dda7e",
+    "tools/hardware3d/bio_details_build.py": "3705c3b34fbc3c8ded142430161aa9a8f32c45a109c701a4d3de42abb37ef25d",
+    "tools/mannequin3d/build.py": "2578caac5331eba46e3937c2d5b1ad4aa706e81ee1d1c8951564253373123157",
+    "tools/triptych.py": "510005af599e6f0b13dc28ef3a25430d0c856ba4fc2f502aab51cc2de9a41ac1",
+    "tools/subject_diagrams.py": "25d7588b59b04bc8157b602fb7a6dea4d59e24db1d9ab3d2417f4ffaed13dc1a"
+  },
+  "catalog_sha256": "eed187f508497efa36c70f0f08cd1d78b9063f987ccf289c25fba677ae97207b",
+  "wallpapers": [
+    {
+      "number": 1,
+      "slug": "light-sail",
+      "title": "LIGHT SAIL",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/001-light-sail.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5315088,
+          "sha256": "09d09c053351547f242d30ef32e7bf53affa1033610ae618e988b8cfe8b59e06"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/001-light-sail.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6771754,
+          "sha256": "abdcffc59293be7cfae78e19d2acf10a351891ecee9733410c07717022da14bf"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/light-sail-A.json",
+          "sha256": "4baa161d0bfb81c1313ca2ae649814023c30d075d3830963a0e58d7162d5a6d3",
+          "paths": 4295
+        },
+        "B": {
+          "path": "tools/assets/century/light-sail-B.json",
+          "sha256": "88a7c1e250dc14ffb4310bda619b7718ac9c44c5e3d632761546e1e2f75d3c72",
+          "paths": 4718
+        },
+        "C": {
+          "path": "tools/assets/century/light-sail-C.json",
+          "sha256": "56ec64128beff54096f995bd8848b4ee7d3c6c95a3ab205d3829a185a36afa2d",
+          "paths": 362
+        }
+      },
+      "review_status": "user-approved",
+      "curation": {
+        "status": "retained",
+        "batch": 1,
+        "review": "user-approved",
+        "reason": "Pierwsza dopracowana dziesi\u0105tka zaakceptowana przez u\u017cytkownika.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435096+00:00"
+      }
+    },
+    {
+      "number": 2,
+      "slug": "tidal-loom",
+      "title": "TIDAL LOOM",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/002-tidal-loom.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5408226,
+          "sha256": "2e567b24d32479594080e8565a9b75094a4cd45b981222032df16e005a55ab23"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/002-tidal-loom.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6912360,
+          "sha256": "7faefd8d0330e5aed446373ebf62b06486b6565454d3485cbdd63b72dd5b22e9"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/tidal-loom-A.json",
+          "sha256": "f188c7ed478365172e0aa4045593f0fcb6ee7f7a3494110dbc2dbf5e1576fccd",
+          "paths": 5471
+        },
+        "B": {
+          "path": "tools/assets/century/tidal-loom-B.json",
+          "sha256": "e04d0e037a9efc66dbf6c461b425553aa379b71ca85563ca0162c47373f306cd",
+          "paths": 1634
+        },
+        "C": {
+          "path": "tools/assets/century/tidal-loom-C.json",
+          "sha256": "7ea12830a1fc0cc2228516fdc832e254e03489d67358801cbd5fe293014f941e",
+          "paths": 1314
+        }
+      },
+      "review_status": "quality redesign awaiting review; prior refinement approved",
+      "curation": {
+        "status": "retained",
+        "batch": 2,
+        "review": "quality redesign awaiting review; prior refinement approved",
+        "reason": "Wybrany do drugiej dziesi\u0105tki: odr\u0119bna sylwetka, czytelny mechanizm i potencja\u0142 na w\u0142asne wykresy oraz histori\u0119.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435104+00:00",
+        "approved_at": "2026-09-25T08:51:43.437269+00:00"
+      }
+    },
+    {
+      "number": 3,
+      "slug": "dew-crown",
+      "title": "DEW CROWN",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/003-dew-crown.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5093086,
+          "sha256": "e3f5b0f237550d7100d81bff0d51649b77540dbb56c03c2f8ab34b4e3118741a"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/003-dew-crown.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6409004,
+          "sha256": "19703de1edf79b9b08992bc93f7576b2f432e5c0cb37481ba7548231900e4247"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/dew-crown-A.json",
+          "sha256": "afd7977667c151ca6a3e839cb7c34618815576bb9c76e2cda4b59f41876895b5",
+          "paths": 1719
+        },
+        "B": {
+          "path": "tools/assets/century/dew-crown-B.json",
+          "sha256": "ce214311be539132b4c1519a8c9c561569beecddfe95382eb5225d6b86019aa1",
+          "paths": 184
+        },
+        "C": {
+          "path": "tools/assets/century/dew-crown-C.json",
+          "sha256": "a4a7878522f8c8e11483f8da5cdca989fe80f5e641b2bed7e3b0456f99409d22",
+          "paths": 541
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Korona kolektora jest czytelna, ale temat zbierania wody i promienista sylwetka powtarzaj\u0105 kilka innych projekt\u00f3w; brak mocnego drugiego aktu.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435106+00:00"
+      }
+    },
+    {
+      "number": 4,
+      "slug": "seed-courier",
+      "title": "SEED COURIER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/004-seed-courier.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5140024,
+          "sha256": "de22206faef927427e23dbde97b91bbfc6b0e03a5d991b5418950fcd4ceb1bca"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/004-seed-courier.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6387556,
+          "sha256": "84fce8e59119b071645276107b76cd852ff688626dc258d996684672ae6b889e"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/seed-courier-A.json",
+          "sha256": "2d59b57cdc054bf3017356aa8193f1a00aa9773aa440a7a74a19c05484e6be08",
+          "paths": 4092
+        },
+        "B": {
+          "path": "tools/assets/century/seed-courier-B.json",
+          "sha256": "1b3c9b23ee9fc7c4b53f94243878902f1593f2b9ef149379545815f5756e11f7",
+          "paths": 739
+        },
+        "C": {
+          "path": "tools/assets/century/seed-courier-C.json",
+          "sha256": "4bab8054b1fd4d3c4309c3625e6ebb36f70668d3b8992c7bd38b3f71fcfef02a",
+          "paths": 446
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Krocz\u0105cy ogrodnik opiera charakter na znanym schemacie robota z pojemnikiem; trudniej pokaza\u0107 skutki precyzyjnej renaturyzacji na samej planszy.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435108+00:00"
+      }
+    },
+    {
+      "number": 5,
+      "slug": "glass-river",
+      "title": "GLASS RIVER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/005-glass-river.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4998968,
+          "sha256": "d2637493d585ded3166268d109b141b76337060cd617c026ec31d57fa79097c0"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/005-glass-river.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6266122,
+          "sha256": "75b327d9730e5ad5ff410c700fccf2d30aff7265f492cc54003bd88010f8627c"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/glass-river-A.json",
+          "sha256": "937bf6f30b13536e4d97b70abac7587381e48f6f83556beb5d0d1931487ec426",
+          "paths": 3652
+        },
+        "B": {
+          "path": "tools/assets/century/glass-river-B.json",
+          "sha256": "d578f9a5a41b2471902514552dbbe91b3efbbe239d8f4256d15dedd9bebdb0e3",
+          "paths": 551
+        },
+        "C": {
+          "path": "tools/assets/century/glass-river-C.json",
+          "sha256": "30d98b0c4f91bf308aead07b78fcd97d23f12433c263250b36530c4defa2cdc1",
+          "paths": 2655
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Wyt\u0142aczarka szk\u0142a pozostaje bliska zwyk\u0142ej linii przemys\u0142owej; jej przekroje nie buduj\u0105 wystarczaj\u0105co odr\u0119bnej opowie\u015bci.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435109+00:00"
+      }
+    },
+    {
+      "number": 6,
+      "slug": "manta-foil",
+      "title": "MANTA FOIL",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/006-manta-foil.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5162314,
+          "sha256": "611f6f5d57738e5c59fde807404bb8566433f58b5d2538fc3e7b37b4854af805"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/006-manta-foil.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6584326,
+          "sha256": "ef88447420fb995162c7fe20265453857ca84110d917fb08a6fdac3aa99fe688"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/manta-foil-A.json",
+          "sha256": "0ebd46d46bb054a71c5bd2c90b9f0fbfde0d76604a7b72a4ec627061f07e8260",
+          "paths": 3159
+        },
+        "B": {
+          "path": "tools/assets/century/manta-foil-B.json",
+          "sha256": "17490ab23a72fc90be0c74c589e94d556671e9d5d2e52efb50f15c30c8dbb232",
+          "paths": 1286
+        },
+        "C": {
+          "path": "tools/assets/century/manta-foil-C.json",
+          "sha256": "806993679339c02761a647183b326522e0104edec439185609c1d9d12271e76b",
+          "paths": 1396
+        }
+      },
+      "review_status": "quality redesign awaiting review; prior refinement approved",
+      "curation": {
+        "status": "retained",
+        "batch": 2,
+        "review": "quality redesign awaiting review; prior refinement approved",
+        "reason": "Wybrany do drugiej dziesi\u0105tki: odr\u0119bna sylwetka, czytelny mechanizm i potencja\u0142 na w\u0142asne wykresy oraz histori\u0119.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435110+00:00",
+        "approved_at": "2026-09-25T08:51:43.437269+00:00"
+      }
+    },
+    {
+      "number": 7,
+      "slug": "hush-field",
+      "title": "HUSH FIELD",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/007-hush-field.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5071238,
+          "sha256": "df39ad6dd21d0bfdf0dc19a3fd054df78360ffad0b303c34d612668d09de8131"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/007-hush-field.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6382308,
+          "sha256": "4b669c3b31826b8d145c580d240233b7ae3ba321b62f7e90b43b3ae5d93a60d9"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/hush-field-A.json",
+          "sha256": "e1d7848520e4c994f9c6d18ce47e0d04eeed37928a0199a26a3477b1994b69d4",
+          "paths": 5190
+        },
+        "B": {
+          "path": "tools/assets/century/hush-field-B.json",
+          "sha256": "596f875ab55c9d83bd66ce6f126dcf7ed6850c3383abcaaf83f68eeb8a2081eb",
+          "paths": 1285
+        },
+        "C": {
+          "path": "tools/assets/century/hush-field-C.json",
+          "sha256": "805414285cea3d3c94f1506af9b061bf6e46efaf666eaa1d51332aab151cfadf",
+          "paths": 1040
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Obietnica ciszy lokalnej wymaga pokazania pola akustycznego i ogranicze\u0144; sama bateria g\u0142o\u015bnik\u00f3w komunikuje zbyt ma\u0142o.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435111+00:00"
+      }
+    },
+    {
+      "number": 8,
+      "slug": "storm-petal",
+      "title": "STORM PETAL",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/008-storm-petal.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5031678,
+          "sha256": "8b721c4cd9f1db8a25a482df1f59b8e07f7274312000d260b6fbdec99ed5b349"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/008-storm-petal.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6358206,
+          "sha256": "ce8eb26798c71badccbe0884a438c3e54c2062c31849daac8a975e93ec3026d4"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/storm-petal-A.json",
+          "sha256": "c0ef6409316eeef07183fc0c51c2bef3ebdebd9e5b69611441197e9f44532e72",
+          "paths": 1443
+        },
+        "B": {
+          "path": "tools/assets/century/storm-petal-B.json",
+          "sha256": "2ec2f21658af55d93d01d879db9ba806d1596624b371734eb641315c2d1901c8",
+          "paths": 1501
+        },
+        "C": {
+          "path": "tools/assets/century/storm-petal-C.json",
+          "sha256": "d9eaa7fd3dd4da21399dfb576322a6f55933c1bdd9f363cc5b0ca71e951fba02",
+          "paths": 349
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Rozk\u0142adane p\u0142atki schronienia s\u0105 efektowne, lecz rozwini\u0119cie historii wymaga\u0142oby ca\u0142ej sekwencji stan\u00f3w i otoczenia.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435112+00:00"
+      }
+    },
+    {
+      "number": 9,
+      "slug": "load-fern",
+      "title": "LOAD FERN",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/009-load-fern.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4922468,
+          "sha256": "7619827290a0a1c16caababb3e7fbf0ae18ab00878862ad8fcf06fb7c2f15561"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/009-load-fern.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6270486,
+          "sha256": "ee11ef06b98a05cbba678d2c5d1121c498a4155642b2b5b67c1e7dc2adfcd7f8"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/load-fern-A.json",
+          "sha256": "d6367c8e3a13cbf2b4b263c6d532a4a154662e5009cde269b32094389f8813f6",
+          "paths": 2869
+        },
+        "B": {
+          "path": "tools/assets/century/load-fern-B.json",
+          "sha256": "60fcd7711fc8858d453b11c5ff845601c4f56bdf524ccf0a26533e9a2500c67e",
+          "paths": 1080
+        },
+        "C": {
+          "path": "tools/assets/century/load-fern-C.json",
+          "sha256": "5fde63a75ed6a7e9cccc02d3788d5698ffd85ce9ede104e964333a89c5d7a675",
+          "paths": 106
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Rama do przenoszenia \u0142adunku jest funkcjonalnie ma\u0142o charakterystyczna i powtarza kategori\u0119 osobistych wspomagaczy z wcze\u015bniejszej kolekcji.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435113+00:00"
+      },
+      "pose_checks": {
+        "paired_segment_lengths": true,
+        "continuous_elbows_and_knees": true,
+        "lengths": {
+          "-1upper_arm": 32.48000197592918,
+          "-1forearm": 24.639995578288325,
+          "-1thigh": 40.879999125375335,
+          "-1calf": 39.19999935567117,
+          "1upper_arm": 32.48000197592918,
+          "1forearm": 24.639995578288325,
+          "1thigh": 40.879999125375335,
+          "1calf": 39.19999935567117
+        },
+        "scope": "Illustrative rig geometry; no biomechanics simulation or clinical validation."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "sock-oracle",
+      "title": "SOCK ORACLE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/010-sock-oracle.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5233340,
+          "sha256": "37fd1699d40f72ebce2a0fb874830848deaa936490e5d4816b6221c6d1d3b540"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/010-sock-oracle.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6674072,
+          "sha256": "50e8c6aa7b1900de6b6070e8b959902b4db2484513825794b2847e5cdf55c0b7"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/sock-oracle-A.json",
+          "sha256": "53efd13f917e3c6e9d106abd3e0bf394aeebfbbfa8a19392f27f0682fc3255cc",
+          "paths": 2900
+        },
+        "B": {
+          "path": "tools/assets/century/sock-oracle-B.json",
+          "sha256": "ef2a776b0789fdadb9227adea4a0559245ca84c25eee99972f162c3bcacd4406",
+          "paths": 1359
+        },
+        "C": {
+          "path": "tools/assets/century/sock-oracle-C.json",
+          "sha256": "a745f3e9b0d42f109267444bc0b95a8bcedcb00975802501c2cb7f7a3c8e9169",
+          "paths": 1555
+        }
+      },
+      "review_status": "user-approved",
+      "curation": {
+        "status": "retained",
+        "batch": 1,
+        "review": "user-approved",
+        "reason": "Pierwsza dopracowana dziesi\u0105tka zaakceptowana przez u\u017cytkownika.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435114+00:00"
+      }
+    },
+    {
+      "number": 11,
+      "slug": "ring-tender",
+      "title": "RING TENDER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/011-ring-tender.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4998786,
+          "sha256": "b3df4b1c20448e6ebd536f71e9928344a8ccc56e973a69379589e85d69d96ad2"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/011-ring-tender.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6249456,
+          "sha256": "56937027efe325304288c58379c56cf5455daef7dbcb9beece8814274684bcab"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/ring-tender-A.json",
+          "sha256": "6efd742330e990ced08f848a0e7261f641e4374d01a2211f059e33ff6d46d798",
+          "paths": 5403
+        },
+        "B": {
+          "path": "tools/assets/century/ring-tender-B.json",
+          "sha256": "45201a4cf57d0e698514aab1e552dbe4cb886b7018c428ae0a97c115c1426e0c",
+          "paths": 893
+        },
+        "C": {
+          "path": "tools/assets/century/ring-tender-C.json",
+          "sha256": "bd64158c4e15a1779494ce30d10eb5dd0bf841b8dcbd44467bd89ffa06a8e5b8",
+          "paths": 1537
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Holownik bazuje na rozpoznawalnym zestawie pier\u015bcienia, dysz i manipulatora; przegrywa indywidualno\u015bci\u0105 z Light Sail.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435115+00:00"
+      }
+    },
+    {
+      "number": 12,
+      "slug": "inertia-bank",
+      "title": "INERTIA BANK",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/012-inertia-bank.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5106874,
+          "sha256": "90af8ad3fe96f468001a6e5a04ada59dbe9eb4c22ad4cdd0d4687dd8117bb46e"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/012-inertia-bank.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6419504,
+          "sha256": "0510e9a55e258dc530389a114438cbe19fd14427d4f9d2454bc9dd2f51f8b1e9"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/inertia-bank-A.json",
+          "sha256": "f7ce00b18d80c9fa592256940fca49303d5057b412defa320637ebfe2425405f",
+          "paths": 2675
+        },
+        "B": {
+          "path": "tools/assets/century/inertia-bank-B.json",
+          "sha256": "3d3300e907ef96a7c8b81728a4cabc77afc458b62ae1fff985a18c145f825076",
+          "paths": 598
+        },
+        "C": {
+          "path": "tools/assets/century/inertia-bank-C.json",
+          "sha256": "aa8b3c75fcdaea30223e3dc5887348ea422591b34b7f6d119707b268ea018955",
+          "paths": 1054
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Stos wirnik\u00f3w w os\u0142onach ma s\u0142ab\u0105 sylwetk\u0119 autorsk\u0105; detale \u0142o\u017cysk by\u0142yby kolejn\u0105 odmian\u0105 podobnych wk\u0142ad\u00f3w cylindrycznych.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435116+00:00"
+      }
+    },
+    {
+      "number": 13,
+      "slug": "river-sieve",
+      "title": "RIVER SIEVE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/013-river-sieve.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5055598,
+          "sha256": "d4520c429dcabc63f787652d4314d8597b7980187f87ea09050315487e6f3258"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/013-river-sieve.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6336242,
+          "sha256": "c1f5857b90785ef4d38a1384e75cb3e79bf619618e281f2da01f46282a2a98d4"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/river-sieve-A.json",
+          "sha256": "bf81f74dc9c8e92acb3358b79377c4ce22be58c5be4287f2b10360ea4d621c9e",
+          "paths": 5266
+        },
+        "B": {
+          "path": "tools/assets/century/river-sieve-B.json",
+          "sha256": "09cbd4cc7a71120aba7fc41e916e092628fc403ec525fe1e76f753f18b65962c",
+          "paths": 2935
+        },
+        "C": {
+          "path": "tools/assets/century/river-sieve-C.json",
+          "sha256": "87b5e580a63780aa7f5454e2df698b06095f207794631c060b231087139a3206",
+          "paths": 2515
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Tratwa membranowa wymaga wielu powtarzalnych filtr\u00f3w i rur, a sens przep\u0142ywu s\u0142abo wynika z og\u00f3lnego kszta\u0142tu.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435117+00:00"
+      }
+    },
+    {
+      "number": 14,
+      "slug": "pollen-steward",
+      "title": "POLLEN STEWARD",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/014-pollen-steward.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5052456,
+          "sha256": "c99dd1c2cc9faf7ff76d4141662eed03e4167b25f2871f10f0f13cc80a991c23"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/014-pollen-steward.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6380128,
+          "sha256": "86e1d83b09b85ba6878c13ffd13631942bfeb22f811106aca2c2f650f790f2e3"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/pollen-steward-A.json",
+          "sha256": "6c2afdbfc2d1701b841f7d7d35e3851d5589b69bb0c545e8e06c026e7d8a0412",
+          "paths": 3404
+        },
+        "B": {
+          "path": "tools/assets/century/pollen-steward-B.json",
+          "sha256": "2a37a021423897810192287c70176bce08dda297201eb3e38c53196ea69c367a",
+          "paths": 913
+        },
+        "C": {
+          "path": "tools/assets/century/pollen-steward-C.json",
+          "sha256": "626d46ef4814cd65e853e29563d267ead0c61a0d9031bc66a7208414ccb64060",
+          "paths": 899
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Kolejny robot piel\u0119gnuj\u0105cy ro\u015bliny poszerza liczb\u0119 urz\u0105dze\u0144 bardziej ni\u017c zakres historii i sylwetek.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435118+00:00"
+      }
+    },
+    {
+      "number": 15,
+      "slug": "road-mender",
+      "title": "ROAD MENDER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/015-road-mender.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5002520,
+          "sha256": "186f3688d056163c92c6c606def891650f0e1a05c2eb7d3680e2ca9727960707"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/015-road-mender.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6276712,
+          "sha256": "83d1750e9d0c96af869c3998b27b8f01a2310e33c103d733388fc46768f75c42"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/road-mender-A.json",
+          "sha256": "d67d171293ae77f4a7f34846241ed42ef711ae0091a510a302f45037a3f7d376",
+          "paths": 4271
+        },
+        "B": {
+          "path": "tools/assets/century/road-mender-B.json",
+          "sha256": "bfcf8074ffa2ea77e198b6f0fdfd359783045a09e5a9bd2bc7d1cd3e0e5dc9bb",
+          "paths": 983
+        },
+        "C": {
+          "path": "tools/assets/century/road-mender-C.json",
+          "sha256": "cdeabd50fe30a6865f00e5bb40f9139d6b52ae9d2ada6244e001fcaaeba38016",
+          "paths": 1850
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Uszczelnianie asfaltu ma dobry potencja\u0142 u\u017cytkowy, ale obecny pojazd wygl\u0105da jak typowy serwisowy w\u00f3zek.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435119+00:00"
+      }
+    },
+    {
+      "number": 16,
+      "slug": "snow-thread",
+      "title": "SNOW THREAD",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/016-snow-thread.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4991274,
+          "sha256": "e337f5a36b1c9a660ad17ea937a5ec584fe79862cabe11b7173308da71e71782"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/016-snow-thread.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6258464,
+          "sha256": "70a9a35ab217bfe7f771e99e9597de471b9295f43535a690aa61242968c45caa"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/snow-thread-A.json",
+          "sha256": "a75be0b0088e2ac766480e3a70fdaf2db51ebf307205c49b0cd6f1fb2871b0f1",
+          "paths": 3478
+        },
+        "B": {
+          "path": "tools/assets/century/snow-thread-B.json",
+          "sha256": "af0d8bbb1c0922497076f0e0ca02fc5e2135bedd4155ef54067dc3ba2ea0e755",
+          "paths": 2494
+        },
+        "C": {
+          "path": "tools/assets/century/snow-thread-C.json",
+          "sha256": "f348599a180238498de26f35d3cdfd0e53fd66c04253abfa4093387483ee8f67",
+          "paths": 1033
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Szerokie podpory transportera powtarzaj\u0105 temat rozk\u0142adu nacisku, mocniej wykorzystany ju\u017c w Dune Skimmer.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435120+00:00"
+      }
+    },
+    {
+      "number": 17,
+      "slug": "memory-kiln",
+      "title": "MEMORY KILN",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/017-memory-kiln.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5300532,
+          "sha256": "964fb7cd9bd5fe55f86a6f6c758eb5ec217bbbe93085384094bf30c893806b99"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/017-memory-kiln.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6732692,
+          "sha256": "6be5dde381a631d7553bbd39af9e6aef2ccbe77064885b9d2ac84a6751169550"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/memory-kiln-A.json",
+          "sha256": "69cab04902696d38131e46ff4f1a73c378d916924a91d8acd437a00a0e200497",
+          "paths": 4549
+        },
+        "B": {
+          "path": "tools/assets/century/memory-kiln-B.json",
+          "sha256": "9776740ddb3b3f2807b7e6c32c5527557dd4c92f774d572b00b6d61b6b8d680b",
+          "paths": 2248
+        },
+        "C": {
+          "path": "tools/assets/century/memory-kiln-C.json",
+          "sha256": "055c75e49594fbd2b758dc482333368ccdca8eda1fd03d946a5041a4b4e3d61b",
+          "paths": 1780
+        }
+      },
+      "review_status": "user-approved",
+      "curation": {
+        "status": "retained",
+        "batch": 2,
+        "review": "user-approved",
+        "reason": "Wybrany do drugiej dziesi\u0105tki: odr\u0119bna sylwetka, czytelny mechanizm i potencja\u0142 na w\u0142asne wykresy oraz histori\u0119.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435121+00:00",
+        "approved_at": "2026-09-25T08:51:43.437269+00:00"
+      }
+    },
+    {
+      "number": 18,
+      "slug": "lunar-porch",
+      "title": "LUNAR PORCH",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/018-lunar-porch.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5293208,
+          "sha256": "0d2eb6314dc35406446b3d8f1c447216001289bfcbb711861f8749c76f3a9ce2"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/018-lunar-porch.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6727922,
+          "sha256": "d4d928fa5c652da688b6d5d1183ce2197174df2de26b8d7474ae81a9218235b7"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/lunar-porch-A.json",
+          "sha256": "19e355e5ca705a83f366d99d30b20d66184eb0aec001cf731e6671bd5293e361",
+          "paths": 4556
+        },
+        "B": {
+          "path": "tools/assets/century/lunar-porch-B.json",
+          "sha256": "7f8bf54341392496d43ec652b9b66b4a2712a0e9785c83b652a417ec8d646bd5",
+          "paths": 1851
+        },
+        "C": {
+          "path": "tools/assets/century/lunar-porch-C.json",
+          "sha256": "36ea4164182c5ff36bf73fd5ac105599081982e5d106f26907ec2916d392d111",
+          "paths": 630
+        }
+      },
+      "review_status": "user-approved",
+      "curation": {
+        "status": "retained",
+        "batch": 2,
+        "review": "user-approved",
+        "reason": "Wybrany do drugiej dziesi\u0105tki: odr\u0119bna sylwetka, czytelny mechanizm i potencja\u0142 na w\u0142asne wykresy oraz histori\u0119.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435122+00:00",
+        "approved_at": "2026-09-25T08:51:43.437269+00:00"
+      }
+    },
+    {
+      "number": 19,
+      "slug": "hand-stead",
+      "title": "HAND STEAD",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/019-hand-stead.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4924536,
+          "sha256": "7dae69b6a176909fc2a9889dde8d491953f3481fe46d86b554256b6e0b09b08f"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/019-hand-stead.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6239834,
+          "sha256": "4fd05f5921a74dcd6afacbd2604446a6dfa7b37e2f9037d860455229f08df64d"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/hand-stead-A.json",
+          "sha256": "5d312eb7d2125006dfd34a9e08d3f0fee0d67a15024979ae5e2becc8e15901c6",
+          "paths": 1312
+        },
+        "B": {
+          "path": "tools/assets/century/hand-stead-B.json",
+          "sha256": "d82fd8802367fd2fdca238a3b7a1fbcde7fb1455ebb1a2e1e2e39cb299045213",
+          "paths": 1054
+        },
+        "C": {
+          "path": "tools/assets/century/hand-stead-C.json",
+          "sha256": "09aa05360d4358679a82c7b8a11c2c4217c396cf380b00592d9722a9cab58563",
+          "paths": 253
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Orteza d\u0142oni wymaga precyzyjnej anatomii i kontekstu u\u017cytkownika; obecny sam mechanizm nie unosi tej historii.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435124+00:00"
+      },
+      "pose_checks": {
+        "paired_segment_lengths": true,
+        "continuous_elbows_and_knees": true,
+        "lengths": {
+          "-1upper_arm": 63.80000998028159,
+          "-1forearm": 48.399994178718394,
+          "-1thigh": 80.29999653054236,
+          "-1calf": 77.00000690154582,
+          "1upper_arm": 63.80000998028159,
+          "1forearm": 48.399994178718394,
+          "1thigh": 80.29999653054236,
+          "1calf": 77.00000690154582
+        },
+        "scope": "Illustrative rig geometry; no biomechanics simulation or clinical validation."
+      }
+    },
+    {
+      "number": 20,
+      "slug": "snooze-engine",
+      "title": "SNOOZE ENGINE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/020-snooze-engine.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5097730,
+          "sha256": "ff8ff6ba0771b91877973c3881a1650f70be9630739a77dc60bbe60834e075be"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/020-snooze-engine.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6371006,
+          "sha256": "9e5b0fd82f6c4535003bb65c01016049ddb588bbf7ec33c470cfcdf3a49a8880"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/snooze-engine-A.json",
+          "sha256": "40d4546497432269169df3d8dea830392f19bada926274cb18c1e46eaac4d3a9",
+          "paths": 3526
+        },
+        "B": {
+          "path": "tools/assets/century/snooze-engine-B.json",
+          "sha256": "67ffa1d348f59e0edefaab192da12e56f477df7a9fa768e7f68406664d519f05",
+          "paths": 1446
+        },
+        "C": {
+          "path": "tools/assets/century/snooze-engine-C.json",
+          "sha256": "5819d1813c16e5263a954fbd6e1247a6d42ada46bef7c315091ca59727de5234",
+          "paths": 2039
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Budzik eskaluj\u0105cy pobudk\u0119 ma \u0142atwo przewidywalny dowcip; Sock Oracle i Compliment Mill maj\u0105 wi\u0119cej miejsca na nieoczywist\u0105 dokumentacj\u0119.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435125+00:00"
+      }
+    },
+    {
+      "number": 21,
+      "slug": "sweep-net",
+      "title": "SWEEP NET",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/021-sweep-net.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5279910,
+          "sha256": "e0c13197668d8f66b704be7eb6a7786af616e4fcb39835dace430bb70a7d7555"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/021-sweep-net.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6454758,
+          "sha256": "70388c1c45a515154753131a4c87ad415a3aaddd712133e18e661a69354f01be"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/sweep-net-A.json",
+          "sha256": "e24cdcf8361664df9c141da0d5d5e4fc6e8559009c316bf9b1ba43abb084cb41",
+          "paths": 3429
+        },
+        "B": {
+          "path": "tools/assets/century/sweep-net-B.json",
+          "sha256": "1ea2f9d52fe314f3e9b529cc2c6926fa6c48c0e4c3a549e1110d04e67b498ebf",
+          "paths": 751
+        },
+        "C": {
+          "path": "tools/assets/century/sweep-net-C.json",
+          "sha256": "aa751ad7403e2b255f6ebebb752b0fedfdd8b7acb7a38166cca3217798126ef8",
+          "paths": 1227
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Sie\u0107 orbitalna potrzebuje stanu rozwini\u0119cia i celu przechwycenia; sam korpus jest zbyt podobny do innych kosmicznych platform.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435126+00:00"
+      }
+    },
+    {
+      "number": 22,
+      "slug": "ember-vault",
+      "title": "EMBER VAULT",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/022-ember-vault.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4911296,
+          "sha256": "8d301979894a6a7200debebdd069b04a95153d0eed07881ac4ce6ab326247e09"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/022-ember-vault.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6184532,
+          "sha256": "da96b343981e7f3eed742397817c3d3f894a9688e585cd7315b40005604a8367"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/ember-vault-A.json",
+          "sha256": "55680218f6093f1adc009e6bb8e4d1ad5a5b8e009295de80a3ca6a083610e755",
+          "paths": 878
+        },
+        "B": {
+          "path": "tools/assets/century/ember-vault-B.json",
+          "sha256": "a7668720ecc09f8bc16549f9a20cc3ee2c873518ccef90853e1bf7275319604f",
+          "paths": 641
+        },
+        "C": {
+          "path": "tools/assets/century/ember-vault-C.json",
+          "sha256": "fea00472558b85a000f23c6fc2fbbf9f25239bfb10f47a6603fcbec83ca897e2",
+          "paths": 949
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Magazyn ciep\u0142a to g\u0142\u00f3wnie obudowa i powtarzalny wsad; ma\u0142o charakterystyczna relacja mi\u0119dzy sylwetk\u0105 i funkcj\u0105.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435127+00:00"
+      }
+    },
+    {
+      "number": 23,
+      "slug": "brine-garden",
+      "title": "BRINE GARDEN",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/023-brine-garden.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5072550,
+          "sha256": "8260d77ff47bfdaa6fbb1b2de27386b99a1e09cb51768fb7e0e55079d11efe3e"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/023-brine-garden.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6352068,
+          "sha256": "6702679b425771ed872c5e1b94f2aaf347c1f8c58e854725f995e4a7b48dda39"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/brine-garden-A.json",
+          "sha256": "2ae2623ef596144ec55c20104b532ef97fe912b2aa9d615868cfdbf2d7bf6907",
+          "paths": 4173
+        },
+        "B": {
+          "path": "tools/assets/century/brine-garden-B.json",
+          "sha256": "24c99709cb975899b0ef4abdf33f1c8ee3f5603c2cb9a98b47446ca66c12c5cf",
+          "paths": 1014
+        },
+        "C": {
+          "path": "tools/assets/century/brine-garden-C.json",
+          "sha256": "0311328070c6d413b160a4d2abfe56367a4bcb1c5efa67c4bc6da6691483edad",
+          "paths": 299
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Odzysk minera\u0142\u00f3w jest ciekawy procesowo, lecz kolejne pompy i kolumny zwi\u0119ksza\u0142yby monotoni\u0119 przemys\u0142owych plansz.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435128+00:00"
+      }
+    },
+    {
+      "number": 24,
+      "slug": "root-post",
+      "title": "ROOT POST",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/024-root-post.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4894718,
+          "sha256": "607a2de948c5fb1c9a2a58ae05d614b69b2eac766cee749c466a585b0f2346cf"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/024-root-post.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6268310,
+          "sha256": "e4bfd324b49928fd8a9af3de83c267724e5a26ef7e6ec43779a2d4fda1fcaa71"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/root-post-A.json",
+          "sha256": "1e6dd13291b43e48600dcab2bd1111d48e23afe3bc6d5f8480688941d03992fe",
+          "paths": 1425
+        },
+        "B": {
+          "path": "tools/assets/century/root-post-B.json",
+          "sha256": "3cecfa6892cb2c64d485f1783433e10bee4208ad89d9d3e99819f98675b0cee7",
+          "paths": 364
+        },
+        "C": {
+          "path": "tools/assets/century/root-post-C.json",
+          "sha256": "54885bb8460015d76faad7392195ba8a414e3fe34e86544ec727040293bfaf1c",
+          "paths": 228
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Lanca korzeniowa ma zbyt ma\u0142o odr\u0119bnych mechanizm\u00f3w na trzy znacz\u0105co r\u00f3\u017cne projekcje.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435128+00:00"
+      }
+    },
+    {
+      "number": 25,
+      "slug": "fibre-braid",
+      "title": "FIBRE BRAID",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/025-fibre-braid.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5431854,
+          "sha256": "a2f5d7d59b24201b854a275609db2b98805930491c23fe0359a75aa32d3bec60"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/025-fibre-braid.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6913876,
+          "sha256": "f8d6a01452fec4e8d99424ad49ac63c74b494e83681918ec3a1a62bbfd7b862e"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/fibre-braid-A.json",
+          "sha256": "20aaea0674e4949dbc3dbf5609962e6841c4e2aeb84f4bc1231cdc122a99468e",
+          "paths": 13903
+        },
+        "B": {
+          "path": "tools/assets/century/fibre-braid-B.json",
+          "sha256": "89adb04914e58c12b4680a1eb9f97bce58950c234f201d45b7107a53da1d686e",
+          "paths": 14690
+        },
+        "C": {
+          "path": "tools/assets/century/fibre-braid-C.json",
+          "sha256": "9a37384fc717d6b4bf851327b29f072248103e8d19e0f51aad17626dab0d4c29",
+          "paths": 1488
+        }
+      },
+      "review_status": "user-approved",
+      "curation": {
+        "status": "retained",
+        "batch": 2,
+        "review": "user-approved",
+        "reason": "Wybrany do drugiej dziesi\u0105tki: odr\u0119bna sylwetka, czytelny mechanizm i potencja\u0142 na w\u0142asne wykresy oraz histori\u0119.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435129+00:00",
+        "approved_at": "2026-09-25T08:51:43.437269+00:00"
+      }
+    },
+    {
+      "number": 26,
+      "slug": "canyon-car",
+      "title": "CANYON CAR",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/026-canyon-car.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4945154,
+          "sha256": "adbea2b213a34c5370ab305f5b91c87350ee8b3d2d1926d763c1c5691631721a"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/026-canyon-car.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6232890,
+          "sha256": "d589718b0b6c17db32cee9d052d500052f34a825f070e08508ddd6d996307999"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/canyon-car-A.json",
+          "sha256": "a78c03ad426f83531f87d24f6923f5816d56100fdc71074547d6e716dc6346fc",
+          "paths": 2581
+        },
+        "B": {
+          "path": "tools/assets/century/canyon-car-B.json",
+          "sha256": "a26617b055ee201a77206ab8af6adfa55b11fc139b55baa99cee25707c8339a7",
+          "paths": 2773
+        },
+        "C": {
+          "path": "tools/assets/century/canyon-car-C.json",
+          "sha256": "6ac99447da4fd7a92fbb417c5e7348acc6a39dc53b6d00b23cfc5d1ed7ce6179",
+          "paths": 376
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Podwieszana kabina wygl\u0105da bli\u017cej znanej kolejki ni\u017c autorskiego artefaktu przysz\u0142o\u015bci; krajobraz musia\u0142by wykona\u0107 du\u017c\u0105 cz\u0119\u015b\u0107 pracy.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435130+00:00"
+      }
+    },
+    {
+      "number": 27,
+      "slug": "quasar-clock",
+      "title": "QUASAR CLOCK",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/027-quasar-clock.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5055278,
+          "sha256": "e322b2abf068af170b085079a2cf0b459e92a523f6883978fa2ae325fc214b4d"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/027-quasar-clock.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6297490,
+          "sha256": "16e661874eb95aedfa6682500cf7e22620f4c1c50515cf77b9646282ac7004e2"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/quasar-clock-A.json",
+          "sha256": "8f3027f3ce1bfeee998a0fa3e26872b690bf2f419f1484627ba70a78e21d555e",
+          "paths": 4343
+        },
+        "B": {
+          "path": "tools/assets/century/quasar-clock-B.json",
+          "sha256": "c37e4959174f2829bd865ae0cf66cf1868909357a93ffa3d372ab2418a3cd8b0",
+          "paths": 1868
+        },
+        "C": {
+          "path": "tools/assets/century/quasar-clock-C.json",
+          "sha256": "a7238ae188a5c670c209e9a9b1135bdb298ff941c73d2661e39e8c1f978f22f2",
+          "paths": 2512
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Zegar optyczny jest naukowo ciekawy, ale wizualnie konkuruje z innymi \u0142awami optycznymi; Memory Kiln ma wyra\u017aniejsz\u0105 histori\u0119 przedmiotu.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435131+00:00"
+      }
+    },
+    {
+      "number": 28,
+      "slug": "heat-window",
+      "title": "HEAT WINDOW",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/028-heat-window.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4961664,
+          "sha256": "9963c950b060e911c89be5e1b0f7106d40b629260fcb2d0bc744bee0a51d41b4"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/028-heat-window.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6281564,
+          "sha256": "64dbc0d94b07131179d7cb60e15687985a5ea62693e9822b9102acacec938985"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/heat-window-A.json",
+          "sha256": "4330b656c4b828948107b98fb304c2e2ba3a0021d12e3d9b1ed44cbc8c7f4699",
+          "paths": 1160
+        },
+        "B": {
+          "path": "tools/assets/century/heat-window-B.json",
+          "sha256": "477b858bf0bdc86ffb98306c85f610beadc7673d0eb0d36dbc8dc6fd99269385",
+          "paths": 229
+        },
+        "C": {
+          "path": "tools/assets/century/heat-window-C.json",
+          "sha256": "2a34e70ffc85522834b976e53110d0d1d8f14aaece86221187f0a28592a0cba6",
+          "paths": 596
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Fasada jest p\u0142aska, a jej istotna w\u0142asno\u015b\u0107 niewidzialna; same warstwy i si\u0142ownik nie daj\u0105 r\u00f3wnie bogatej planszy.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435132+00:00"
+      }
+    },
+    {
+      "number": 29,
+      "slug": "breath-shell",
+      "title": "BREATH SHELL",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/029-breath-shell.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4991502,
+          "sha256": "509ea2449d38fe9a2b4ad3b2e10edaafcca84183c711869052b5a7dd81b622dc"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/029-breath-shell.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6257218,
+          "sha256": "487ae318816998029cb2fbfa7c392a68dbc331fb8606073680568a186d07bb6b"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/breath-shell-A.json",
+          "sha256": "8bc5663bb014360f1b0f9533c315a21a5f65e997612ba41890a6bc4a9ae968de",
+          "paths": 2927
+        },
+        "B": {
+          "path": "tools/assets/century/breath-shell-B.json",
+          "sha256": "40960ce360eeae53b68d5d17724e86ac3e6c79ca8b45bdcce0ae32dd8e9f724e",
+          "paths": 1235
+        },
+        "C": {
+          "path": "tools/assets/century/breath-shell-C.json",
+          "sha256": "35376ff0fc172c340695e447e9a3b1f7969c48e4027a21e0aa7aba303102fa92",
+          "paths": 730
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Plecak oddechowy powiela pakiet cylindr\u00f3w i przewod\u00f3w; osobny j\u0119zyk wizualny wymaga\u0142by zasadniczej przebudowy.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435133+00:00"
+      },
+      "pose_checks": {
+        "paired_segment_lengths": true,
+        "continuous_elbows_and_knees": true,
+        "lengths": {
+          "-1upper_arm": 32.48000197592918,
+          "-1forearm": 24.639995578288325,
+          "-1thigh": 40.879999125375335,
+          "-1calf": 39.19999935567117,
+          "1upper_arm": 32.48000197592918,
+          "1forearm": 24.639995578288325,
+          "1thigh": 40.879999125375335,
+          "1calf": 39.19999935567117
+        },
+        "scope": "Illustrative rig geometry; no biomechanics simulation or clinical validation."
+      }
+    },
+    {
+      "number": 30,
+      "slug": "advice-filter",
+      "title": "ADVICE FILTER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/030-advice-filter.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5218618,
+          "sha256": "b91fd797cb98dcb4e683bdb1531fa78513a868b6986a7143e9d579d967b04e28"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/030-advice-filter.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6645300,
+          "sha256": "d300ff8381813d8ce9a1cfcd061a4a32065be4cbe6e4495c7a3488509c9128f5"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/advice-filter-A.json",
+          "sha256": "f69f3844354650f612ee5b022756c8093da0d42bb66c2c4c9acd7c5b21314f30",
+          "paths": 2975
+        },
+        "B": {
+          "path": "tools/assets/century/advice-filter-B.json",
+          "sha256": "47b02525dd03438d42538b464dd961dc8b4090261530f343fee347319c3faa15",
+          "paths": 2155
+        },
+        "C": {
+          "path": "tools/assets/century/advice-filter-C.json",
+          "sha256": "07081af8ef6760c82c4b7299f431b74373a95d8fd4cd27d076814e8099c78eda",
+          "paths": 547
+        }
+      },
+      "review_status": "user-approved",
+      "curation": {
+        "status": "retained",
+        "batch": 1,
+        "review": "user-approved",
+        "reason": "Pierwsza dopracowana dziesi\u0105tka zaakceptowana przez u\u017cytkownika.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435134+00:00"
+      }
+    },
+    {
+      "number": 31,
+      "slug": "petal-eye",
+      "title": "PETAL EYE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/031-petal-eye.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5228400,
+          "sha256": "f021fa6ce679f6d3eef8795a2d779172f7a727db4ff33e2dc13f1db71cf07650"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/031-petal-eye.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6678958,
+          "sha256": "0a6e5c767a3eefa9c9ebeaef81a91b395dcb50450b7b4441d0ee6ae61cdcd93d"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/petal-eye-A.json",
+          "sha256": "c87706e05211e06b292fb6bc1ee681925704c855ab468f1d84e51d3ffdd3f4d0",
+          "paths": 3033
+        },
+        "B": {
+          "path": "tools/assets/century/petal-eye-B.json",
+          "sha256": "8c236d2f86c7b83e19f889d17ece2fc9c33e23d21e10b4ab6bd74479d38ae460",
+          "paths": 1019
+        },
+        "C": {
+          "path": "tools/assets/century/petal-eye-C.json",
+          "sha256": "55c72ab66751351d983c859c38d8b149d6bb7e173074dc9b9db097319a840916",
+          "paths": 1168
+        }
+      },
+      "review_status": "user-approved",
+      "curation": {
+        "status": "retained",
+        "batch": 1,
+        "review": "user-approved",
+        "reason": "Pierwsza dopracowana dziesi\u0105tka zaakceptowana przez u\u017cytkownika.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435135+00:00"
+      }
+    },
+    {
+      "number": 32,
+      "slug": "mantle-needle",
+      "title": "MANTLE NEEDLE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/032-mantle-needle.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5027120,
+          "sha256": "2b9d1c2a28a082d2fd387e1c62cf53cb4026cc5e029bd11846a6dcddf4982ae8"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/032-mantle-needle.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6313454,
+          "sha256": "bd27704d9903625dc30a6e5bda2be4e2ed44f338deefcb86c7575a4f09b283b0"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/mantle-needle-A.json",
+          "sha256": "14621310052aa9158faa7f95a3109810a116b6beb5e73ba68287056503de683b",
+          "paths": 4017
+        },
+        "B": {
+          "path": "tools/assets/century/mantle-needle-B.json",
+          "sha256": "9a19284e5320b276e762fdf10224b56f57c96c915ce2a895673744fb382bb950",
+          "paths": 199
+        },
+        "C": {
+          "path": "tools/assets/century/mantle-needle-C.json",
+          "sha256": "9ca60204b23a741540e4f80120ebd052b06c862c462adc46dc14aa8a8725b045",
+          "paths": 1672
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Wiertnica geotermalna potrzebuje skali podziemia, kt\u00f3rej ma\u0142a plansza urz\u0105dzenia nie oddaje; dominuj\u0105 powtarzalne segmenty.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435136+00:00"
+      }
+    },
+    {
+      "number": 33,
+      "slug": "ice-stitcher",
+      "title": "ICE STITCHER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/033-ice-stitcher.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4839704,
+          "sha256": "dc09b635deb95547f0f606cbfa1d4c5272d092b2a15b08726e0a6b2f5d369a71"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/033-ice-stitcher.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6127678,
+          "sha256": "3f61fe5f583b77eacbf32acab06593d7a98508c640fbbd1c73a32d692ba163af"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/ice-stitcher-A.json",
+          "sha256": "954bb672b122671daacf16e41bef6edc6888c8e4466c59e9a97e473236f607ae",
+          "paths": 2101
+        },
+        "B": {
+          "path": "tools/assets/century/ice-stitcher-B.json",
+          "sha256": "80bc52d1c523ee3128ed8a821293d6bcb9f246e104cb9ccfa0d368ee54802145",
+          "paths": 455
+        },
+        "C": {
+          "path": "tools/assets/century/ice-stitcher-C.json",
+          "sha256": "09abe0dfd773e20812f041e0fa66481bb4632cfeeac1637fe56c70518538eabf",
+          "paths": 1030
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Naprawa lodu ma niejasn\u0105 skal\u0119 oddzia\u0142ywania; bez kontekstu \u0142atwo sugerowa\u0107 wi\u0119ksz\u0105 skuteczno\u015b\u0107 ni\u017c uzasadnia koncepcja.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435137+00:00"
+      }
+    },
+    {
+      "number": 34,
+      "slug": "mycelium-loom",
+      "title": "MYCELIUM LOOM",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/034-mycelium-loom.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4978244,
+          "sha256": "9fc3e7c774fac4f429aa1eb4d121231672fd06470866d4189b412a154e9a0cde"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/034-mycelium-loom.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6280312,
+          "sha256": "0218226534f5e8e60192f081f75bb3fcbd843686623f5581a1f5b480d559781d"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/mycelium-loom-A.json",
+          "sha256": "3df14e5dc7c3cb25f6832e241379d8ac6241bae724ada77f09562f208bc5cd0d",
+          "paths": 970
+        },
+        "B": {
+          "path": "tools/assets/century/mycelium-loom-B.json",
+          "sha256": "43d5c40b0151f26bba58936f8c2447820342c09301328fea862862005d91540c",
+          "paths": 794
+        },
+        "C": {
+          "path": "tools/assets/century/mycelium-loom-C.json",
+          "sha256": "1ab8ad236454e676b649c658570ef64df1f6839bf9e690daacf03221e232edca",
+          "paths": 580
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Prasa grzybniowa jest bliska typowej prasie materia\u0142owej; biologiczna historia dzieje si\u0119 poza widocznym mechanizmem.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435138+00:00"
+      }
+    },
+    {
+      "number": 35,
+      "slug": "metal-orchard",
+      "title": "METAL ORCHARD",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/035-metal-orchard.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5188936,
+          "sha256": "a758e0971ec9fbfc3e55390a6643b2634a33d5af297ece2e8865838e664c2f11"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/035-metal-orchard.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6401220,
+          "sha256": "b8878ab72eed503d611e4f0a65c43f10363eb432a51ffa566f285287f99102c0"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/metal-orchard-A.json",
+          "sha256": "706640364b07e1cc36ed584314c53edcf09196124555688168f7754611891875",
+          "paths": 2697
+        },
+        "B": {
+          "path": "tools/assets/century/metal-orchard-B.json",
+          "sha256": "c5eb21fefbdf7611521fc8d5c9f6b6566b04ef462b8494460eaf26d65385b798",
+          "paths": 883
+        },
+        "C": {
+          "path": "tools/assets/century/metal-orchard-C.json",
+          "sha256": "3d49a703573267e9fff6ae50aeb8c28027c27c37c55825a29e5d4813adf8951c",
+          "paths": 804
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Sortowanie proszk\u00f3w opiera rysunek na kolejnych lejach i zbiornikach, bez mocnego wyr\u00f3\u017cnika ca\u0142ej maszyny.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435139+00:00"
+      }
+    },
+    {
+      "number": 36,
+      "slug": "rescue-fan",
+      "title": "RESCUE FAN",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/036-rescue-fan.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5184444,
+          "sha256": "43b9bedefeac7a44914d26afb278711670830cd57c9533b0735ce55d3f0a06f9"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/036-rescue-fan.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6458134,
+          "sha256": "75f4e5a6cce0cce62edfe6528b3e62ccc67bf9a178891f30846bee23e45bcd73"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/rescue-fan-A.json",
+          "sha256": "e12a7ec5c8de2a7ec8da392d5fce9a170fbcd46e48525477dcf7ea8ea6922856",
+          "paths": 5502
+        },
+        "B": {
+          "path": "tools/assets/century/rescue-fan-B.json",
+          "sha256": "2312604dab2b7f3ac5aab82637de3d314fac84031926883a40f14f863fc7ff8c",
+          "paths": 1111
+        },
+        "C": {
+          "path": "tools/assets/century/rescue-fan-C.json",
+          "sha256": "85b7b5315f6c7584cd5c5389dbb75645975aa0432f4e8f789e2dff63686597e9",
+          "paths": 244
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "No\u015bnik medyczny wymaga sceny pacjenta i ratownik\u00f3w; sam zestaw kana\u0142owych wirnik\u00f3w jest wizualnie znajomy.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435140+00:00"
+      }
+    },
+    {
+      "number": 37,
+      "slug": "stone-listener",
+      "title": "STONE LISTENER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/037-stone-listener.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4929982,
+          "sha256": "bad5c774dbafa8b45f5538a54cacd3677bfaa187b5f192698e2211de8e25ffdb"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/037-stone-listener.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6212144,
+          "sha256": "c041a592142395c265196ebcddffa2e177a63a81e291a32d0c3c8d7af71fc6bd"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/stone-listener-A.json",
+          "sha256": "0da58f3e5cbb286546f58203de1ac9ad2b3987b7fa8981472bf0aee262605f11",
+          "paths": 1117
+        },
+        "B": {
+          "path": "tools/assets/century/stone-listener-B.json",
+          "sha256": "ab3a071b2162e5cd6f1b9ac43cc6862df7d247e92cbbdc44df65dea5ecf13340",
+          "paths": 143
+        },
+        "C": {
+          "path": "tools/assets/century/stone-listener-C.json",
+          "sha256": "78bd7aed1ed662c1b384b9398ee26d79fd8dae8abc9d54d6ba8b281008caa3ee",
+          "paths": 511
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Akustyczny skaner pod\u0142o\u017ca ma sensown\u0105 funkcj\u0119, ale geometria nie pokazuje wyniku badania ani wyj\u0105tkowego mechanizmu.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435141+00:00"
+      }
+    },
+    {
+      "number": 38,
+      "slug": "quiet-stair",
+      "title": "QUIET STAIR",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/038-quiet-stair.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5333638,
+          "sha256": "000d5b9f1a49620f77f963b90c5c7f497ed75fa744b3f3658115ae653c765c1d"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/038-quiet-stair.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6754028,
+          "sha256": "2e5f699bd8c0f7b971f449f4ca343b800ab0b2861aca5a8c95283bf7a117a3a8"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/quiet-stair-A.json",
+          "sha256": "80f2b97e392d5802008ce01cb7cf22e00cbf07cba87a7f8a7765f127a441bde1",
+          "paths": 15976
+        },
+        "B": {
+          "path": "tools/assets/century/quiet-stair-B.json",
+          "sha256": "fdb6fa509859f65674a9af2fb296e237a5e1701e9a7508e121e4ce1eee4dacf3",
+          "paths": 3191
+        },
+        "C": {
+          "path": "tools/assets/century/quiet-stair-C.json",
+          "sha256": "7ec56056e2932d490b79fafecc6c6b30436fc17ac47449d29009a3b39f506e50",
+          "paths": 1497
+        }
+      },
+      "review_status": "quality redesign awaiting review; prior refinement approved",
+      "curation": {
+        "status": "retained",
+        "batch": 2,
+        "review": "quality redesign awaiting review; prior refinement approved",
+        "reason": "Wybrany do drugiej dziesi\u0105tki: odr\u0119bna sylwetka, czytelny mechanizm i potencja\u0142 na w\u0142asne wykresy oraz histori\u0119.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435142+00:00",
+        "approved_at": "2026-09-25T08:51:43.437269+00:00"
+      }
+    },
+    {
+      "number": 39,
+      "slug": "stride-return",
+      "title": "STRIDE RETURN",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/039-stride-return.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4929648,
+          "sha256": "0c2da63e4b0e8f8f30825e949491828ecb6bcc8fd22a7578ed40f9078f9ea5c5"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/039-stride-return.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6249166,
+          "sha256": "0ffc0d6d618375f3e76ab1162e3cdd3d520258629f6c87f0901dac8d361a36ea"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/stride-return-A.json",
+          "sha256": "f61733d2ba7c95a49095069907a67f93ce0afc946f54d0ad24460562644d5cf7",
+          "paths": 2653
+        },
+        "B": {
+          "path": "tools/assets/century/stride-return-B.json",
+          "sha256": "98dfb934f96d699295028efc9d8af48f44e2e4b5b187b9e1aea44a22ebfe06af",
+          "paths": 1123
+        },
+        "C": {
+          "path": "tools/assets/century/stride-return-C.json",
+          "sha256": "c017efc5e202cd84f93f8ae5b898fbd43de4d919656a8056bf5e8f6b38c94063",
+          "paths": 54
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Wspomaganie kostki za blisko powtarza Bounder i wcze\u015bniejsze egzoszkielety; nie poszerza wybranej kolekcji.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435143+00:00"
+      },
+      "pose_checks": {
+        "paired_segment_lengths": true,
+        "continuous_elbows_and_knees": true,
+        "lengths": {
+          "-1upper_arm": 32.48000197592918,
+          "-1forearm": 24.639995578288325,
+          "-1thigh": 40.879999125375335,
+          "-1calf": 39.19999935567117,
+          "1upper_arm": 32.48000197592918,
+          "1forearm": 24.639995578288325,
+          "1thigh": 40.879999125375335,
+          "1calf": 39.19999935567117
+        },
+        "scope": "Illustrative rig geometry; no biomechanics simulation or clinical validation."
+      }
+    },
+    {
+      "number": 40,
+      "slug": "later-anchor",
+      "title": "LATER ANCHOR",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/040-later-anchor.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4977242,
+          "sha256": "3a768ef88c2af71c2bb27c6d651cc924f2807b8cdc170a2362cd21df1889f7c4"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/040-later-anchor.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6305688,
+          "sha256": "c002789bef085757e206262d10d2fdbf5c2a380eeff58c50c0b989dbacfb38ad"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/later-anchor-A.json",
+          "sha256": "f7573416f81fc24082b62e92ad516b67721cb6c3a8e50a5d46f39f6e53856067",
+          "paths": 1473
+        },
+        "B": {
+          "path": "tools/assets/century/later-anchor-B.json",
+          "sha256": "926b924e3512dccdb1291b49be4313226df49212b93940aa7c11fc6b2f59e1eb",
+          "paths": 1158
+        },
+        "C": {
+          "path": "tools/assets/century/later-anchor-C.json",
+          "sha256": "6d307794d42d1623cb728568c9cba08a788018c66bf058596eba24f937054cd1",
+          "paths": 304
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Timer prokrastynacji ma prosty dowcip, lecz niewiele funkcjonalnych detali do dodania bez sztucznego komplikowania.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435144+00:00"
+      }
+    },
+    {
+      "number": 41,
+      "slug": "wheelhouse",
+      "title": "WHEELHOUSE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/041-wheelhouse.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4927496,
+          "sha256": "23429dd2181918111b23157019508284b08c84ace01d060f172ca69cf4c3eb74"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/041-wheelhouse.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6240244,
+          "sha256": "04cd9bd2d049799a139ee0fc7502dab9e90b05b3f2f252b1a2ada96983dd059c"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/wheelhouse-A.json",
+          "sha256": "c9c814b6a7afbbdb68dda7e711fa53931b4bbc68b737d3e235956b4a4cf1b91a",
+          "paths": 3125
+        },
+        "B": {
+          "path": "tools/assets/century/wheelhouse-B.json",
+          "sha256": "5565ccb9535e02042a6e4c24eec387acf143a32c3342c02742499118a6c9076c",
+          "paths": 660
+        },
+        "C": {
+          "path": "tools/assets/century/wheelhouse-C.json",
+          "sha256": "fe881aa2f8c00bdc545bf21851112c9b54c67107ae93ea4c647030ae57d47a92",
+          "paths": 1019
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Rdze\u0144 k\u00f3\u0142 reakcyjnych powtarza motyw os\u0142oni\u0119tych wirnik\u00f3w i niewidzialnego dzia\u0142ania; s\u0142absza narracja ni\u017c wybrane projekty orbitalne.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435145+00:00"
+      }
+    },
+    {
+      "number": 42,
+      "slug": "wind-kite",
+      "title": "WIND KITE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/042-wind-kite.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5113854,
+          "sha256": "016055ce47b059497fca9766947e07b4897f4a29701828f5197d7c798df35294"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/042-wind-kite.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6522344,
+          "sha256": "ee347d86211517dd2e299a2d96a9250a03a41549ebfdb815405d65b41473f4a7"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/wind-kite-A.json",
+          "sha256": "96d7f583499a3d3ff250f651ce103bb59c41b78c7d37ed2d7fb1addefc1926f2",
+          "paths": 5761
+        },
+        "B": {
+          "path": "tools/assets/century/wind-kite-B.json",
+          "sha256": "53a45c4eaa1f975ef9a674d649fec7934dd4db4668e66b1a07a9c09939b2a77b",
+          "paths": 3890
+        },
+        "C": {
+          "path": "tools/assets/century/wind-kite-C.json",
+          "sha256": "0d12d144001ccf4c33e2772d3990e5acd45146809807b3611e2b09fa8c16d7f6",
+          "paths": 637
+        }
+      },
+      "review_status": "quality redesign awaiting review; prior refinement approved",
+      "curation": {
+        "status": "retained",
+        "batch": 2,
+        "review": "quality redesign awaiting review; prior refinement approved",
+        "reason": "Wybrany do drugiej dziesi\u0105tki: odr\u0119bna sylwetka, czytelny mechanizm i potencja\u0142 na w\u0142asne wykresy oraz histori\u0119.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435146+00:00",
+        "approved_at": "2026-09-25T08:51:43.437269+00:00"
+      }
+    },
+    {
+      "number": 43,
+      "slug": "flood-lung",
+      "title": "FLOOD LUNG",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/043-flood-lung.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5093290,
+          "sha256": "4fb274f3ac72f3b756e8d77381301e6a236ed32dc2803a729ff32fa02f4c271e"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/043-flood-lung.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6337948,
+          "sha256": "04eb6e5c8a973bfce66cba877c37a60e0695170018746928a62d76ef8d72fcdb"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/flood-lung-A.json",
+          "sha256": "cddccaaa8a215ae6bb2655a40f793888f9c0cb695a0b23411f77de49fe4a94e7",
+          "paths": 3311
+        },
+        "B": {
+          "path": "tools/assets/century/flood-lung-B.json",
+          "sha256": "e8b2984277dc94576dd77f0db316746e7795ca068ff66b1d170c8e4745da9a8f",
+          "paths": 2074
+        },
+        "C": {
+          "path": "tools/assets/century/flood-lung-C.json",
+          "sha256": "e957ab2a4f8e81e8a3b76c53e501fb00b407d9d54dde0fd11efdf7c52a92bb10",
+          "paths": 696
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Pompa powodziowa wygl\u0105da jak kolejny agregat z w\u0119\u017cami; wymaga sceny wdro\u017cenia, by nabra\u0107 indywidualnego charakteru.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435147+00:00"
+      }
+    },
+    {
+      "number": 44,
+      "slug": "coral-cradle",
+      "title": "CORAL CRADLE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/044-coral-cradle.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5232938,
+          "sha256": "4f8649b655b52daebb768cd373439ff922460af20a45647adc25e32409241180"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/044-coral-cradle.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6628680,
+          "sha256": "3aab6098406da6ad5b69665c971d0b2b8f1cb2f33e69f316e0304002a905b654"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/coral-cradle-A.json",
+          "sha256": "c97109561d03b36a1b9cef7d48debddd01e9d77d1645fc81e331596ba2853b09",
+          "paths": 9363
+        },
+        "B": {
+          "path": "tools/assets/century/coral-cradle-B.json",
+          "sha256": "9d386f27a230f87f4fafc0beecdfa3d16c2268774dd34564e1a713c5475236ad",
+          "paths": 982
+        },
+        "C": {
+          "path": "tools/assets/century/coral-cradle-C.json",
+          "sha256": "82bc35b489eacf35ab3bf0b2adebe90ce30070ce4d5e5aa6e8ff35d03833d597",
+          "paths": 8528
+        }
+      },
+      "review_status": "quality redesign awaiting review; prior refinement approved",
+      "curation": {
+        "status": "retained",
+        "batch": 1,
+        "review": "quality redesign awaiting review; prior refinement approved",
+        "reason": "Pierwsza dopracowana dziesi\u0105tka zaakceptowana przez u\u017cytkownika.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435148+00:00"
+      }
+    },
+    {
+      "number": 45,
+      "slug": "patch-arm",
+      "title": "PATCH ARM",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/045-patch-arm.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5035606,
+          "sha256": "708c9a11537e90cf7900bde3b80ee66a552596bba0c701836d08a15f4a3de8e1"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/045-patch-arm.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6324440,
+          "sha256": "acb7439b5523fd88c000697bdbd8a05d446d6b895ec8fed805f6edbd9f76e2ed"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/patch-arm-A.json",
+          "sha256": "f73aec8ed1d79f576aaee96871edf4891053ff46c46d1ea0f2ea7719bb940c3f",
+          "paths": 2778
+        },
+        "B": {
+          "path": "tools/assets/century/patch-arm-B.json",
+          "sha256": "9930235ee5e76bdded271bd122f7deb754470e159f0d631da0d4caee16e854e0",
+          "paths": 1105
+        },
+        "C": {
+          "path": "tools/assets/century/patch-arm-C.json",
+          "sha256": "73f93575741a5610ef8a3651c4070ea75b60198e4a2ea8cc09b22d68b9cc2ce1",
+          "paths": 645
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Rami\u0119 naprawcze jest zbyt og\u00f3lnym robotem przemys\u0142owym; specyficzne narz\u0119dzie Seam Surgeon daje czytelniejszy temat.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435149+00:00"
+      }
+    },
+    {
+      "number": 46,
+      "slug": "cargo-snake",
+      "title": "CARGO SNAKE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/046-cargo-snake.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4956174,
+          "sha256": "a92912c579e433df74d6fa62582386c3bcbaab62fb01a000a0f63849f6c5715d"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/046-cargo-snake.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6299704,
+          "sha256": "ea7e4f4efbde58f08d5f3bee61929d047c784489baf310c832e282a6f3bf7751"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/cargo-snake-A.json",
+          "sha256": "13e34726a3ad97f69fd021ade44339709f8f8ed7bf5aa0779d5a8d8b924b27cc",
+          "paths": 4799
+        },
+        "B": {
+          "path": "tools/assets/century/cargo-snake-B.json",
+          "sha256": "c6c54a10306093ba9df3bacc3ac5153546c807c12c99f2bce7dd3427aa41af67",
+          "paths": 956
+        },
+        "C": {
+          "path": "tools/assets/century/cargo-snake-C.json",
+          "sha256": "83dadfe905d6c03c1117f8fcefa571546b770db6cbea2478ed251b5788afbe02",
+          "paths": 590
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Poci\u0105g towarowych modu\u0142\u00f3w mno\u017cy podobne bry\u0142y, ale nie daje wystarczaj\u0105co r\u00f3\u017cnych widok\u00f3w pomocniczych.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435150+00:00"
+      }
+    },
+    {
+      "number": 47,
+      "slug": "dark-bloom",
+      "title": "DARK BLOOM",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/047-dark-bloom.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5239276,
+          "sha256": "0be5a033f51d4f9b3fa4eea52e4ff8b563cbb02080deab4fcfc8013eeb6ad452"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/047-dark-bloom.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6480000,
+          "sha256": "ed528885d0e891106bbe89b69310a24ffa54e021514a29a9d1752cb56822f13a"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/dark-bloom-A.json",
+          "sha256": "677089c8a629397b7d5e69ebbf5f89c2628486f6d2e31b48ecdbbf2476b920b5",
+          "paths": 6366
+        },
+        "B": {
+          "path": "tools/assets/century/dark-bloom-B.json",
+          "sha256": "3369692ffd28bc61a4c32b2416d5e0fa654e1441592a2c797b4c13a719dfbd3a",
+          "paths": 2036
+        },
+        "C": {
+          "path": "tools/assets/century/dark-bloom-C.json",
+          "sha256": "5a0c1bf91fc3a39103a801bf9d3383afa98f0b8cb88fb519a468daae1883026a",
+          "paths": 695
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Kamera spektralna jest schludna, lecz kolejne soczewki i uchwyty powtarzaj\u0105 instrumenty ju\u017c wybrane do kolekcji.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435151+00:00"
+      }
+    },
+    {
+      "number": 48,
+      "slug": "air-root",
+      "title": "AIR ROOT",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/048-air-root.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5052166,
+          "sha256": "bc773f4d48c1d6a25ad9a93af6aa77d4fe4fca1df5de7d0b8896bb274dfd6840"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/048-air-root.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6299542,
+          "sha256": "855952c28049d6a23590887bc2139949ddcdabadcca39ebfc68c87997b127144"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/air-root-A.json",
+          "sha256": "518c82352761a641364d29a2aed43330ca9531971f33f31e663be6d698fae132",
+          "paths": 2817
+        },
+        "B": {
+          "path": "tools/assets/century/air-root-B.json",
+          "sha256": "2dedeaf656b0524ab360b3448cb13c97bacbf6945b55f3885532a99a39770263",
+          "paths": 1591
+        },
+        "C": {
+          "path": "tools/assets/century/air-root-C.json",
+          "sha256": "2a2f8b32b4befccbbf98d56ac9cb379ec9eb35263eef3a7ffcda8d77a0a01cc0",
+          "paths": 439
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Filtracja powietrza z ro\u015blinami pokrywa si\u0119 tematycznie z Air Refinery i Greener; nowa obudowa to zbyt ma\u0142o.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435152+00:00"
+      }
+    },
+    {
+      "number": 49,
+      "slug": "cold-mantle",
+      "title": "COLD MANTLE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/049-cold-mantle.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4982842,
+          "sha256": "5ad8a60d17ed9125dbe936b86ef8cd667d50d03f9eac9ecbe99204e55b31eb1d"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/049-cold-mantle.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6230750,
+          "sha256": "91a6d0e7b558e42c3aca39952600f5d0e5111c58b135d17cc5ba077b4edf3406"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/cold-mantle-A.json",
+          "sha256": "1103432080bac2c5a8892efc60c9d4741e77cddf55b2ce4b98453616fa82926b",
+          "paths": 3548
+        },
+        "B": {
+          "path": "tools/assets/century/cold-mantle-B.json",
+          "sha256": "e3d9a671a68716b51023c5a1f176861e7bc629afaa69fe5d9d76f938b6ad8e05",
+          "paths": 117
+        },
+        "C": {
+          "path": "tools/assets/century/cold-mantle-C.json",
+          "sha256": "5cc61428b02c17dd90c63ea218e425612e4f2dc6175d76056351691b55167b81",
+          "paths": 1520
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Uprz\u0105\u017c ch\u0142odz\u0105ca wymaga pokazania cz\u0142owieka i przep\u0142ywu ciep\u0142a; sam osprz\u0119t przypomina inne osobiste pakiety.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435153+00:00"
+      },
+      "pose_checks": {
+        "paired_segment_lengths": true,
+        "continuous_elbows_and_knees": true,
+        "lengths": {
+          "-1upper_arm": 32.48000197592918,
+          "-1forearm": 24.639995578288325,
+          "-1thigh": 40.879999125375335,
+          "-1calf": 39.19999935567117,
+          "1upper_arm": 32.48000197592918,
+          "1forearm": 24.639995578288325,
+          "1thigh": 40.879999125375335,
+          "1calf": 39.19999935567117
+        },
+        "scope": "Illustrative rig geometry; no biomechanics simulation or clinical validation."
+      }
+    },
+    {
+      "number": 50,
+      "slug": "pet-diplomat",
+      "title": "PET DIPLOMAT",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/050-pet-diplomat.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5022536,
+          "sha256": "d8cbcd08ca4bca823f870babb0f5772855a75f1c9039c6db7ff7d1448e440125"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/050-pet-diplomat.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6317982,
+          "sha256": "73b129adc6d6527ae78586bfa33f060adc797d1bd7226e0611230c2c531232e6"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/pet-diplomat-A.json",
+          "sha256": "4dbf1f78c654b417f481bffb8bd27b74a547ec314733aa34ef414f91ca1c0f56",
+          "paths": 2848
+        },
+        "B": {
+          "path": "tools/assets/century/pet-diplomat-B.json",
+          "sha256": "f0d8853d19301c54fca2f36dd4ee4db6f7faa171dcad8e1dd04fb76065457c5f",
+          "paths": 1343
+        },
+        "C": {
+          "path": "tools/assets/century/pet-diplomat-C.json",
+          "sha256": "97fe76e42978647bb5e4b96fe64db4ada396076e172489a5f1a00424bada71ee",
+          "paths": 141
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Terminal zwierz\u0105t ma dobry tytu\u0142, ale humor opiera si\u0119 g\u0142\u00f3wnie na opisie, a interfejs ma ma\u0142o w\u0142asnej mechaniki.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435154+00:00"
+      }
+    },
+    {
+      "number": 51,
+      "slug": "ice-mule",
+      "title": "ICE MULE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/051-ice-mule.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4957184,
+          "sha256": "8fea5633b6904f013e4eb0c9287ee3428813ef9c0f0dd7685483aa7204504da3"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/051-ice-mule.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6246264,
+          "sha256": "a4678b593c3ca72010239806b798e2c7479b545a7289f83f1aa3a38ad33aab41"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/ice-mule-A.json",
+          "sha256": "9427ded021586e7b8366541f3b25fdd4891efeb2a02516718482d291cc33ce43",
+          "paths": 4317
+        },
+        "B": {
+          "path": "tools/assets/century/ice-mule-B.json",
+          "sha256": "0c02c857f9b7e1b71e2b7ccca0af8b2277a44583b1c4ceaf4700880ad5d51277",
+          "paths": 2420
+        },
+        "C": {
+          "path": "tools/assets/century/ice-mule-C.json",
+          "sha256": "51d72271750d66bc4b4f3001aa36221ea1e2efd56b533d1ae4fe332d0ecefa8c",
+          "paths": 548
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "\u0141azik z pojemnikami jest kolejnym wariantem znanej platformy transportowej; temat ksi\u0119\u017cycowy lepiej wyr\u00f3\u017cnia Lunar Porch.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435155+00:00"
+      }
+    },
+    {
+      "number": 52,
+      "slug": "salt-delta",
+      "title": "SALT DELTA",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/052-salt-delta.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4939448,
+          "sha256": "027fbc376027015066137a7a88a0069dd4d77c388adff10c7c5c264377f58866"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/052-salt-delta.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6229916,
+          "sha256": "57d2eabbbf65e66fa3c10ec593c48622a25dcff010e86376cb33a85c9cbb5cec"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/salt-delta-A.json",
+          "sha256": "c58bb03625f733e39a300f22c247b90e25629ceb7d6b22c5270eeeabe9f53833",
+          "paths": 4777
+        },
+        "B": {
+          "path": "tools/assets/century/salt-delta-B.json",
+          "sha256": "05089423e5d3f7f3dcc7bebcc1806a4f58fdcdf02d7daf2400cce44d69036d0a",
+          "paths": 1789
+        },
+        "C": {
+          "path": "tools/assets/century/salt-delta-C.json",
+          "sha256": "6a3f1eb3099152420b4fbfd34160eeaed9413ee7efe051c89a1294f1cf81261c",
+          "paths": 1143
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Stos membranowy jest naukowo sensowny, lecz powtarzalne p\u0142yty i przy\u0142\u0105cza daj\u0105 s\u0142ab\u0105 odr\u0119bno\u015b\u0107 wizualn\u0105.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435155+00:00"
+      }
+    },
+    {
+      "number": 53,
+      "slug": "mist-spire",
+      "title": "MIST SPIRE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/053-mist-spire.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4939236,
+          "sha256": "b53ebe6fd30e93d9556203ddb62e5f1e879beb3d1d88fc1b42344d076466b944"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/053-mist-spire.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6219324,
+          "sha256": "61594c5d58c76aa4c6c8e73721e459d2ff790e5387a407562888dba310cc016c"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/mist-spire-A.json",
+          "sha256": "8694fee6493ff84ca6985f6b4658201eaf68bd5d3fc49b566a464b7144c026d4",
+          "paths": 1434
+        },
+        "B": {
+          "path": "tools/assets/century/mist-spire-B.json",
+          "sha256": "d8c0d0e43875ed68d3e16754fd9c172734ea124875ea87438c0387d467857353",
+          "paths": 136
+        },
+        "C": {
+          "path": "tools/assets/century/mist-spire-C.json",
+          "sha256": "c2cb1c44ab9278ed4a6a6c89fc14177d691e05c86f72b27e047e17b833cf48e8",
+          "paths": 368
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Wie\u017ca mgielna dodaje kolejny wodny kolektor; siatka i stela\u017c maj\u0105 mniejszy potencja\u0142 trzech r\u00f3\u017cnych studi\u00f3w mechanicznych.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435156+00:00"
+      }
+    },
+    {
+      "number": 54,
+      "slug": "spore-library",
+      "title": "SPORE LIBRARY",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/054-spore-library.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5104224,
+          "sha256": "ba94b5ec940a9467df3b0891e0e3ebdf62a1272d41d33253c065da7e3f6640a9"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/054-spore-library.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6330274,
+          "sha256": "68a9b8023b8ad01398ced32104c91753b2375a3c57a41ec6496f71b6ccfa51f3"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/spore-library-A.json",
+          "sha256": "5b9a8cb151eaf3cdd26259a5d6d22a96340e3e0534123e692baf12df00d053b2",
+          "paths": 4044
+        },
+        "B": {
+          "path": "tools/assets/century/spore-library-B.json",
+          "sha256": "1f2d7f6c46ba2c101ae5d1bf07036c42a15fec889259645395c5d25980ad97f1",
+          "paths": 2140
+        },
+        "C": {
+          "path": "tools/assets/century/spore-library-C.json",
+          "sha256": "8cdc4e0cfef95b34559b49fa9e87fb5e97bf1e7737888243b88dafc4288fc65a",
+          "paths": 653
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Archiwum kultur jest g\u0142\u00f3wnie rega\u0142em pr\u00f3bek; Memory Kiln lepiej \u0142\u0105czy pami\u0119\u0107, proces i charakterystyczne cz\u0119\u015bci.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435157+00:00"
+      }
+    },
+    {
+      "number": 55,
+      "slug": "ceramic-nest",
+      "title": "CERAMIC NEST",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/055-ceramic-nest.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5123796,
+          "sha256": "8f2c0caf6e7a5f7564ea9a0be0e7d0994d5b4aa939085daf8078eac3ecc1bed2"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/055-ceramic-nest.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6327692,
+          "sha256": "317306300d4e98a45316f55a9fc64947ae6a7fbdb47d881549acc56d3d39bf29"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/ceramic-nest-A.json",
+          "sha256": "c2deb82184d000db5ea6eb29b6544b0cc084b4bbb7f13769982030fa4ac217df",
+          "paths": 4041
+        },
+        "B": {
+          "path": "tools/assets/century/ceramic-nest-B.json",
+          "sha256": "21819bfc54a70152844df53aa53ce0f7e3d96115556d59ea78c3f4a0760b9865",
+          "paths": 1208
+        },
+        "C": {
+          "path": "tools/assets/century/ceramic-nest-C.json",
+          "sha256": "4ae91fe530927b33f73573743bba670c81b26a4c272cf7fc87b539b22b4367d6",
+          "paths": 808
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Drukarka ceramiczna pozostaje blisko rozpoznawalnej maszyny warsztatowej, a dodatkowe osie nie tworz\u0105 mocniejszej opowie\u015bci.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435158+00:00"
+      }
+    },
+    {
+      "number": 56,
+      "slug": "dune-skimmer",
+      "title": "DUNE SKIMMER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/056-dune-skimmer.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5333348,
+          "sha256": "37fbdcc30e249fb1cb7347ebd664583162d57d0a5aca855f45a0654320f4bcf2"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/056-dune-skimmer.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6815266,
+          "sha256": "bb29f56559bb6c01981d86bd7ae1b4ad2f091953ec3696d6cc63e48d495cf5ce"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/dune-skimmer-A.json",
+          "sha256": "e7462c036c1f36a5c6e17ca7330a2ba785e6807a739b08ed3a7a7bb7a60c4b1a",
+          "paths": 5572
+        },
+        "B": {
+          "path": "tools/assets/century/dune-skimmer-B.json",
+          "sha256": "6d03265b7c715bd9c30d6e058148c4f7cbe59765a48d3ddbd3191090de5200cc",
+          "paths": 1699
+        },
+        "C": {
+          "path": "tools/assets/century/dune-skimmer-C.json",
+          "sha256": "ecf4e991865064493aca34c1851c600b470b4c09a93249113c75b4ba38ee2051",
+          "paths": 1285
+        }
+      },
+      "review_status": "user-approved",
+      "curation": {
+        "status": "retained",
+        "batch": 1,
+        "review": "user-approved",
+        "reason": "Pierwsza dopracowana dziesi\u0105tka zaakceptowana przez u\u017cytkownika.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435159+00:00"
+      }
+    },
+    {
+      "number": 57,
+      "slug": "gravity-pencil",
+      "title": "GRAVITY PENCIL",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/057-gravity-pencil.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4975606,
+          "sha256": "8ca69d6643875f442230b4f56ec663cb8c668b70d8396e252e61781d77ed5c48"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/057-gravity-pencil.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6302790,
+          "sha256": "5e3590e77f427a3255eba8ba9f7da78c6d853d0460995161bc165c57c3a0227b"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/gravity-pencil-A.json",
+          "sha256": "5053f5502b811a180244d28b10950756cda77fcbce5778d961db19b51329448d",
+          "paths": 2947
+        },
+        "B": {
+          "path": "tools/assets/century/gravity-pencil-B.json",
+          "sha256": "640f21f32b48595431a416175d2e2bcad0bf2d5914f20ebb31cfce2859103d7b",
+          "paths": 1203
+        },
+        "C": {
+          "path": "tools/assets/century/gravity-pencil-C.json",
+          "sha256": "02262e6576686ff7dea10b4c76871826ebc9a0a5c7a79e97f4e5c03ac8911f4d",
+          "paths": 927
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Czujnik fal materii wymaga abstrakcyjnej prezentacji dzia\u0142ania; kszta\u0142t niewiele m\u00f3wi bez obszernego wyk\u0142adu.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435160+00:00"
+      }
+    },
+    {
+      "number": 58,
+      "slug": "frost-house",
+      "title": "FROST HOUSE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/058-frost-house.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5026784,
+          "sha256": "b41707e79c99f2a1cace0ef0444dde0780c8dac9027ddf226e167fc6542ccb33"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/058-frost-house.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6384538,
+          "sha256": "16a17944f93ba6f43d620831a9044726454c18f2e5a19764e9fb6783c1951693"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/frost-house-A.json",
+          "sha256": "60d277408467352b839e9f415d2cd02feaf480e85f469ad6899e87410eca514d",
+          "paths": 1590
+        },
+        "B": {
+          "path": "tools/assets/century/frost-house-B.json",
+          "sha256": "5d98846f2272126dd2523425cd55f0927014f7ca51c7628de5046b30b332bfe7",
+          "paths": 355
+        },
+        "C": {
+          "path": "tools/assets/century/frost-house-C.json",
+          "sha256": "4c530d4d5586bdc11273bb8ab91df30cd6fb1ca899db0db11ea7d91459f7f9b8",
+          "paths": 252
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Szafa ch\u0142odnicza ma zbyt zwyczajn\u0105 bry\u0142\u0119 i ma\u0142o czytelny wyr\u00f3\u017cnik funkcjonalny w samym rysunku.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435162+00:00"
+      }
+    },
+    {
+      "number": 59,
+      "slug": "reach-friend",
+      "title": "REACH FRIEND",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/059-reach-friend.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4849850,
+          "sha256": "d7ac775472a54fb61e8356179cb75c23d4b8826f73ae39a44b75c5e01b1c96a9"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/059-reach-friend.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6198980,
+          "sha256": "c48f88958ca772f4fed991c3125c3b138a473c622e5410277b1c93c5ec41bea0"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/reach-friend-A.json",
+          "sha256": "bb519af04b678b2234b4e0f57757559c1d0f46fb1c63e7fa6826b307726f0043",
+          "paths": 2331
+        },
+        "B": {
+          "path": "tools/assets/century/reach-friend-B.json",
+          "sha256": "c8628d736e49f2240f0a4e97dc3fae0fe932323693000f8b6a7b9b893049428f",
+          "paths": 626
+        },
+        "C": {
+          "path": "tools/assets/century/reach-friend-C.json",
+          "sha256": "46e49017050035b0ee8bbf918b5fcb212dccc0489911ce003e2314e45fa171a5",
+          "paths": 388
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Jarzmo wspomagaj\u0105ce barki powiela kategori\u0119 egzoszkielet\u00f3w oraz wysokie wymagania anatomiczne wcze\u015bniejszych tapet.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435163+00:00"
+      },
+      "pose_checks": {
+        "paired_segment_lengths": true,
+        "continuous_elbows_and_knees": true,
+        "lengths": {
+          "-1upper_arm": 32.48000197592918,
+          "-1forearm": 24.639995578288325,
+          "-1thigh": 40.879999125375335,
+          "-1calf": 39.19999935567117,
+          "1upper_arm": 32.48000197592918,
+          "1forearm": 24.639998682309724,
+          "1thigh": 40.879999125375335,
+          "1calf": 39.19999935567117
+        },
+        "scope": "Illustrative rig geometry; no biomechanics simulation or clinical validation."
+      }
+    },
+    {
+      "number": 60,
+      "slug": "meeting-buoy",
+      "title": "MEETING BUOY",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/060-meeting-buoy.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5167612,
+          "sha256": "2ad60057ed0c0def1f190b76ba19b0953dd6ee763bc2e4390aee5d4fbbaab6a2"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/060-meeting-buoy.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6576160,
+          "sha256": "8e80315ce5d1aaba28bcd177430b13010e71822d3bb35ce79e2993f225f5036c"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/meeting-buoy-A.json",
+          "sha256": "95f4170ddb01049f96449836d2ef8374ba78ef71b6893fbd86b47d3efcbb3ac0",
+          "paths": 7557
+        },
+        "B": {
+          "path": "tools/assets/century/meeting-buoy-B.json",
+          "sha256": "d1d061437d663e3e4e31c0195c16540eef886fa0338d34810920d03649853d2f",
+          "paths": 2131
+        },
+        "C": {
+          "path": "tools/assets/century/meeting-buoy-C.json",
+          "sha256": "f5afc654ed87bfbca2ccb528d90dd4d8b3014179f66cdc49e901e69620021d4a",
+          "paths": 2052
+        }
+      },
+      "review_status": "quality redesign awaiting review; prior refinement approved",
+      "curation": {
+        "status": "retained",
+        "batch": 1,
+        "review": "quality redesign awaiting review; prior refinement approved",
+        "reason": "Pierwsza dopracowana dziesi\u0105tka zaakceptowana przez u\u017cytkownika.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435163+00:00"
+      }
+    },
+    {
+      "number": 61,
+      "slug": "shade-courier",
+      "title": "SHADE COURIER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/061-shade-courier.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5058812,
+          "sha256": "0f1ab2781c9febfab82bfe625f3a386121e0896a0d658dbeb2e574fdd8c98240"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/061-shade-courier.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6335598,
+          "sha256": "06c771dd47eb2b6149693e92bbfa752152c3da440ccd1c1b960e112bd3645c6a"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/shade-courier-A.json",
+          "sha256": "ed1efe16360fe1c5b28be7fcf4ab8be3b758bc8339b72978ed8d483455133079",
+          "paths": 2982
+        },
+        "B": {
+          "path": "tools/assets/century/shade-courier-B.json",
+          "sha256": "fe0d632be07de5e4c84154df04a6662dc90aade63dfe1ff9c8a1d550e052082a",
+          "paths": 955
+        },
+        "C": {
+          "path": "tools/assets/century/shade-courier-C.json",
+          "sha256": "685d8e3c879ea88665cf2e24906e3cd8f685aa50f0b1a9ac4a8c665dc90fd88b",
+          "paths": 2440
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Pasywny statek ch\u0142odniczy konkuruje z Light Sail rozpi\u0119t\u0105 os\u0142on\u0105, ale oferuje s\u0142abszy motyw przewodni.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435164+00:00"
+      }
+    },
+    {
+      "number": 62,
+      "slug": "sun-fold",
+      "title": "SUN FOLD",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/062-sun-fold.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5066564,
+          "sha256": "1269ca0b40a88dd5e33527dc5c1cb6b7c7b6b01211d5eb6be4bcad78399896de"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/062-sun-fold.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6325978,
+          "sha256": "bffd6ab1f1e8e7613fe00c549c753718fe9800de3791ae4fd4b689412d8b96fa"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/sun-fold-A.json",
+          "sha256": "6cb70a9762259375379fbb4d28de2f3ba1110f3da3336349ff4730e7e97538c6",
+          "paths": 5555
+        },
+        "B": {
+          "path": "tools/assets/century/sun-fold-B.json",
+          "sha256": "6ecbbff3bd22ba4a1d58bdf86760b8b2aa366265d71c358a3669f88ff3fab08c",
+          "paths": 542
+        },
+        "C": {
+          "path": "tools/assets/century/sun-fold-C.json",
+          "sha256": "1d1ebff87cdfd1ccca65f83560ea9986bcfce77da038c9fe8dc44859094ea2f2",
+          "paths": 1202
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Rozk\u0142adana fotowoltaika ma czyteln\u0105 mechanik\u0119, lecz wizualnie jest bliska istniej\u0105cym produktom i powtarza wachlarz paneli.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435165+00:00"
+      }
+    },
+    {
+      "number": 63,
+      "slug": "well-warden",
+      "title": "WELL WARDEN",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/063-well-warden.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4870872,
+          "sha256": "f11cb3c6613d06cfbe33fd892b0fe7cc9269c43d1326757fab7a233f22aeb23d"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/063-well-warden.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6203134,
+          "sha256": "46b79ad7e48c857fc64abe8e9506451604f037811e8cc874f91918fa65864326"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/well-warden-A.json",
+          "sha256": "373e68831f7e80b25a20ea72f140915b2bc9aaf6bc51eb1abf13bf332bb6011d",
+          "paths": 2694
+        },
+        "B": {
+          "path": "tools/assets/century/well-warden-B.json",
+          "sha256": "e4f5917b51f89b0b079786dd8be03a09aa29ddff9c31096b0e8f95bd92be293f",
+          "paths": 1826
+        },
+        "C": {
+          "path": "tools/assets/century/well-warden-C.json",
+          "sha256": "62045c706f0a0f77628f2a0f911a42e2bf8c4a65d33caae44625596ca0a09fc9",
+          "paths": 618
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Stacja studzienna to zestaw obudowy i sondy; najciekawsza historia odbywa si\u0119 pod ziemi\u0105, poza sylwetk\u0105.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435166+00:00"
+      }
+    },
+    {
+      "number": 64,
+      "slug": "canopy-weaver",
+      "title": "CANOPY WEAVER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/064-canopy-weaver.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4957520,
+          "sha256": "ef640eaed8d5cd1d6f406ece4b69bf542628bf298ab9f9d85d8d996b98bdbd22"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/064-canopy-weaver.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6185408,
+          "sha256": "b4e3589b2b4e2f8cb3431b059845573f2bde31f28b63561cdb3d4048a0869571"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/canopy-weaver-A.json",
+          "sha256": "a25d04ab3c4e918a2c58f417f78a1a9d63ec80e66392ab594ab18ca68cb0984a",
+          "paths": 3490
+        },
+        "B": {
+          "path": "tools/assets/century/canopy-weaver-B.json",
+          "sha256": "c1aec85e39e5904e99d23719d97d196c0c9df964924cd818d8812f2e2c0182bc",
+          "paths": 754
+        },
+        "C": {
+          "path": "tools/assets/century/canopy-weaver-C.json",
+          "sha256": "bcf23a9d36491a61eae4adc72b8681e3a1850e20e6dfdca7e9ee5f6fa2c2a53b",
+          "paths": 1408
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Robot arborystyczny wymaga drzewa i przebiegu lin, by jego uk\u0142ad by\u0142 zrozumia\u0142y; sam mechanizm jest zbyt anonimowy.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435167+00:00"
+      }
+    },
+    {
+      "number": 65,
+      "slug": "seam-surgeon",
+      "title": "SEAM SURGEON",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/065-seam-surgeon.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5231738,
+          "sha256": "02004f7cfcec1e33f5d5ae9f9b609421803ee482f6b0209384e4bd0fcf8160ea"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/065-seam-surgeon.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6663254,
+          "sha256": "3d469d7928258f4b953e375ce413e637298d4c791846933484ed51b2ec7e826c"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/seam-surgeon-A.json",
+          "sha256": "96f23454f2235e99739c2c37ecb51a766eb271c6cbf82643e1773c233377568f",
+          "paths": 2950
+        },
+        "B": {
+          "path": "tools/assets/century/seam-surgeon-B.json",
+          "sha256": "0ca46189bc7b74ef0ae0a7db43b3f01228b9e594199f2440605cdd3d541765cc",
+          "paths": 1524
+        },
+        "C": {
+          "path": "tools/assets/century/seam-surgeon-C.json",
+          "sha256": "a079d961b7c9d18ba412ad1c4b960c4b43d0df73a7df80b0a2a3856c058a3c26",
+          "paths": 798
+        }
+      },
+      "review_status": "quality redesign awaiting review; prior refinement approved",
+      "curation": {
+        "status": "retained",
+        "batch": 2,
+        "review": "quality redesign awaiting review; prior refinement approved",
+        "reason": "Wybrany do drugiej dziesi\u0105tki: odr\u0119bna sylwetka, czytelny mechanizm i potencja\u0142 na w\u0142asne wykresy oraz histori\u0119.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435168+00:00",
+        "approved_at": "2026-09-25T08:51:43.437269+00:00"
+      }
+    },
+    {
+      "number": 66,
+      "slug": "canal-thread",
+      "title": "CANAL THREAD",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/066-canal-thread.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4785392,
+          "sha256": "8c7083ea7c53638e69b6164d3e2d775b9faaa98a85ca8b41987e05519ea867b9"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/066-canal-thread.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6094478,
+          "sha256": "80a1f84ba1dc4b5459a7cf4672dcdf41b1de406693cf37bdd74bd8c44d717d9a"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/canal-thread-A.json",
+          "sha256": "b029a7a48bb57e4d87ea964cfda6d09ba8f7b5ca7c765be686a0b680c9086e07",
+          "paths": 2931
+        },
+        "B": {
+          "path": "tools/assets/century/canal-thread-B.json",
+          "sha256": "2719f4752d90d196b5973ff6f35cf23cd7e9217322be7c601b0e17171bbe1671",
+          "paths": 424
+        },
+        "C": {
+          "path": "tools/assets/century/canal-thread-C.json",
+          "sha256": "bc995c875496b17d3b47d4dbd5d57e87ac4718ec12d2b29c0bd573588e268fcf",
+          "paths": 1412
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Barka towarowa ma du\u017c\u0105 prost\u0105 powierzchni\u0119; Manta Foil daje bogatsz\u0105 relacj\u0119 kad\u0142uba, podp\u00f3r i nap\u0119du.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435169+00:00"
+      }
+    },
+    {
+      "number": 67,
+      "slug": "spectrum-harp",
+      "title": "SPECTRUM HARP",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/067-spectrum-harp.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4993294,
+          "sha256": "e2bb1775ac9c5c44f66432619c3579e4be0e525373b30ac8462f5a721cd1e3ef"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/067-spectrum-harp.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6281232,
+          "sha256": "2c0430338f388fe84cd7dc017ed932eaef36b3515bdef4a1997f16c794dafd33"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/spectrum-harp-A.json",
+          "sha256": "20ee3cd41dc418e6bcaa170451ffea153932b380e4ae19ba77f6727c5610a7f8",
+          "paths": 2246
+        },
+        "B": {
+          "path": "tools/assets/century/spectrum-harp-B.json",
+          "sha256": "2fff3d784bb1e436d622b68afd52e350f2b3d6e13e38532e368cd26b6d4c1a90",
+          "paths": 939
+        },
+        "C": {
+          "path": "tools/assets/century/spectrum-harp-C.json",
+          "sha256": "f49d7d60b84b2d297fbe9b3b23f87e69955a1facc25400c483b517e6c08de3a9",
+          "paths": 697
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Spektrometr konkuruje z innymi instrumentami optycznymi, a jego charakter wynika bardziej z wykresu ni\u017c autorskiej bry\u0142y.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435170+00:00"
+      }
+    },
+    {
+      "number": 68,
+      "slug": "bridge-kit",
+      "title": "BRIDGE KIT",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/068-bridge-kit.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4973314,
+          "sha256": "dc7f0c418158cc62540cccc376ee9e7dc7d08819ac4dd8855e6683fd3ebae3bf"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/068-bridge-kit.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6309666,
+          "sha256": "e4585a5e7dd54112d911710474dfb1ca149b091627435c2efafa459b0d44213f"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/bridge-kit-A.json",
+          "sha256": "421f837544b43a14551397f7cc7e2dc8c01fc14ce899bee38c20c34808e8be3e",
+          "paths": 2837
+        },
+        "B": {
+          "path": "tools/assets/century/bridge-kit-B.json",
+          "sha256": "d187e95dac8c8b5863cdbef1818aedd3d6b96e9ed2d16efdc805b2e05f754bb0",
+          "paths": 334
+        },
+        "C": {
+          "path": "tools/assets/century/bridge-kit-C.json",
+          "sha256": "ea90cfaeb5a5bb50caecccfe1d2046fe12330669dbaa75254a7a5ac29e68ebca",
+          "paths": 159
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Most sk\u0142adany ma interesuj\u0105cy ruch, ale sekwencja rozk\u0142adania wymaga\u0142aby dominacji nad samym urz\u0105dzeniem.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435171+00:00"
+      }
+    },
+    {
+      "number": 69,
+      "slug": "balance-thread",
+      "title": "BALANCE THREAD",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/069-balance-thread.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5029680,
+          "sha256": "deb9feb9916e6a8bf7774fb491e1d3c1b84a4ea680b4651f769f2976ee47745d"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/069-balance-thread.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6327908,
+          "sha256": "98ae61a3ae198991cfd85c15d68d2c6994360e4e1f1bc0e98a2e1be7365c93a1"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/balance-thread-A.json",
+          "sha256": "41c5c46391c0add3e09a961774a96ef378abd126c2324d242400044cd2671c31",
+          "paths": 2874
+        },
+        "B": {
+          "path": "tools/assets/century/balance-thread-B.json",
+          "sha256": "9aa5095ae2654f83933f32faca3391761ecbf9c76abc11427e86c8e4a1b9d90d",
+          "paths": 301
+        },
+        "C": {
+          "path": "tools/assets/century/balance-thread-C.json",
+          "sha256": "c37a49d51cfaad1715ad4a180b690f4c91d39931e219074e8e08f87c9ee5971b",
+          "paths": 914
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Pas nawigacyjny ma za ma\u0142o geometrii na pe\u0142n\u0105 plansz\u0119; \u0142atwo wype\u0142ni\u0107 j\u0105 pozornymi detalami zamiast tre\u015bci\u0105.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435172+00:00"
+      },
+      "pose_checks": {
+        "paired_segment_lengths": true,
+        "continuous_elbows_and_knees": true,
+        "lengths": {
+          "-1upper_arm": 32.48000197592918,
+          "-1forearm": 24.639995578288325,
+          "-1thigh": 40.879999125375335,
+          "-1calf": 39.19999935567117,
+          "1upper_arm": 32.48000197592918,
+          "1forearm": 24.639995578288325,
+          "1thigh": 40.879999125375335,
+          "1calf": 39.19999935567117
+        },
+        "scope": "Illustrative rig geometry; no biomechanics simulation or clinical validation."
+      }
+    },
+    {
+      "number": 70,
+      "slug": "queue-garden",
+      "title": "QUEUE GARDEN",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/070-queue-garden.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5221902,
+          "sha256": "2451e882376f9a9d9a36cef3d2d5690789a127c1389c5a27ff672d7cb3d6a275"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/070-queue-garden.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6657278,
+          "sha256": "c5ebab474e65bbf9ff701bdbe215b033e050597bb4aa20dd385831c10f78dae5"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/queue-garden-A.json",
+          "sha256": "fa2c0c142cada023b0f24cde88e8fc4808a2328e57c53e62b8bc8ae8452487ee",
+          "paths": 7482
+        },
+        "B": {
+          "path": "tools/assets/century/queue-garden-B.json",
+          "sha256": "b5647c0edc926d8aa3594219395c00343b8b40a63404c7bc361bcaa7ec7fb99e",
+          "paths": 3052
+        },
+        "C": {
+          "path": "tools/assets/century/queue-garden-C.json",
+          "sha256": "c51fe523218aea09f5952a6017a065756a6bd7402a55521e56d34f2d2d979954",
+          "paths": 1826
+        }
+      },
+      "review_status": "quality redesign awaiting review; prior refinement approved",
+      "curation": {
+        "status": "retained",
+        "batch": 2,
+        "review": "quality redesign awaiting review; prior refinement approved",
+        "reason": "Wybrany do drugiej dziesi\u0105tki: odr\u0119bna sylwetka, czytelny mechanizm i potencja\u0142 na w\u0142asne wykresy oraz histori\u0119.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435174+00:00",
+        "approved_at": "2026-09-25T08:51:43.437269+00:00"
+      }
+    },
+    {
+      "number": 71,
+      "slug": "regolith-kite",
+      "title": "REGOLITH KITE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/071-regolith-kite.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4986544,
+          "sha256": "d38923a6c5444611c0674531b9b1dddcbc3b7b91f2ba697f997614fb54a6ab2a"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/071-regolith-kite.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6308560,
+          "sha256": "0fa5099b52fcf926ce34aa50a3fe48490799a913b2de03c480d686b70b0b6a9a"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/regolith-kite-A.json",
+          "sha256": "450e3d7924893a9b776e8c75cf5910d83067c3329d92e0a99117741685a63955",
+          "paths": 3346
+        },
+        "B": {
+          "path": "tools/assets/century/regolith-kite-B.json",
+          "sha256": "c83e260194eb0f3890588704c370519a61ced39959af21ffe8514ec1a714a33a",
+          "paths": 1453
+        },
+        "C": {
+          "path": "tools/assets/century/regolith-kite-C.json",
+          "sha256": "8b8590cd1286809383b6f24fe5d4aa8ff2eb2bcd367a6033055897de89e6250c",
+          "paths": 912
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Ksi\u0119\u017cycowa g\u0142owica na uwi\u0119zi jest trudna do odczytania bez terenu i kotwienia; mechanicznie uwi\u0119\u017a lepiej pokazuje Wind Kite.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435175+00:00"
+      }
+    },
+    {
+      "number": 72,
+      "slug": "pulse-reef",
+      "title": "PULSE REEF",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/072-pulse-reef.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5006446,
+          "sha256": "cc9dadb73cb10e4006eefb1c51faf883b8eb642f326c352c9c8bc8324f0fbfc4"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/072-pulse-reef.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6294042,
+          "sha256": "e6e5e3de80df5649b0cf329240baa6de35a13b581add6f042f1a2a60dd61a384"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/pulse-reef-A.json",
+          "sha256": "575a9bf16cf5361923049d51efaf6dd416c2b0cb07364c7dac373a5e8ad5e3f9",
+          "paths": 3555
+        },
+        "B": {
+          "path": "tools/assets/century/pulse-reef-B.json",
+          "sha256": "3bc093727f2f8e5812a2ddb7ac599abd71e6a9e22fc04b37257e2985307f3b36",
+          "paths": 1148
+        },
+        "C": {
+          "path": "tools/assets/century/pulse-reef-C.json",
+          "sha256": "4d0d9814074640923e11127517ce5090801ff0b3d6b5ca0b831da3ab23b8076e",
+          "paths": 817
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Falowy generator powtarza pionowy cylinder z kotwieniem; Tidal Loom ma bardziej charakterystyczne wn\u0119trze i przep\u0142yw.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435176+00:00"
+      }
+    },
+    {
+      "number": 73,
+      "slug": "blue-loop",
+      "title": "BLUE LOOP",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/073-blue-loop.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5065170,
+          "sha256": "8c7409e6377f3b6d3d0a47ea7735092125b7083a3190e31a8c6005479d6acde1"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/073-blue-loop.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6281718,
+          "sha256": "9bc846b82c82405d72803f7a2471442fa6037163b6b4781c0ddcb97939962bf0"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/blue-loop-A.json",
+          "sha256": "48dab9bdf5c2996396afd82102bbff16b0ab7d21827ed8fdf5ac8ecd4bbca9eb",
+          "paths": 7322
+        },
+        "B": {
+          "path": "tools/assets/century/blue-loop-B.json",
+          "sha256": "51e3936408314c5b27ba2fdae540b49dff2249ae3ac3cd4efb226e4fac8589ab",
+          "paths": 4253
+        },
+        "C": {
+          "path": "tools/assets/century/blue-loop-C.json",
+          "sha256": "1d008c9fabf9f21d5df09640d8f3e4c8b70589d0f0c4165aab780ddf4bb7a28b",
+          "paths": 994
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Odzysk szarej wody powtarza zestawy filtr\u00f3w i zbiornik\u00f3w, nie dodaj\u0105c mocno odr\u0119bnego j\u0119zyka wizualnego.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435177+00:00"
+      }
+    },
+    {
+      "number": 74,
+      "slug": "algae-ribbon",
+      "title": "ALGAE RIBBON",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/074-algae-ribbon.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5120266,
+          "sha256": "cad59dbec4a3a6faff71dfe7908948cc1c3eca312f1fdafd87d32a95dadf0b60"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/074-algae-ribbon.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6323336,
+          "sha256": "a3696567fe5583ab3dbba633ef2404b08c9bc7a42ed631829727cb97ffa58691"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/algae-ribbon-A.json",
+          "sha256": "4e608737d7a1e8618deded9e8b9b15b3340e8b8b02cf32582bb8e7458ed7c18c",
+          "paths": 3010
+        },
+        "B": {
+          "path": "tools/assets/century/algae-ribbon-B.json",
+          "sha256": "ac0f2f573e7ecae5b4ca8a79617eefc44ed12ac9a5e2b55c09126ef52ed4c746",
+          "paths": 1362
+        },
+        "C": {
+          "path": "tools/assets/century/algae-ribbon-C.json",
+          "sha256": "53e7c337ef4ef903f6a51a044d6d4d858d9018f2d7de2e297679cd66cf770931",
+          "paths": 5109
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Bioreaktor cienkowarstwowy jest atrakcyjny jako instalacja, ale trzy projekcje zbyt \u0142atwo sprowadzaj\u0105 si\u0119 do podobnych p\u0142yt i rur.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435178+00:00"
+      }
+    },
+    {
+      "number": 75,
+      "slug": "foam-forge",
+      "title": "FOAM FORGE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/075-foam-forge.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4854928,
+          "sha256": "dcb113f55127e952375c59fd3214e3b8cb16da71736a78e4c06fa2cc8bd9f639"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/075-foam-forge.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6153052,
+          "sha256": "a34e7175f5f17747a7c1e97bd8f8c10689d6e0c843bdddb941439983b37dd0af"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/foam-forge-A.json",
+          "sha256": "9214f31ce670630f8a2b0e41129542c04aa32dec7bddeb52efdb8d9b2b6e98ce",
+          "paths": 1850
+        },
+        "B": {
+          "path": "tools/assets/century/foam-forge-B.json",
+          "sha256": "c5555cfa46f8347218df7cc4eebe5906207755336c1e5e0952a50dad189a1c45",
+          "paths": 1276
+        },
+        "C": {
+          "path": "tools/assets/century/foam-forge-C.json",
+          "sha256": "98f7b08ca167573d9321d1366e7d34880d20f8a95b26b716200ac7762967a647",
+          "paths": 1079
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Kom\u00f3rka spieniania odlewu wymaga pokazania mikrostruktury; obecna obudowa i podajnik wygl\u0105daj\u0105 zbyt og\u00f3lnie.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435178+00:00"
+      }
+    },
+    {
+      "number": 76,
+      "slug": "cliff-step",
+      "title": "CLIFF STEP",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/076-cliff-step.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4862542,
+          "sha256": "da33b62b25000d5a895f2e0468d8a826a22ab8f5cd78f9d028bd8e180950cb82"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/076-cliff-step.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6185058,
+          "sha256": "93f26314791df8a830aae6948e8f50bc9c451a1e17fe794005e7b091768d4d9e"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/cliff-step-A.json",
+          "sha256": "3a39005c15270f301571fc8ca8ca425666cac177d2ac454cc5ea69344f555cbd",
+          "paths": 1391
+        },
+        "B": {
+          "path": "tools/assets/century/cliff-step-B.json",
+          "sha256": "e6d235bd59a8643a0c35df338b48076969a389a284772648edc57c84d17bca24",
+          "paths": 2152
+        },
+        "C": {
+          "path": "tools/assets/century/cliff-step-C.json",
+          "sha256": "22f415586c5a920129e8ceb33067419a846e5ebaeb81503d7b7736f98ca7be3b",
+          "paths": 684
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Wspinacz \u0142adunkowy pokrywa si\u0119 z Tether Climber; bez zupe\u0142nie odmiennej zasady dzia\u0142ania by\u0142by powt\u00f3rk\u0105.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435179+00:00"
+      }
+    },
+    {
+      "number": 77,
+      "slug": "fault-lantern",
+      "title": "FAULT LANTERN",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/077-fault-lantern.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4968180,
+          "sha256": "295d973fd49f08a751df400517d1855e6cc10502adcdd1f418b5140cd124bced"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/077-fault-lantern.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6235838,
+          "sha256": "049005df7c6508163959b043d840544e92e43bfa865123ed0fbd002f61bbd140"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/fault-lantern-A.json",
+          "sha256": "0adcaec2ffc766bd10e99fcdbb1807a8ae8662e3e4fc9b4893d1e1de639f7166",
+          "paths": 2318
+        },
+        "B": {
+          "path": "tools/assets/century/fault-lantern-B.json",
+          "sha256": "6ef49f6d1b8410b8edaea7d918836e219d3172e3c7633e54828fb570e4884e84",
+          "paths": 1656
+        },
+        "C": {
+          "path": "tools/assets/century/fault-lantern-C.json",
+          "sha256": "25938b56754dc45d0a57829a799f6f55dc9f9f34cd55a43c9e0567d7914a2fee",
+          "paths": 352
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Obrazowanie napr\u0119\u017ce\u0144 potrzebuje mierzonej konstrukcji i mapy danych; sam instrument nie ma wystarczaj\u0105cej to\u017csamo\u015bci.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435180+00:00"
+      }
+    },
+    {
+      "number": 78,
+      "slug": "sand-archive",
+      "title": "SAND ARCHIVE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/078-sand-archive.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5050678,
+          "sha256": "eb58dcd73aecae00c5f2bf99a349283d0ae1a87b2a6fcc1adf901985780f28a9"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/078-sand-archive.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6368426,
+          "sha256": "070d7669721580f8a072e08bdb0a88d1a14eda8a9d2035a9a77382ea06b52600"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/sand-archive-A.json",
+          "sha256": "d2bd30cba2f1c3f280ebd657aedafdba235e971d48fdbb0b09c279648fb9bff1",
+          "paths": 1555
+        },
+        "B": {
+          "path": "tools/assets/century/sand-archive-B.json",
+          "sha256": "fb825f1a48b9feed334334e9d2c51e1187c074be04c1a9f10d3c7d75f9d9b151",
+          "paths": 502
+        },
+        "C": {
+          "path": "tools/assets/century/sand-archive-C.json",
+          "sha256": "fc7a4e593f06e2fcb29eb1f3f8bffcca2eed30f3c744bea58e42b25e9a5de010",
+          "paths": 309
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Podziemny skarbiec ma mocny temat, ale prawie ca\u0142e dzia\u0142anie wynika z lokalizacji, kt\u00f3rej sam przedmiot nie pokazuje.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435181+00:00"
+      }
+    },
+    {
+      "number": 79,
+      "slug": "dive-spine",
+      "title": "DIVE SPINE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/079-dive-spine.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4911996,
+          "sha256": "0d3e3f0dade57270ee6cedb1fe01feb24178bf2357b45048ecd12b2a849e51b5"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/079-dive-spine.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6261612,
+          "sha256": "f4add22af5e83eb78e39a396bc408fbe191cfdd93d2d7343fc202e398a3c65e7"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/dive-spine-A.json",
+          "sha256": "ef4e5fdd6dc60c6b2d7ffaf8f1da927bf27630d120d90eb12d9897887bf66f45",
+          "paths": 3077
+        },
+        "B": {
+          "path": "tools/assets/century/dive-spine-B.json",
+          "sha256": "2f08638bca3f995f7abfc848242107423765f9523b1c218779c10889d3b8794d",
+          "paths": 774
+        },
+        "C": {
+          "path": "tools/assets/century/dive-spine-C.json",
+          "sha256": "a9b995c3c93253381ff468214c5f188b52ea044a1bf03fce106a01d4deec09a6",
+          "paths": 188
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Zestaw nurkowy wraca do butli, uprz\u0119\u017cy i przewod\u00f3w; ma mniejsz\u0105 odr\u0119bno\u015b\u0107 ni\u017c wybrane mechanizmy.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435182+00:00"
+      },
+      "pose_checks": {
+        "paired_segment_lengths": true,
+        "continuous_elbows_and_knees": true,
+        "lengths": {
+          "-1upper_arm": 32.48000197592918,
+          "-1forearm": 24.639995578288325,
+          "-1thigh": 40.879999125375335,
+          "-1calf": 39.19999935567117,
+          "1upper_arm": 32.48000197592918,
+          "1forearm": 24.639995578288325,
+          "1thigh": 40.879999125375335,
+          "1calf": 39.19999935567117
+        },
+        "scope": "Illustrative rig geometry; no biomechanics simulation or clinical validation."
+      }
+    },
+    {
+      "number": 80,
+      "slug": "compliment-mill",
+      "title": "COMPLIMENT MILL",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/080-compliment-mill.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5230506,
+          "sha256": "de1b4c48ba509593868b27db16c94daeca1148bfd6aad49d75bc55b11f9ec65e"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/080-compliment-mill.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6688300,
+          "sha256": "0a8588f66ed245b349439ec934b78a84645bc903451cc2b04dfac6a060ff5c62"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/compliment-mill-A.json",
+          "sha256": "2a620e1f43ddc51ca03bc5c565164555c8e4543914f05a653469dfd444a54f4f",
+          "paths": 5397
+        },
+        "B": {
+          "path": "tools/assets/century/compliment-mill-B.json",
+          "sha256": "36481a6d93b1c51b340b881817350692e80e5dc4ab0ea1c009a71ec51e24f8a4",
+          "paths": 1699
+        },
+        "C": {
+          "path": "tools/assets/century/compliment-mill-C.json",
+          "sha256": "e525cd01d5b267981dacaf745bf3a0c80058cde6560735a3a5c20aa816573668",
+          "paths": 2867
+        }
+      },
+      "review_status": "user-approved",
+      "curation": {
+        "status": "retained",
+        "batch": 2,
+        "review": "user-approved",
+        "reason": "Wybrany do drugiej dziesi\u0105tki: odr\u0119bna sylwetka, czytelny mechanizm i potencja\u0142 na w\u0142asne wykresy oraz histori\u0119.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435183+00:00",
+        "approved_at": "2026-09-25T08:51:43.437269+00:00"
+      }
+    },
+    {
+      "number": 81,
+      "slug": "comet-anchor",
+      "title": "COMET ANCHOR",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/081-comet-anchor.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4998848,
+          "sha256": "36c6fab5c5053cd386211d64e968e32b16610cc1031ee75de71e9f3300141063"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/081-comet-anchor.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6316402,
+          "sha256": "1762df441bc1afabb06af2578af3d724b0b3c0965a795442d8dbd519211983ca"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/comet-anchor-A.json",
+          "sha256": "71275f95438f692d0107b9cd3872e1712f3c201b859b6fc4eb869b5e28a3dce6",
+          "paths": 2868
+        },
+        "B": {
+          "path": "tools/assets/century/comet-anchor-B.json",
+          "sha256": "022e82efd93bac6c0d0edaddd8ebd5a1ee7590ba5e7e8ab67fb169e3293a23ce",
+          "paths": 1654
+        },
+        "C": {
+          "path": "tools/assets/century/comet-anchor-C.json",
+          "sha256": "d6d3af8d283581eb1f187908553465c1025f06579da513e381539f360eef5847",
+          "paths": 944
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "L\u0105downik pr\u00f3bkuj\u0105cy komet\u0119 powiela nogi, korpus i manipulator innych sond; trudno unikn\u0105\u0107 katalogowej sylwetki.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435184+00:00"
+      }
+    },
+    {
+      "number": 82,
+      "slug": "night-cell",
+      "title": "NIGHT CELL",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/082-night-cell.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5014376,
+          "sha256": "c5426ad2f99cbcf4c3fe5f4e4b16c0116b88c90ca70045d202557b969b4cc1aa"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/082-night-cell.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6279468,
+          "sha256": "d82e3bb0537e418d568805b36b466ec628c235de37e3fcb3cffefa5627e826f1"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/night-cell-A.json",
+          "sha256": "e587afcdb62203e9b0d5de6dbae78fcf47c288b6dc97a8c3ef112a83e346cd5e",
+          "paths": 1279
+        },
+        "B": {
+          "path": "tools/assets/century/night-cell-B.json",
+          "sha256": "f5b270201e733734e77baaaddd2ac71953577e4e54f5ca3585e199d9bbf83b19",
+          "paths": 290
+        },
+        "C": {
+          "path": "tools/assets/century/night-cell-C.json",
+          "sha256": "85f8e0b490a29f8ba840d35ab773a9645ec7cb081a7ed0ec5808fea99a110e31",
+          "paths": 535
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Silnik ch\u0142odzenia radiacyjnego jest kusz\u0105cy tematycznie, lecz obraz nie pokazuje ogranicze\u0144 bilansu energii; \u0142atwo nadinterpretowa\u0107 obietnic\u0119.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435185+00:00"
+      }
+    },
+    {
+      "number": 83,
+      "slug": "silt-heron",
+      "title": "SILT HERON",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/083-silt-heron.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4992962,
+          "sha256": "91266b842a9de613cca25e7bd1f31b046478cc27bed9777651322c2bebd384ec"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/083-silt-heron.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6316480,
+          "sha256": "625deeb3a0cf15385460de4b2a7bb83377e0cf861f7d35769821f0ba191c644a"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/silt-heron-A.json",
+          "sha256": "35067343003d3fea04d5e31befef40b62333c8956ac236f0d7dc21d8594b5c8e",
+          "paths": 3573
+        },
+        "B": {
+          "path": "tools/assets/century/silt-heron-B.json",
+          "sha256": "5a2c45f4936bcf7926310213a28b2b19171d9e79c54e6f827c968a53330ea3bc",
+          "paths": 1756
+        },
+        "C": {
+          "path": "tools/assets/century/silt-heron-C.json",
+          "sha256": "93dd5610b25ba2338b7162ccf4043ce218283e999a6e17f0815718836ed6097d",
+          "paths": 319
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Krocz\u0105cy pr\u00f3bnik osad\u00f3w to kolejny robot na nogach z sond\u0105; jego scena pracy by\u0142aby wa\u017cniejsza od samej maszyny.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435186+00:00"
+      }
+    },
+    {
+      "number": 84,
+      "slug": "soil-choir",
+      "title": "SOIL CHOIR",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/084-soil-choir.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4977760,
+          "sha256": "a45d1714139a09418adfbaa140e273f91cd8521960c005acb06e8462afe441fc"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/084-soil-choir.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6262958,
+          "sha256": "e98bcf90c4dd9f774c5f78673c3f915d25aa30eb3b80fa1ec8f08bb794d7e02e"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/soil-choir-A.json",
+          "sha256": "510c820389197770f8126f896f12c1588adf0b70f400ce4a9e6b2efcd7c5249f",
+          "paths": 3229
+        },
+        "B": {
+          "path": "tools/assets/century/soil-choir-B.json",
+          "sha256": "4327abf848ed61f4aaa50ddf3f0ac04c5869f3a6d38208b45cf806ff33bc4e62",
+          "paths": 977
+        },
+        "C": {
+          "path": "tools/assets/century/soil-choir-C.json",
+          "sha256": "fb98c0d8d70f4ebd15230af62c3618759ebd61206f8493cc402342be83185965",
+          "paths": 844
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Sie\u0107 sond glebowych jest zbiorem podobnych drobnych element\u00f3w; silniejsza jako mapa terenowa ni\u017c blueprint pojedynczego urz\u0105dzenia.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435187+00:00"
+      }
+    },
+    {
+      "number": 85,
+      "slug": "thread-doctor",
+      "title": "THREAD DOCTOR",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/085-thread-doctor.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4892148,
+          "sha256": "c1a2bf5efe2008b13bef379d99b16e3322968faaa4ae92ddb9b17073a5561ae8"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/085-thread-doctor.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6209272,
+          "sha256": "66ffa8784f25cec50440a5605e11d56bb79d7e8ce1af8a90db5de1f5c67f66e6"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/thread-doctor-A.json",
+          "sha256": "ffd8a05399ccd9489aaeabd1b1a0f488039e5a86ef103590c8ed42f50bcb0d13",
+          "paths": 1699
+        },
+        "B": {
+          "path": "tools/assets/century/thread-doctor-B.json",
+          "sha256": "43151bb57d6410beb0246bb961301ac38c3a78488a76666a5834fc9a5f1a5b2b",
+          "paths": 156
+        },
+        "C": {
+          "path": "tools/assets/century/thread-doctor-C.json",
+          "sha256": "f09cc1922ab746f825f1077c2ce59432dbd622b98452392118a1cf93e88845df",
+          "paths": 791
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Naprawa w\u0142\u00f3kien ma dobry temat, ale obecny warsztat dubluje j\u0119zyk ma\u0142ych g\u0142owic i szpul; Fibre Braid daje mocniejszy mechanizm.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435188+00:00"
+      }
+    },
+    {
+      "number": 86,
+      "slug": "island-wing",
+      "title": "ISLAND WING",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/086-island-wing.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4831710,
+          "sha256": "242b345f206159200e47e9e56256e22da3d3244d8012bf65d0a004eec3f6f665"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/086-island-wing.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6163040,
+          "sha256": "600bd1a49a0d37a9191996a61e9aa73c1b7aeaaf023115059a9bc1a9077807b4"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/island-wing-A.json",
+          "sha256": "22085800050204abba20bb791d0af6a0fe66145785ff32fe3c140f7babffbe30",
+          "paths": 2528
+        },
+        "B": {
+          "path": "tools/assets/century/island-wing-B.json",
+          "sha256": "722001a3460d3d3a8fec32fce0c54f8a5d89039a6edccbaac232be18b1b8136e",
+          "paths": 201
+        },
+        "C": {
+          "path": "tools/assets/century/island-wing-C.json",
+          "sha256": "96152785abbc46cd8004d5c34bba8e741c6b81c514704f04e4ffa1e657827c95",
+          "paths": 254
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Ekranoplan wymaga kontekstu powierzchni i skali, a jego sylwetka konkuruje z bardziej mechanicznym Manta Foil.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435189+00:00"
+      }
+    },
+    {
+      "number": 87,
+      "slug": "neutrino-bell",
+      "title": "NEUTRINO BELL",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/087-neutrino-bell.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5317490,
+          "sha256": "af9af4a2c5cebedae22f1a42f293960b02d56405ee27b60bf1e45180ddad2a56"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/087-neutrino-bell.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6774900,
+          "sha256": "b904480874665e4403c526bcee5d30df6fa1219082f6e95f7d6612700f75e2e8"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/neutrino-bell-A.json",
+          "sha256": "0bd64c9ef3f0141583785bc208397b4999b045662ce274557dfcd090f679fe43",
+          "paths": 6552
+        },
+        "B": {
+          "path": "tools/assets/century/neutrino-bell-B.json",
+          "sha256": "8d7e13d8437bcf757f65f7df28d7a8ba0b61a9bd2dc287d3bea9029d1ea17e34",
+          "paths": 919
+        },
+        "C": {
+          "path": "tools/assets/century/neutrino-bell-C.json",
+          "sha256": "f68d1d8077da0c2485d8554f960fe288822ef7b308270be79d76042640bcabe5",
+          "paths": 1442
+        }
+      },
+      "review_status": "user-approved",
+      "curation": {
+        "status": "retained",
+        "batch": 1,
+        "review": "user-approved",
+        "reason": "Pierwsza dopracowana dziesi\u0105tka zaakceptowana przez u\u017cytkownika.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435190+00:00"
+      }
+    },
+    {
+      "number": 88,
+      "slug": "floating-court",
+      "title": "FLOATING COURT",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/088-floating-court.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4902208,
+          "sha256": "c10b639e808b262b0b197f330afd0ae1831414c8934c5f4d0ca7bbb0b6fba789"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/088-floating-court.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6257018,
+          "sha256": "7ba6cbe52cc25c4b9cf82eb298eafd69a339a3cd4339ba6b35a374f1b84606e0"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/floating-court-A.json",
+          "sha256": "fd53d88ae040a9e00a054c49904f52acfc865ea5ef34651fbb276ef00bc6b712",
+          "paths": 1831
+        },
+        "B": {
+          "path": "tools/assets/century/floating-court-B.json",
+          "sha256": "b574d9e98efaa991fac39fbba72d6022aa2465457f8e1cf8358cad76fc78480c",
+          "paths": 666
+        },
+        "C": {
+          "path": "tools/assets/century/floating-court-C.json",
+          "sha256": "598d4887b722c2d545f3e761af02027685022a451cf395f57c4459db53c865ba",
+          "paths": 127
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "P\u0142ywaj\u0105ce schronienie jest bliskie modu\u0142owej architekturze; detale instalacyjne nie kompensuj\u0105 powtarzalnego rzutu platformy.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435191+00:00"
+      }
+    },
+    {
+      "number": 89,
+      "slug": "grip-print",
+      "title": "GRIP PRINT",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/089-grip-print.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4919024,
+          "sha256": "4733d75d5c15d2819143e5426249442aeb53737471d0c1fb61ff7d6b100b771a"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/089-grip-print.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6254684,
+          "sha256": "0b0473f82ee4ba0ee16b9d7e0bea7b1fff5d7eb7dfef9714e491a290b31459b4"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/grip-print-A.json",
+          "sha256": "9a3c31dd656dfac3dd632c4c17c566bee9881fe6462997ef8bd197e2c8ec544b",
+          "paths": 1520
+        },
+        "B": {
+          "path": "tools/assets/century/grip-print-B.json",
+          "sha256": "86676784df5629875e7e04ec04c318a8d52cd915748ab537674ad875c0e3c587",
+          "paths": 1461
+        },
+        "C": {
+          "path": "tools/assets/century/grip-print-C.json",
+          "sha256": "72715da006b03a397594e95c4b2425a8e631a0f9aec9d68fda3b629b01b39b1d",
+          "paths": 240
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "D\u0142o\u0144 protetyczna wymaga wyj\u0105tkowo wiarygodnej anatomii i funkcji; sama forma to zbyt znajomy motyw robotyki w tej kolekcji.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435192+00:00"
+      },
+      "pose_checks": {
+        "paired_segment_lengths": true,
+        "continuous_elbows_and_knees": true,
+        "lengths": {
+          "-1upper_arm": 92.80000281272913,
+          "-1forearm": 70.39999843329265,
+          "-1thigh": 116.79999845532313,
+          "-1calf": 112.00000798285124,
+          "1upper_arm": 92.80000281272913,
+          "1forearm": 70.39999843329265,
+          "1thigh": 116.79999845532313,
+          "1calf": 112.00000798285124
+        },
+        "scope": "Illustrative rig geometry; no biomechanics simulation or clinical validation."
+      }
+    },
+    {
+      "number": 90,
+      "slug": "crumb-pilot",
+      "title": "CRUMB PILOT",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/090-crumb-pilot.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4874146,
+          "sha256": "921f4a2a43f8afc1243bf7ccf9f71045f48c3a47bf6efe42ba757c57d6898320"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/090-crumb-pilot.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6217166,
+          "sha256": "2dd06591cdb2333d2d9fc4d8c576ec6c2176a4363355934add6f2670d0a9398c"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/crumb-pilot-A.json",
+          "sha256": "eec0ef1a462f5f363b88cf15e1974d9fc6f36dbf6160ac41bc94850994d90709",
+          "paths": 1919
+        },
+        "B": {
+          "path": "tools/assets/century/crumb-pilot-B.json",
+          "sha256": "caef9c8926668f3504a3e831769a82d656215e4ce9fd94c4f9753cb84a5e42d4",
+          "paths": 538
+        },
+        "C": {
+          "path": "tools/assets/century/crumb-pilot-C.json",
+          "sha256": "69c6f5bc1808165dcba4c68749c3b35cb1d25579c36d9c8500a4a20b9f9fa3d3",
+          "paths": 518
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Okruszkowy robot ma sympatyczny temat, ale dowcip i mechanika szybko si\u0119 wyczerpuj\u0105 wobec bogatszych urz\u0105dze\u0144 domowych.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435193+00:00"
+      }
+    },
+    {
+      "number": 91,
+      "slug": "star-post",
+      "title": "STAR POST",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/091-star-post.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5010656,
+          "sha256": "00a50f21c82c72ce2937e97a3fa0a8f5f414af7230382e423635003cf42be382"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/091-star-post.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6261702,
+          "sha256": "0d27c40004c0827984e6002cf3ab39734228497c937983f53ea2eaddec131006"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/star-post-A.json",
+          "sha256": "67be2b2de989d2fbdd2b9b7ee8dd1201fc5d042d34c12bdbc57a3b2476bf9880",
+          "paths": 2324
+        },
+        "B": {
+          "path": "tools/assets/century/star-post-B.json",
+          "sha256": "8a2607fb953cdfb532be321d7d2a55559c7cf90bc42c56657a77b023d5768dc7",
+          "paths": 956
+        },
+        "C": {
+          "path": "tools/assets/century/star-post-C.json",
+          "sha256": "9fe88e9d0d952aed6204411a5df3be4591072c1802c68ebf2eb307840a0adbea",
+          "paths": 516
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Przeka\u017anik optyczny powtarza antenowo-optyczn\u0105 sylwetk\u0119 sond; Petal Eye jest wyra\u017aniejszym bohaterem tej kategorii.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435194+00:00"
+      }
+    },
+    {
+      "number": 92,
+      "slug": "district-heart",
+      "title": "DISTRICT HEART",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/092-district-heart.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5208656,
+          "sha256": "5ade4f446a4e7ed952157b225f900a4df48701148795f2469a41d728d6f99794"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/092-district-heart.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6404368,
+          "sha256": "aab49c5dd9a567a50085ef0ef9077b78a96d9323f5095a3edddb684662110024"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/district-heart-A.json",
+          "sha256": "ddf0af116bf0d5335863c58f25fe04836614022358f045de3e94f38265d085a3",
+          "paths": 6265
+        },
+        "B": {
+          "path": "tools/assets/century/district-heart-B.json",
+          "sha256": "88f4915c74df855ce81c3e968038843834826f29137c5b06e6c31ebb9565c671",
+          "paths": 2569
+        },
+        "C": {
+          "path": "tools/assets/century/district-heart-C.json",
+          "sha256": "fe5fab1f2d83317f3e9f12a09b6e387369da6111608363b56951042045751d84",
+          "paths": 2284
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Pompa ciep\u0142a jest wa\u017cna u\u017cytkowo, lecz obecna ilustracja wygl\u0105da jak konwencjonalny modu\u0142 techniczny.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435195+00:00"
+      }
+    },
+    {
+      "number": 93,
+      "slug": "cloud-cistern",
+      "title": "CLOUD CISTERN",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/093-cloud-cistern.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4971688,
+          "sha256": "1b8fb4eba3a4a73995695b4ce7c4998ab74caa417933eb5646bab7815a1b20dc"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/093-cloud-cistern.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6259020,
+          "sha256": "8bcdbb4a2b795e22690433572a8339dd9a3981b38992b8900f5e7a29c950c59b"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/cloud-cistern-A.json",
+          "sha256": "1c03221e0212b0ededdadc31182264c3dd5af5d5806adbf77b0b4996c6ebfaed",
+          "paths": 2585
+        },
+        "B": {
+          "path": "tools/assets/century/cloud-cistern-B.json",
+          "sha256": "70e6e8df5ecba0b994b65ada71fb66c02ded2d1dc56c0a45eaa164f9defbac89",
+          "paths": 1223
+        },
+        "C": {
+          "path": "tools/assets/century/cloud-cistern-C.json",
+          "sha256": "4f03651bc78376790c6ff7d73accb73dd7d11e1a38f1d0c9d554d67d62ffb7e2",
+          "paths": 1637
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Sterowiec z wod\u0105 ma intryguj\u0105c\u0105 skal\u0119, ale ci\u0119\u017car, wyp\u00f3r i zastosowanie wymagaj\u0105 wi\u0119kszej przebudowy za\u0142o\u017ce\u0144 ni\u017c dopracowania planszy.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435196+00:00"
+      }
+    },
+    {
+      "number": 94,
+      "slug": "orchard-tender",
+      "title": "ORCHARD TENDER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/094-orchard-tender.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5032432,
+          "sha256": "f4f81ea1b91bf24d43b0fb8216f64afa3dfedfb740bed3527daab9bdd3c1e194"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/094-orchard-tender.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6336852,
+          "sha256": "1c0e3526d5efc8f14d4a8454573a5ba9e2d7b79f0d694f74b9f0bee0614e07e3"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/orchard-tender-A.json",
+          "sha256": "83a52ef60b6ad87ba59f7293c1029de7dd9d45c0aaa7ff08abbbf03824f18912",
+          "paths": 4025
+        },
+        "B": {
+          "path": "tools/assets/century/orchard-tender-B.json",
+          "sha256": "06880627a0bc655af5bea5f9164f8133caa17593a405048137ee62ef6372a651",
+          "paths": 1036
+        },
+        "C": {
+          "path": "tools/assets/century/orchard-tender-C.json",
+          "sha256": "15329af1265fdf936d766406f2cfa81c0e31f7fff9bf12af423fd0d1df8cbb41",
+          "paths": 1493
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Zbieracz owoc\u00f3w to kolejna platforma z ramieniem i koszem; precyzja chwytu nie odr\u00f3\u017cnia dostatecznie ca\u0142ej sylwetki.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435196+00:00"
+      }
+    },
+    {
+      "number": 95,
+      "slug": "brick-return",
+      "title": "BRICK RETURN",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/095-brick-return.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5047380,
+          "sha256": "d91b7287abbdab48f4aa280323588896411e196130768ed809fe3ecebbd37e22"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/095-brick-return.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6315168,
+          "sha256": "83a65f77e303ab04bf95ed6f3aded582cd3367d30cb26f0f5b2e337e3ab5dea4"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/brick-return-A.json",
+          "sha256": "c98aadaca59afd36b0f0d9a6b028d908dc806a7451295984f2c8baa6a769e759",
+          "paths": 3654
+        },
+        "B": {
+          "path": "tools/assets/century/brick-return-B.json",
+          "sha256": "710abd163c804b85631838589dfa71da584768179d2ddcb0e49ad881c6467fa6",
+          "paths": 1349
+        },
+        "C": {
+          "path": "tools/assets/century/brick-return-C.json",
+          "sha256": "b4d0a21e89720ffdbc56ebcf32f8702a4d78d8ffc6691a05683a03fa67b82c8d",
+          "paths": 1128
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Prasa odzysku cegie\u0142 jest bliska istniej\u0105cej maszynie przemys\u0142owej; trudno doda\u0107 futurystyczny charakter samymi \u015brubami.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435197+00:00"
+      }
+    },
+    {
+      "number": 96,
+      "slug": "rail-pod",
+      "title": "RAIL POD",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/096-rail-pod.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4808224,
+          "sha256": "8b803b05e05099cfa327d4745ef13a42609eddc879801b5f44cb9e8e56286ed8"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/096-rail-pod.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6156126,
+          "sha256": "59a3413fd48ee658af8ef1e0c2e08bdec067f8456248770e79e12de7fc9c220b"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/rail-pod-A.json",
+          "sha256": "f273dffd24624ca56c63a8dcb9ac55216017b05cb0428479dcb60d5b0d53f4a3",
+          "paths": 2870
+        },
+        "B": {
+          "path": "tools/assets/century/rail-pod-B.json",
+          "sha256": "7e65797387041d2fe4a105d07d2f2687ed4552807abc973c381ef8909ddc662a",
+          "paths": 2812
+        },
+        "C": {
+          "path": "tools/assets/century/rail-pod-C.json",
+          "sha256": "0ab0b1a418ed3ed267b3938e7e9ae4d196e5dc1f7bf4fae4c9eefe772b121289",
+          "paths": 289
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Kapsu\u0142a kolejowa ma zbyt prost\u0105 bry\u0142\u0119, a jej dzia\u0142anie wynika z infrastruktury, kt\u00f3rej plansza nie pokazuje.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435198+00:00"
+      }
+    },
+    {
+      "number": 97,
+      "slug": "echo-cartographer",
+      "title": "ECHO CARTOGRAPHER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/097-echo-cartographer.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4936838,
+          "sha256": "f067305219e316ca8c62e815e18e5d7d27b2ced9a3bb777b687773ae7e85ae64"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/097-echo-cartographer.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6209738,
+          "sha256": "faf331e1d0b0f73c365a739765ed56dfe85f6d43dbbd13f22f394eb101fb5b3e"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/echo-cartographer-A.json",
+          "sha256": "d886d7d9f6a4558bd3c362d7898d56cdf05d8ee91fea199c4ecd56422791ee69",
+          "paths": 2724
+        },
+        "B": {
+          "path": "tools/assets/century/echo-cartographer-B.json",
+          "sha256": "d94fe50e956d6e48aaaee8aa86fa3a77b6dd9b5dda4dc10bda430c21c26dc056",
+          "paths": 1511
+        },
+        "C": {
+          "path": "tools/assets/century/echo-cartographer-C.json",
+          "sha256": "4c26257166b6233b509fe5267adb9122f8488e75fe5aeb7ce4b2e532c6ba6634",
+          "paths": 596
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Skaner jaski\u0144 wymaga mapy i otoczenia, by odr\u00f3\u017cni\u0107 si\u0119 od innych mobilnych platform pomiarowych.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435199+00:00"
+      }
+    },
+    {
+      "number": 98,
+      "slug": "shade-orchard",
+      "title": "SHADE ORCHARD",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/098-shade-orchard.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 4945538,
+          "sha256": "c85a3bda3653ae36eab0a158554a63abadbea5df1153a4cc7408c94232520246"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/098-shade-orchard.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6276986,
+          "sha256": "4c3c6d84bf197a11af12da7a11572b1ecc68985401edb4d6c82fda85ade1f7d7"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/shade-orchard-A.json",
+          "sha256": "c956ff2c44470fcbfb2f3c666fafdbcab42c540ac2db28f4722434eea6103650",
+          "paths": 2658
+        },
+        "B": {
+          "path": "tools/assets/century/shade-orchard-B.json",
+          "sha256": "ef892270375b7e793a3cd699b756fa397185c1ab6ebd503aba6f10cd96d13998",
+          "paths": 1859
+        },
+        "C": {
+          "path": "tools/assets/century/shade-orchard-C.json",
+          "sha256": "8e0615163c2e1d2b1f81bc1453c91a4aa4881a8716be7463b04634a2a35242a9",
+          "paths": 423
+        }
+      },
+      "review_status": "archived-by-user-request",
+      "curation": {
+        "status": "rejected",
+        "batch": null,
+        "review": "archived-by-user-request",
+        "reason": "Miejska os\u0142ona klimatyczna powtarza korony i rozk\u0142adane panele; indywidualny detal ginie w regularnym uk\u0142adzie.",
+        "revisit": "Only on explicit user request",
+        "decided_at": "2026-09-25T08:25:17.435200+00:00"
+      }
+    },
+    {
+      "number": 99,
+      "slug": "sleep-cocoon",
+      "title": "SLEEP COCOON",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/099-sleep-cocoon.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5177166,
+          "sha256": "811edec5a1a1fbaf89d512993ad57c71070b077b94cac1b77bbcc92855af4e9e"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/099-sleep-cocoon.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6570630,
+          "sha256": "6ac6e39ab5675f9f93b9046a25bbb589664dc87684c72cf5ade4b4cd274843f3"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/sleep-cocoon-A.json",
+          "sha256": "257ed7064ad3324a2f1038a5e7dd7398b2b4109b747362e2500caaeef1cdf961",
+          "paths": 6444
+        },
+        "B": {
+          "path": "tools/assets/century/sleep-cocoon-B.json",
+          "sha256": "b373d11e6b866fe933ea05d3321633c80daeecd075c61c53d2855aa514537ff9",
+          "paths": 456
+        },
+        "C": {
+          "path": "tools/assets/century/sleep-cocoon-C.json",
+          "sha256": "967755cb0dbb3bcfe184a92796cfb042d29226e3e9d6e372d55ad02ac914a752",
+          "paths": 2766
+        }
+      },
+      "review_status": "quality redesign awaiting review; prior refinement approved",
+      "curation": {
+        "status": "retained",
+        "batch": 1,
+        "review": "quality redesign awaiting review; prior refinement approved",
+        "reason": "Pierwsza dopracowana dziesi\u0105tka zaakceptowana przez u\u017cytkownika.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435201+00:00"
+      },
+      "pose_checks": {
+        "paired_segment_lengths": true,
+        "continuous_elbows_and_knees": true,
+        "lengths": {
+          "-1upper_arm": 32.48000149930251,
+          "-1forearm": 24.64000129699707,
+          "-1thigh": 40.880001068115234,
+          "-1calf": 39.20000076293945,
+          "1upper_arm": 32.48000149930251,
+          "1forearm": 24.64000129699707,
+          "1thigh": 40.880001068115234,
+          "1calf": 39.20000076293945
+        },
+        "scope": "Illustrative rig geometry; no biomechanics simulation or clinical validation."
+      }
+    },
+    {
+      "number": 100,
+      "slug": "plant-alibi",
+      "title": "PLANT ALIBI",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/100-plant-alibi.webp",
+          "size": [
+            5120,
+            2160
+          ],
+          "bytes": 5237210,
+          "sha256": "23157997bdf9e6fee8f65795c809c9d276e364b8fdf0997fc5ee0c63c78c9394"
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/100-plant-alibi.webp",
+          "size": [
+            5120,
+            2880
+          ],
+          "bytes": 6692738,
+          "sha256": "eb8740f3e4d72b0c5fa138d692d246037f33d625f1e726d74224613df6f7a9c8"
+        }
+      },
+      "views": {
+        "A": {
+          "path": "tools/assets/century/plant-alibi-A.json",
+          "sha256": "b11e813e4bf5e460b35afa9f598a3a97dffdf133d56170aa59712fa5fc88cfee",
+          "paths": 5077
+        },
+        "B": {
+          "path": "tools/assets/century/plant-alibi-B.json",
+          "sha256": "119a46f3a467ba4b12aef437feaaf03d622c9961152568f33d08030a1f1e3adf",
+          "paths": 1495
+        },
+        "C": {
+          "path": "tools/assets/century/plant-alibi-C.json",
+          "sha256": "215ead3762e87bbb5deb9506a53d9d0343a923030c4df2a20c66348bf4955895",
+          "paths": 2735
+        }
+      },
+      "review_status": "user-approved",
+      "curation": {
+        "status": "retained",
+        "batch": 1,
+        "review": "user-approved",
+        "reason": "Pierwsza dopracowana dziesi\u0105tka zaakceptowana przez u\u017cytkownika.",
+        "revisit": null,
+        "decided_at": "2026-09-25T08:25:17.435202+00:00"
+      }
+    }
+  ],
+  "limitations": [
+    "Speculative illustrations, not manufacturing drawings.",
+    "Curated selection: twenty retained, eighty rejected and archived. Nine retained Century sheets have a new quality redesign awaiting user review; their prior refinements were approved. Collection membership unchanged.",
+    "Primary sources describe selected physical principles, not these invented machines."
+  ]
+}

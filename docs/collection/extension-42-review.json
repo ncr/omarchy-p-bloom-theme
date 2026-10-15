@@ -1,0 +1,886 @@
+{
+  "collection_count": 42,
+  "native_file_count": 84,
+  "new_concept_count": 8,
+  "new_native_files": 16,
+  "layout_audits_passed": 16,
+  "older_retained_wide_masters_unchanged": 34,
+  "rejected_catalog_entries_unchanged": 80,
+  "pipeline": "Blender / visible vector paths / Cairo / native raster with grain",
+  "review": "agent visual inspection of all 16 new native layouts via previews, plus detailed crops; user delegated final selection",
+  "local_gallery": "concepts/century/extension-42/index.html",
+  "wallpapers": [
+    {
+      "number": 101,
+      "title": "VELVET HAMMER",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/101-velvet-hammer.webp",
+          "sha256": "029d940b29a407aac9b35e764a913df859a3f58cdbdbe003c0d130a480a830a1",
+          "size": [
+            5120,
+            2160
+          ]
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/101-velvet-hammer.webp",
+          "sha256": "6a61f67658fc1909340e345d041df3495ef96c1f383d7554bade00a909f75421",
+          "size": [
+            5120,
+            2880
+          ]
+        }
+      },
+      "visual_review": "Both aspect ratios inspected after geometry corrections; native detail and notes crops available.",
+      "views": {
+        "A": {
+          "paths": 7209,
+          "sha256": "f8a8de92ba1c62f95bc47a6007a9e9d81bb183270606dd6c06ade72dbd96d50a"
+        },
+        "B": {
+          "paths": 725,
+          "sha256": "cb9942569c2a8a6863fec86ce755b71159df7e84d19402bbfd5af101b028b884"
+        },
+        "C": {
+          "paths": 1995,
+          "sha256": "477aebfc779dbf797b0b7fb990a6597be77fa7fc3418478575c13485ace0256b"
+        }
+      },
+      "layout": [
+        {
+          "format": "wide",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                260.5,
+                95.5,
+                520.0,
+                386.5
+              ],
+              "caption_y": 416.5
+            },
+            "right": {
+              "ink_bounds": [
+                1969.5,
+                126.5,
+                2340.5,
+                355.5
+              ],
+              "caption_y": 385.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 530.0,
+              "bottom": 733.0
+            },
+            "right": {
+              "divider": 536.0,
+              "bottom": 739.0
+            }
+          }
+        },
+        {
+          "format": "16-9",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                220.5,
+                131.5,
+                560.0,
+                512.5
+              ],
+              "caption_y": 542.5
+            },
+            "right": {
+              "ink_bounds": [
+                1969.5,
+                207.5,
+                2340.5,
+                436.5
+              ],
+              "caption_y": 466.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 756.8,
+              "bottom": 959.8
+            },
+            "right": {
+              "divider": 762.8,
+              "bottom": 965.8
+            }
+          }
+        }
+      ]
+    },
+    {
+      "number": 103,
+      "title": "BUBBLE BAILIFF",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/103-bubble-bailiff.webp",
+          "sha256": "bf039f0de35fa0fb00e739676d8701eb73f24395a8ef33e68d2aded06f197eb2",
+          "size": [
+            5120,
+            2160
+          ]
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/103-bubble-bailiff.webp",
+          "sha256": "0db78761620b1876a829aaa50ebed693e26a93a9fd7c9e4ca06280e6eaccd241",
+          "size": [
+            5120,
+            2880
+          ]
+        }
+      },
+      "visual_review": "Both aspect ratios inspected after geometry corrections; native detail and notes crops available.",
+      "views": {
+        "A": {
+          "paths": 4476,
+          "sha256": "568ccd8e0a58ee2b749dc56404f5705ffea6df5c8bf9d823f950acc43d7e3924"
+        },
+        "B": {
+          "paths": 558,
+          "sha256": "59703a44da72d416548fdde7876f5be5e5ea88f5c703249064f6b56db6101e71"
+        },
+        "C": {
+          "paths": 1979,
+          "sha256": "7599ccd29f491c878265707def8f75ee27bf10c3d7f7cff196b582475b9093ba"
+        }
+      },
+      "layout": [
+        {
+          "format": "wide",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                204.5,
+                129.0,
+                575.5,
+                353.5
+              ],
+              "caption_y": 383.5
+            },
+            "right": {
+              "ink_bounds": [
+                2084.5,
+                95.5,
+                2225.5,
+                386.5
+              ],
+              "caption_y": 416.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 530.0,
+              "bottom": 733.0
+            },
+            "right": {
+              "divider": 536.0,
+              "bottom": 739.0
+            }
+          }
+        },
+        {
+          "format": "16-9",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                204.5,
+                210.0,
+                575.5,
+                434.5
+              ],
+              "caption_y": 464.5
+            },
+            "right": {
+              "ink_bounds": [
+                2063.0,
+                131.5,
+                2247.0,
+                512.5
+              ],
+              "caption_y": 542.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 756.8,
+              "bottom": 959.8
+            },
+            "right": {
+              "divider": 762.8,
+              "bottom": 965.8
+            }
+          }
+        }
+      ]
+    },
+    {
+      "number": 104,
+      "title": "KEY CONCORD",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/104-key-concord.webp",
+          "sha256": "3f66908b78df01cbacbc0957ecf33c93566b9cd6ac4724c1842dc4833b1c1919",
+          "size": [
+            5120,
+            2160
+          ]
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/104-key-concord.webp",
+          "sha256": "74e9b7e3f6a6946ea59f8c3ad6230f15686afb3466b1c2a1823b55ea3cf71686",
+          "size": [
+            5120,
+            2880
+          ]
+        }
+      },
+      "visual_review": "Both aspect ratios inspected after geometry corrections; native detail and notes crops available.",
+      "views": {
+        "A": {
+          "paths": 3953,
+          "sha256": "99774746c88f8aec4da1f21fea63b62f8e7d93a8369ed804e8e9db377a6e7f2e"
+        },
+        "B": {
+          "paths": 506,
+          "sha256": "c71fe3e76c5f8fe2aa092b64fc544a374f79bef4f537e4df2ec5c4cfe4e0f857"
+        },
+        "C": {
+          "paths": 355,
+          "sha256": "0d23db6e0c50bb6c6b99b80a6fa4001ffe5c708c68bf9be8d21f46332667209f"
+        }
+      },
+      "layout": [
+        {
+          "format": "wide",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                204.5,
+                138.5,
+                575.5,
+                343.5
+              ],
+              "caption_y": 373.5
+            },
+            "right": {
+              "ink_bounds": [
+                1991.5,
+                95.5,
+                2318.5,
+                386.5
+              ],
+              "caption_y": 416.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 530.0,
+              "bottom": 733.0
+            },
+            "right": {
+              "divider": 536.0,
+              "bottom": 739.0
+            }
+          }
+        },
+        {
+          "format": "16-9",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                204.5,
+                219.5,
+                575.5,
+                424.5
+              ],
+              "caption_y": 454.5
+            },
+            "right": {
+              "ink_bounds": [
+                1969.5,
+                156.5,
+                2340.5,
+                487.5
+              ],
+              "caption_y": 517.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 756.8,
+              "bottom": 959.8
+            },
+            "right": {
+              "divider": 762.8,
+              "bottom": 965.8
+            }
+          }
+        }
+      ]
+    },
+    {
+      "number": 105,
+      "title": "METRIC EMBASSY",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/105-metric-embassy.webp",
+          "sha256": "52d5026a47ba5102c7d99b83b42b9178359a9f41a7efdad8417951730520e9e0",
+          "size": [
+            5120,
+            2160
+          ]
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/105-metric-embassy.webp",
+          "sha256": "db54eae7575cded3a1fe83a5e3eec4cf7cae532146046840c3b56a0b5eff716c",
+          "size": [
+            5120,
+            2880
+          ]
+        }
+      },
+      "visual_review": "Both aspect ratios inspected after geometry corrections; native detail and notes crops available.",
+      "views": {
+        "A": {
+          "paths": 8981,
+          "sha256": "42fc8ae570f3cc75f91e8d311f537a46e77c80ae51fb275ee0379065e0cd4555"
+        },
+        "B": {
+          "paths": 1181,
+          "sha256": "3f3f3cd8ddf72fb5d0dd3d89c534ff02e05474b6c0a0fea7526ced921d12958d"
+        },
+        "C": {
+          "paths": 858,
+          "sha256": "faa1b10d3043baec3a9c4527faeccceb8d9db8de72eef049914b04e0268d5aeb"
+        }
+      },
+      "layout": [
+        {
+          "format": "wide",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                277.5,
+                95.5,
+                502.5,
+                386.5
+              ],
+              "caption_y": 416.5
+            },
+            "right": {
+              "ink_bounds": [
+                2041.5,
+                95.5,
+                2268.5,
+                386.5
+              ],
+              "caption_y": 416.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 530.0,
+              "bottom": 733.0
+            },
+            "right": {
+              "divider": 536.0,
+              "bottom": 739.0
+            }
+          }
+        },
+        {
+          "format": "16-9",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                242.5,
+                131.5,
+                537.5,
+                512.5
+              ],
+              "caption_y": 542.5
+            },
+            "right": {
+              "ink_bounds": [
+                2006.5,
+                131.5,
+                2303.5,
+                512.5
+              ],
+              "caption_y": 542.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 756.8,
+              "bottom": 959.8
+            },
+            "right": {
+              "divider": 762.8,
+              "bottom": 965.8
+            }
+          }
+        }
+      ]
+    },
+    {
+      "number": 106,
+      "title": "MUON CUSTOMS",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/106-muon-customs.webp",
+          "sha256": "fc680bc09c3a7ffdb259c1ffe1918c0ea030158db969221c586154dfd631e7a6",
+          "size": [
+            5120,
+            2160
+          ]
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/106-muon-customs.webp",
+          "sha256": "3e660805ca4f4b8ee51a6db6503ec28e733eef3ae560a9453aed3bd6fea2d6ee",
+          "size": [
+            5120,
+            2880
+          ]
+        }
+      },
+      "visual_review": "Both aspect ratios inspected after geometry corrections; native detail and notes crops available.",
+      "views": {
+        "A": {
+          "paths": 5987,
+          "sha256": "7c51c34afc490071d10b603eae7a075e1ba653e12691fd5ac24189259f582e49"
+        },
+        "B": {
+          "paths": 878,
+          "sha256": "799b4e17f5dc90d9d730c6e2fece7407ebaf50d20eb535a6b655f0b696594d4d"
+        },
+        "C": {
+          "paths": 3147,
+          "sha256": "7736a58a6f74375e2fbf2ad05bbef52aac77e1dd5e3444e7d2b129399303c60d"
+        }
+      },
+      "layout": [
+        {
+          "format": "wide",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                204.5,
+                168.5,
+                575.5,
+                313.5
+              ],
+              "caption_y": 343.5
+            },
+            "right": {
+              "ink_bounds": [
+                2044.5,
+                95.5,
+                2265.0,
+                386.5
+              ],
+              "caption_y": 416.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 530.0,
+              "bottom": 733.0
+            },
+            "right": {
+              "divider": 536.0,
+              "bottom": 739.0
+            }
+          }
+        },
+        {
+          "format": "16-9",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                204.5,
+                249.5,
+                575.5,
+                394.5
+              ],
+              "caption_y": 424.5
+            },
+            "right": {
+              "ink_bounds": [
+                2010.5,
+                131.5,
+                2299.0,
+                512.5
+              ],
+              "caption_y": 542.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 756.8,
+              "bottom": 959.8
+            },
+            "right": {
+              "divider": 762.8,
+              "bottom": 965.8
+            }
+          }
+        }
+      ]
+    },
+    {
+      "number": 107,
+      "title": "RESONANCE TAILOR",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/107-resonance-tailor.webp",
+          "sha256": "66150a7baf947f5fe9024a9d285936cc9720a115b37185a296aff7cf178300a7",
+          "size": [
+            5120,
+            2160
+          ]
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/107-resonance-tailor.webp",
+          "sha256": "11410f4485b08d7b035ea73826cf0790cc29de567d2c9dbdb64170189bbfec5d",
+          "size": [
+            5120,
+            2880
+          ]
+        }
+      },
+      "visual_review": "Both aspect ratios inspected after geometry corrections; native detail and notes crops available.",
+      "views": {
+        "A": {
+          "paths": 7812,
+          "sha256": "a06b8104e54363e507dbdd2f017193214cff4df2f0eb12199a67c4fbd70f3fd9"
+        },
+        "B": {
+          "paths": 3011,
+          "sha256": "17260ef3f68a8665f98900fe43717d60fb0d15c8e7403c41f2d91a182c89a41e"
+        },
+        "C": {
+          "paths": 794,
+          "sha256": "e3ed17e31c3deccd321d74b4544b9702f35815f989e3fe9c4b4248a42ca33828"
+        }
+      },
+      "layout": [
+        {
+          "format": "wide",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                340.0,
+                95.5,
+                440.0,
+                386.5
+              ],
+              "caption_y": 416.5
+            },
+            "right": {
+              "ink_bounds": [
+                2018.0,
+                95.5,
+                2292.0,
+                386.5
+              ],
+              "caption_y": 416.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 530.0,
+              "bottom": 733.0
+            },
+            "right": {
+              "divider": 536.0,
+              "bottom": 739.0
+            }
+          }
+        },
+        {
+          "format": "16-9",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                324.5,
+                131.5,
+                455.5,
+                512.5
+              ],
+              "caption_y": 542.5
+            },
+            "right": {
+              "ink_bounds": [
+                1975.5,
+                131.5,
+                2334.5,
+                512.5
+              ],
+              "caption_y": 542.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 756.8,
+              "bottom": 959.8
+            },
+            "right": {
+              "divider": 762.8,
+              "bottom": 965.8
+            }
+          }
+        }
+      ]
+    },
+    {
+      "number": 108,
+      "title": "SUTURE LOOM",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/108-suture-loom.webp",
+          "sha256": "52d0bffa4955c780778fa892ecace50f491d383b34e3b2ef0485f76ec4e9e193",
+          "size": [
+            5120,
+            2160
+          ]
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/108-suture-loom.webp",
+          "sha256": "995b1b2144fa851bde5ebbf87a043bbc20b7e6fabbdd835a404372eb70a2920c",
+          "size": [
+            5120,
+            2880
+          ]
+        }
+      },
+      "visual_review": "Both aspect ratios inspected after geometry corrections; native detail and notes crops available.",
+      "views": {
+        "A": {
+          "paths": 6184,
+          "sha256": "68075fc23774bfc1a587344e65d947e6995e033055c5d8ca8705572b93ce0e76"
+        },
+        "B": {
+          "paths": 2935,
+          "sha256": "49fcc1f18a02725f451dbfc1e7e0442139c58cf42555a72aa8b5103d391bd0bf"
+        },
+        "C": {
+          "paths": 2319,
+          "sha256": "1b1716908db3d49324423dee742a994fb9a74b652fa71c0546093059a7cda48f"
+        }
+      },
+      "layout": [
+        {
+          "format": "wide",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                204.5,
+                129.0,
+                575.5,
+                353.0
+              ],
+              "caption_y": 383.0
+            },
+            "right": {
+              "ink_bounds": [
+                2026.0,
+                95.5,
+                2284.0,
+                386.5
+              ],
+              "caption_y": 416.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 530.0,
+              "bottom": 733.0
+            },
+            "right": {
+              "divider": 536.0,
+              "bottom": 739.0
+            }
+          }
+        },
+        {
+          "format": "16-9",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                204.5,
+                210.0,
+                575.5,
+                434.0
+              ],
+              "caption_y": 464.0
+            },
+            "right": {
+              "ink_bounds": [
+                1986.0,
+                131.5,
+                2324.0,
+                512.5
+              ],
+              "caption_y": 542.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 756.8,
+              "bottom": 959.8
+            },
+            "right": {
+              "divider": 762.8,
+              "bottom": 965.8
+            }
+          }
+        }
+      ]
+    },
+    {
+      "number": 110,
+      "title": "SPIN TABLE",
+      "files": {
+        "wide": {
+          "path": "concepts/century/wide/110-spin-table.webp",
+          "sha256": "8f3eac2fa11b4be1bab53fe99b902d9ad5ab5c06e96eb84f3837aaa31cb077af",
+          "size": [
+            5120,
+            2160
+          ]
+        },
+        "16-9": {
+          "path": "concepts/century/16-9/110-spin-table.webp",
+          "sha256": "edc90324055f1fce48a93a3071d9846eb4adb3a3c944ed2e8d0605865248f744",
+          "size": [
+            5120,
+            2880
+          ]
+        }
+      },
+      "visual_review": "Both aspect ratios inspected after geometry corrections; native detail and notes crops available.",
+      "views": {
+        "A": {
+          "paths": 5123,
+          "sha256": "ba48d94ebf604a0131d29c24793266ebab8f02c9993fac8f4083aeaf8a9015ee"
+        },
+        "B": {
+          "paths": 3058,
+          "sha256": "4dab0c1404e29e4e366aafcbabd79c930dbd6f80989ee22c2360a3d54a9a0639"
+        },
+        "C": {
+          "paths": 745,
+          "sha256": "daf745fdd75de8d0e3b5ceda168d6d351f05e3db48b4cc271f1e696053a5c47b"
+        }
+      },
+      "layout": [
+        {
+          "format": "wide",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                279.5,
+                95.5,
+                500.0,
+                386.5
+              ],
+              "caption_y": 416.5
+            },
+            "right": {
+              "ink_bounds": [
+                1969.5,
+                164.5,
+                2340.5,
+                317.5
+              ],
+              "caption_y": 347.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 530.0,
+              "bottom": 733.0
+            },
+            "right": {
+              "divider": 536.0,
+              "bottom": 739.0
+            }
+          }
+        },
+        {
+          "format": "16-9",
+          "passed": true,
+          "min_font_px": 14.0,
+          "illustration_layout": {
+            "left": {
+              "ink_bounds": [
+                245.5,
+                131.5,
+                534.0,
+                512.5
+              ],
+              "caption_y": 542.5
+            },
+            "right": {
+              "ink_bounds": [
+                1969.5,
+                245.5,
+                2340.5,
+                398.5
+              ],
+              "caption_y": 428.5
+            }
+          },
+          "section_layout": {
+            "left": {
+              "divider": 756.8,
+              "bottom": 959.8
+            },
+            "right": {
+              "divider": 762.8,
+              "bottom": 965.8
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

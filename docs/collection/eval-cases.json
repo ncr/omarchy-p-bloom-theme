@@ -1,0 +1,176 @@
+{
+ "note": "Labelled typography cases for tools/eval_wallpapers.py. Each case is a real finding from an owner or agent review; the eval must report it on the version it was written for (baseline commit) and not after the fix. Add every new mistake found by eye here. Cases carry their own baseline when it differs from the file's.",
+ "baseline": "ba3a11e (diagrams before the 2026-10-01 typography pass)",
+ "cases": [
+  {
+   "id": "b03",
+   "zone": "left",
+   "code": "box-centre",
+   "note": "70 °C and the other temperatures sit right and low in their frames (owner, 2026-10-01)",
+   "layer": "geometry"
+  },
+  {
+   "id": "b03",
+   "zone": "left",
+   "code": "box-index",
+   "note": "effect numbers 1, 2, 3, 13, 14 float above the frames like superscripts (owner, 2026-10-01)",
+   "layer": "geometry"
+  },
+  {
+   "id": "b21",
+   "zone": "left",
+   "code": "schema",
+   "note": "the y-axis label \"100 MHz\" sticks out left of the common edge, so the diagram looks indented",
+   "layer": "geometry"
+  },
+  {
+   "id": "c065",
+   "zone": "left",
+   "code": "detached",
+   "note": "counts 9 / 2 / 1 at the far edge, away from ACCEPT / HOLD / REWORK",
+   "layer": "geometry"
+  },
+  {
+   "id": "o01",
+   "zone": "left",
+   "code": "caption-gap",
+   "note": "SUCCESSIVE CHECK ROUNDS crowds the caption",
+   "layer": "geometry"
+  },
+  {
+   "id": "o08",
+   "zone": "left",
+   "code": "caption-gap",
+   "note": "CARRIER + METERED DOSES crowds the caption",
+   "layer": "geometry"
+  },
+  {
+   "id": "o12",
+   "zone": "left",
+   "code": "caption-gap",
+   "note": "ROW / COLUMN / DEPTH crowd the caption",
+   "layer": "geometry"
+  },
+  {
+   "id": "o01",
+   "zone": "right",
+   "code": "schema",
+   "note": "older chart schema: letter-spaced title, no subtitle, no caption",
+   "layer": "geometry"
+  },
+  {
+   "id": "o03",
+   "zone": "right",
+   "code": "schema",
+   "note": "older chart schema",
+   "layer": "geometry"
+  },
+  {
+   "id": "o12",
+   "zone": "right",
+   "code": "schema",
+   "note": "older chart schema, subtitle above the title",
+   "layer": "geometry"
+  },
+  {
+   "id": "o14",
+   "zone": "right",
+   "code": "schema",
+   "note": "older chart schema, subtitle above the title",
+   "layer": "geometry"
+  },
+  {
+   "id": "b18",
+   "zone": "left",
+   "code": "box-centre",
+   "note": "CITY 300 sits low in its bar (found by the eval on the baseline, confirmed by eye)",
+   "layer": "geometry"
+  },
+  {
+   "id": "c042",
+   "zone": "right",
+   "code": "caption-gap",
+   "note": "BRIDLE LOAD sits on top of the caption (found by the eval, confirmed by eye)",
+   "layer": "geometry"
+  },
+  {
+   "id": "c017",
+   "zone": "right",
+   "code": "caption-gap",
+   "note": "DEPTH-SELECTED LAYER crowds the caption (found by the eval, confirmed by eye)",
+   "layer": "geometry"
+  },
+  {
+   "id": "o05",
+   "zone": "sheet",
+   "code": "widow",
+   "note": "legend paragraphs end on one word (\"skin.\", \"decades.\") (pass 2 review, 2026-10-01)",
+   "baseline": "e6dcff9 (before typography pass 2)",
+   "layer": "geometry"
+  },
+  {
+   "id": "c107",
+   "zone": "sheet",
+   "code": "glyph",
+   "note": "\"root(m0 / m)\" spelled out instead of √(m₀ / m) (pass 2 review)",
+   "baseline": "e6dcff9 (before typography pass 2)",
+   "layer": "geometry"
+  },
+  {
+   "id": "b03",
+   "zone": "sheet",
+   "code": "glyph",
+   "note": "\"380 x 16 m²\" with an x for × in the field notes (pass 2 review)",
+   "baseline": "e6dcff9 (before typography pass 2)",
+   "layer": "geometry"
+  },
+  {
+   "id": "b11",
+   "zone": "sheet",
+   "code": "repeat",
+   "note": "field notes repeat the CLEAN AIR callout, \"HEPA / 20 … CHANGES AN HOUR\" (pass 2 review)",
+   "baseline": "e6dcff9 (before typography pass 2)",
+   "layer": "geometry"
+  },
+  {
+   "id": "c044",
+   "zone": "sheet",
+   "code": "repeat",
+   "note": "\"THREE SOFT CONTACTS\" in a callout and again in the B caption (pass 2 review)",
+   "baseline": "e6dcff9 (before typography pass 2)",
+   "layer": "geometry"
+  },
+  {
+   "id": "b03",
+   "zone": "left_diagram",
+   "code": "text-in-frame",
+   "note": "70 °C and the other temperatures off-centre in their frames, indices floating above them (owner, 2026-10-01)",
+   "baseline": "ba3a11e (diagrams before the 2026-10-01 typography pass)",
+   "layer": "judge"
+  },
+  {
+   "id": "b13",
+   "zone": "punchline",
+   "code": "redundancy",
+   "note": "\"ON COLD MORNINGS THE PLUME OVER THE MILL IS ONLY CLOUD\" retells the legend (owner decision, 2026-10-01)",
+   "baseline": "8cc9421^ (before the content pass)",
+   "layer": "judge"
+  },
+  {
+   "id": "c002",
+   "zone": "notes",
+   "code": "redundancy",
+   "note": "power ∝ v³ stated in the notes sentence, the MODEL row and the left diagram (owner decision, 2026-10-01)",
+   "baseline": "8cc9421^ (before the content pass)",
+   "layer": "judge"
+  },
+  {
+   "id": "c031",
+   "zone": "legend",
+   "code": "series",
+   "note": "FOUNDATION / STILL NEEDED legend while the b-sheets list named disciplines (owner decision, 2026-10-01)",
+   "baseline": "8cc9421^ (before the content pass)",
+   "layer": "judge"
+  }
+ ]
+}

@@ -1,0 +1,305 @@
+{
+  "count": 42,
+  "format": "16-9",
+  "native_size": [
+    5120,
+    2880
+  ],
+  "wallpapers": [
+    {
+      "id": "o03",
+      "title": "FUSION TRANSPORT",
+      "filename": "03-fusion-transport.webp",
+      "sha256": "894b88185839628ee177643c4ee1b26cd4c5b780c034855ae789b7c3c1ffc535",
+      "path": "backgrounds/03-fusion-transport.webp"
+    },
+    {
+      "id": "b04",
+      "title": "FIRST LIGHT",
+      "filename": "b04-first-light.webp",
+      "sha256": "e03a4ad74af82fd861d359fc1a971601010b63f3001da238f4810cbf47f949ab",
+      "path": "backgrounds/b04-first-light.webp"
+    },
+    {
+      "id": "o02",
+      "title": "SKY RACER",
+      "filename": "02-sky-racer.webp",
+      "sha256": "9f18468b4f16797fe96841b663dd30bbe1841374227df115616748e549fe289f",
+      "path": "backgrounds/02-sky-racer.webp"
+    },
+    {
+      "id": "c087",
+      "title": "NEUTRINO BELL",
+      "filename": "087-neutrino-bell.webp",
+      "sha256": "a4ea9d75199f2b5defcb04e51aa2b7098c3907a8ed057709d8b20205b81d8501",
+      "path": "backgrounds/087-neutrino-bell.webp"
+    },
+    {
+      "id": "o09",
+      "title": "TETHER CLIMBER",
+      "filename": "09-tether-climber.webp",
+      "sha256": "d414fc960ceb26d0bf8359ddea40c34818d3b4683148cbe20fb92107d797a698",
+      "path": "backgrounds/09-tether-climber.webp"
+    },
+    {
+      "id": "c001",
+      "title": "LIGHT SAIL",
+      "filename": "001-light-sail.webp",
+      "sha256": "92c7a6aae98c22b00bec306d94cb929ab5737a6f7e5f4eff25c2489e62e9e227",
+      "path": "backgrounds/001-light-sail.webp"
+    },
+    {
+      "id": "o01",
+      "title": "QUANTUM SIMULATOR",
+      "filename": "01-quantum-simulator.webp",
+      "sha256": "04e663db4a38074cadad62c3306436991b9966813aed27f470b5f41b304c5082",
+      "path": "backgrounds/01-quantum-simulator.webp"
+    },
+    {
+      "id": "c025",
+      "title": "FIBRE BRAID",
+      "filename": "025-fibre-braid.webp",
+      "sha256": "720d06d5203bd845d23de2544c6d07ef3f3d7ca08537004b9daf02df09217ea6",
+      "path": "backgrounds/025-fibre-braid.webp"
+    },
+    {
+      "id": "o13",
+      "title": "PROXY",
+      "filename": "13-proxy.webp",
+      "sha256": "3c486404014378f17bc7923f5ea28338fc816f923c469b1054b0d56eb7c8a3e2",
+      "path": "backgrounds/13-proxy.webp"
+    },
+    {
+      "id": "b02",
+      "title": "REEF NURSERY",
+      "filename": "b02-reef-nursery.webp",
+      "sha256": "9cea403694fc5ea90dd984d2458f34ab32c3bd4a9c7fd31dd7e28defe246b987",
+      "path": "backgrounds/b02-reef-nursery.webp"
+    },
+    {
+      "id": "o11",
+      "title": "ORGAN FOUNDRY",
+      "filename": "11-organ-foundry.webp",
+      "sha256": "1f0bde9e6e3cd71a15f789998afad10c6a0e8b75db85ca0cdb9e5fa9a3490e98",
+      "path": "backgrounds/11-organ-foundry.webp"
+    },
+    {
+      "id": "o05",
+      "title": "CORTICAL MESH",
+      "filename": "05-cortical-mesh.webp",
+      "sha256": "8d1fe7c040469e4ba0c4c5c4469ae4843af527b382569be349c4d04ee85607b1",
+      "path": "backgrounds/05-cortical-mesh.webp"
+    },
+    {
+      "id": "c017",
+      "title": "MEMORY KILN",
+      "filename": "017-memory-kiln.webp",
+      "sha256": "204bd7ce1733b9f927c4aa3c019eb488e88989dfe8b567fe23bfd9f66e5b73bd",
+      "path": "backgrounds/017-memory-kiln.webp"
+    },
+    {
+      "id": "c056",
+      "title": "DUNE SKIMMER",
+      "filename": "056-dune-skimmer.webp",
+      "sha256": "e8290598048301391b5b04ba9b3f1e2db9629ff8c02c6329827887ba18f20074",
+      "path": "backgrounds/056-dune-skimmer.webp"
+    },
+    {
+      "id": "b13",
+      "title": "GREEN FORGE",
+      "filename": "b13-green-forge.webp",
+      "sha256": "bb223ad11f44cbbe571da57f1eca403ed08cf3a0a4234e610e3dabc0e46e34c1",
+      "path": "backgrounds/b13-green-forge.webp"
+    },
+    {
+      "id": "b11",
+      "title": "CLEAR SIGHT",
+      "filename": "b11-clear-sight.webp",
+      "sha256": "73c15906b9b47e35a02a2148bac31db89ad035ab2c846ae88d13cd4d68178921",
+      "path": "backgrounds/b11-clear-sight.webp"
+    },
+    {
+      "id": "c031",
+      "title": "PETAL EYE",
+      "filename": "031-petal-eye.webp",
+      "sha256": "bbe8139b564bb9644132722658ce469a663fa59492dec5081ebdbfadc70eb812",
+      "path": "backgrounds/031-petal-eye.webp"
+    },
+    {
+      "id": "c018",
+      "title": "LUNAR PORCH",
+      "filename": "018-lunar-porch.webp",
+      "sha256": "e0bdc17c79d59d97053e8e3cc68b4a0ee21522515a37e2a7b59dc480ec03388b",
+      "path": "backgrounds/018-lunar-porch.webp"
+    },
+    {
+      "id": "b12",
+      "title": "WIND FREIGHTER",
+      "filename": "b12-wind-freighter.webp",
+      "sha256": "83bc6a818c1d46f2f82cff680dd83e58e187a66df65d399fa7a51f7e1d8643cd",
+      "path": "backgrounds/b12-wind-freighter.webp"
+    },
+    {
+      "id": "o07",
+      "title": "AIR REFINERY",
+      "filename": "07-air-refinery.webp",
+      "sha256": "04c782a635af6456fb6dc666ee88f610f029705000b895cf80d43d5bb499bcd7",
+      "path": "backgrounds/07-air-refinery.webp"
+    },
+    {
+      "id": "o06",
+      "title": "BOUNDER",
+      "filename": "06-bounder.webp",
+      "sha256": "e210ff502ab48b63557061487beabc14cd0fe32c4683f5ba5cfcd8419b82b979",
+      "path": "backgrounds/06-bounder.webp"
+    },
+    {
+      "id": "b03",
+      "title": "SUN STILL",
+      "filename": "b03-sun-still.webp",
+      "sha256": "b93113f2a0bd720ad79e99b6872e790f98ce7a58a86a3cd81cc7c221b37043be",
+      "path": "backgrounds/b03-sun-still.webp"
+    },
+    {
+      "id": "b18",
+      "title": "STELLARATOR HEARTH",
+      "filename": "b18-stellarator-hearth.webp",
+      "sha256": "07027f7c6e704c2429e63bcaf60ad0275ddd327e2b7e4f1bff239b5ae12c7067",
+      "path": "backgrounds/b18-stellarator-hearth.webp"
+    },
+    {
+      "id": "c044",
+      "title": "CORAL CRADLE",
+      "filename": "044-coral-cradle.webp",
+      "sha256": "52a465010301896dbce288296ca7c9b431c2299294f2a7d4b126b5cb72c781ca",
+      "path": "backgrounds/044-coral-cradle.webp"
+    },
+    {
+      "id": "c002",
+      "title": "TIDAL LOOM",
+      "filename": "002-tidal-loom.webp",
+      "sha256": "7edb8404aaf811f17f91cc39e4838b8cab952734b9bab873c20be08702efd5bb",
+      "path": "backgrounds/002-tidal-loom.webp"
+    },
+    {
+      "id": "o14",
+      "title": "PRESENCE RIG",
+      "filename": "14-presence-rig.webp",
+      "sha256": "344441ba90caf3ff53225d5ee31deeed92783f610d1f273030f6891dfc566567",
+      "path": "backgrounds/14-presence-rig.webp"
+    },
+    {
+      "id": "c099",
+      "title": "SLEEP COCOON",
+      "filename": "099-sleep-cocoon.webp",
+      "sha256": "eb91e5f4db5949e1a2e6669b41b7fc2911831edc38ca74fbb20769a85cb0e699",
+      "path": "backgrounds/099-sleep-cocoon.webp"
+    },
+    {
+      "id": "c042",
+      "title": "WIND KITE",
+      "filename": "042-wind-kite.webp",
+      "sha256": "0987a9228adc9fe406971ce37a4d293951a8c9eb8e249c05cc97275df5b0baf2",
+      "path": "backgrounds/042-wind-kite.webp"
+    },
+    {
+      "id": "b21",
+      "title": "CRATER EAR",
+      "filename": "b21-crater-ear.webp",
+      "sha256": "9d00314902ff8d60bbda69183bce2d3fc126f14fe8c76184611d29cf676b390a",
+      "path": "backgrounds/b21-crater-ear.webp"
+    },
+    {
+      "id": "c006",
+      "title": "MANTA FOIL",
+      "filename": "006-manta-foil.webp",
+      "sha256": "87aafdb9f5af8e50b99cf069450ae4f97292565a52246f5b37c3aefb62cff608",
+      "path": "backgrounds/006-manta-foil.webp"
+    },
+    {
+      "id": "c065",
+      "title": "SEAM SURGEON",
+      "filename": "065-seam-surgeon.webp",
+      "sha256": "084280b983ca8b58ac759cbb7cadac2beca22dee4604f646b8f2a44f94d53cc7",
+      "path": "backgrounds/065-seam-surgeon.webp"
+    },
+    {
+      "id": "o12",
+      "title": "VOLUMETRIC STAGE",
+      "filename": "12-volumetric-stage.webp",
+      "sha256": "ff871cebcaea04e448e2b344f3bf4b3ed35de2a870e764464ea1216dbc573d99",
+      "path": "backgrounds/12-volumetric-stage.webp"
+    },
+    {
+      "id": "o08",
+      "title": "AROMA ORGAN",
+      "filename": "08-aroma-organ.webp",
+      "sha256": "458ecd04128567b4246467cbf14912776a86d55da5ae152467bacc58385576d5",
+      "path": "backgrounds/08-aroma-organ.webp"
+    },
+    {
+      "id": "c038",
+      "title": "QUIET STAIR",
+      "filename": "038-quiet-stair.webp",
+      "sha256": "7477a85ce31eadf30143d5a179b280e918d56e13f24dba842543659e54eccb24",
+      "path": "backgrounds/038-quiet-stair.webp"
+    },
+    {
+      "id": "c101",
+      "title": "VELVET HAMMER",
+      "filename": "101-velvet-hammer.webp",
+      "sha256": "554a35127f1e5e601def59d30c4363eaa5c5d18f1e52337d1d51fea81d4250ac",
+      "path": "backgrounds/101-velvet-hammer.webp"
+    },
+    {
+      "id": "c103",
+      "title": "BUBBLE BAILIFF",
+      "filename": "103-bubble-bailiff.webp",
+      "sha256": "ec6e104542817ba384c3aa279a90a54b652f4f77ff07433878781293237f312e",
+      "path": "backgrounds/103-bubble-bailiff.webp"
+    },
+    {
+      "id": "c104",
+      "title": "KEY CONCORD",
+      "filename": "104-key-concord.webp",
+      "sha256": "16ea012d000028b3f2a08bb7119e270e57d85396459f3f9d32bdeb81a94c1ad4",
+      "path": "backgrounds/104-key-concord.webp"
+    },
+    {
+      "id": "c105",
+      "title": "METRIC EMBASSY",
+      "filename": "105-metric-embassy.webp",
+      "sha256": "e1641519e924eeeb2c41c6517991a7a04d25013a406b1d0814bd1d9dc63dc0cf",
+      "path": "backgrounds/105-metric-embassy.webp"
+    },
+    {
+      "id": "c106",
+      "title": "MUON CUSTOMS",
+      "filename": "106-muon-customs.webp",
+      "sha256": "c0171bfd570c2a632ffd813263cf463613893fdb8ad66fdbd8578c5f4bb51d5a",
+      "path": "backgrounds/106-muon-customs.webp"
+    },
+    {
+      "id": "c107",
+      "title": "RESONANCE TAILOR",
+      "filename": "107-resonance-tailor.webp",
+      "sha256": "7bc6d2d5d55501f7cf334767dab70f0df54c695ba22cccde3757d98738932474",
+      "path": "backgrounds/107-resonance-tailor.webp"
+    },
+    {
+      "id": "c108",
+      "title": "SUTURE LOOM",
+      "filename": "108-suture-loom.webp",
+      "sha256": "1006de761f9ae592fe7fbb0ede0c3c50b8acbd935e36fa39ec46f5db8a472646",
+      "path": "backgrounds/108-suture-loom.webp"
+    },
+    {
+      "id": "c110",
+      "title": "SPIN TABLE",
+      "filename": "110-spin-table.webp",
+      "sha256": "b07ea3e6977219d7b5fcdbcd1c8b84361a59d36d1c00fe4bd6e4c814ec8d1e40",
+      "path": "backgrounds/110-spin-table.webp"
+    }
+  ],
+  "note": "Shipped 16:9 set (WebP q90 from the lossless masters); docs/collection/profiles.json is authoritative."
+}

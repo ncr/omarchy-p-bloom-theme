@@ -1,0 +1,10 @@
+# Framed in the same Arc-to-Void gradient as the focused window. The countdown
+# bar is exotic gold.
+[notifications]
+background       = "#090d16"
+background-alpha = 0.96
+text             = "#d9e8ff"
+border           = "hyprland.active-border"
+border-alpha     = 1.0
+border-width     = 1
+countdown        = "#f5c945"

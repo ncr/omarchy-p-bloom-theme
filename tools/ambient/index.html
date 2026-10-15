@@ -1,0 +1,10 @@
+<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Destiny · animowana tapeta</title><style>html,body{margin:0;height:100%;background:#080a10;overflow:hidden}#stage{position:fixed;inset:0;display:grid;place-items:center}#frame{position:relative;width:min(100vw,237.037vh);aspect-ratio:64/27}#original{display:block;width:100%;height:100%}nav{position:fixed;bottom:20px;left:20px;z-index:3;display:flex;gap:8px;opacity:0;transition:opacity .2s}nav:hover,nav:focus-within{opacity:1}select,button{font:12px system-ui;padding:8px;background:#142033;color:#dfedff;border:1px solid #ffffff30;border-radius:5px}</style></head><body><main id="stage"><div id="frame"><img id="original" alt=""></div></main><nav><select aria-label="Wybierz tapetę"></select><button type="button">Pauza</button></nav><script type="module">
+import {createAmbient} from './renderer.js';
+const profiles=await fetch('./profiles.json').then(r=>r.json()),query=new URLSearchParams(location.search),select=document.querySelector('select'),image=document.querySelector('#original'),ambient=createAmbient(document.querySelector('#frame'));
+for(const[id,p]of Object.entries(profiles)){const option=document.createElement('option');option.value=id;option.textContent=p.file.replace(/\.webp$/,'');select.append(option);}
+async function show(id){select.value=id;const src='../../backgrounds/'+profiles[id].file;image.src=src;image.alt=select.selectedOptions[0].textContent;await ambient.load(src,profiles[id]);ambient.setEnabled(!matchMedia('(prefers-reduced-motion: reduce)').matches);}
+select.onchange=()=>show(select.value);let paused=false;document.querySelector('button').onclick=e=>{paused=!paused;ambient.setEnabled(!paused);e.target.textContent=paused?'Odtwórz':'Pauza';};
+await show(profiles[query.get('id')]?query.get('id'):Object.keys(profiles)[0]);
+// Deterministic interface for offline video export, independent of audio or the blog.
+window.wallpaper={render(t){ambient.stop();ambient.render(t);},loopSeconds:24,ready:true};
+</script></body></html>

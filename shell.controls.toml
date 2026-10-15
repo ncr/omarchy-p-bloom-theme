@@ -1,0 +1,30 @@
+# Buttons, dropdowns and tabs. Idle controls carry a faint frame; the control
+# under the cursor gets a full Arc frame, which is how the game marks the item
+# you are pointing at, only in colour.
+[controls]
+normal-color        = "#d9e8ff"
+normal-fill-alpha   = 0.05
+normal-border       = "#d9e8ff"
+normal-border-width = 1
+normal-border-alpha = 0.22
+
+hover-cursor-color        = "#4cc9ff"
+hover-cursor-fill-alpha   = 0.14
+hover-cursor-border       = "#4cc9ff"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.95
+
+focus-color        = "#4cc9ff"
+focus-fill-alpha   = 0.14
+focus-border       = "#4cc9ff"
+focus-border-width = 1
+focus-border-alpha = 0.95
+
+selected-color        = "#4cc9ff"
+selected-fill-alpha   = 0.22
+selected-border       = "#4cc9ff"
+selected-border-width = 1
+selected-border-alpha = 0.60
+
+pressed-fill-alpha   = 0.30
+selection-fill-alpha = 0.35
