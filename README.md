@@ -16,15 +16,16 @@ Each wallpaper is laid out again for 18 screens, from 1080p to 7680 × 2160, in 
 
 ### p(bloom) Wallpapers
 
-The companion app is a gallery for the 42 wallpapers: ← → browse, ↑ ↓ show one at another intensity, Enter puts it on your desktop. It also downloads the set made for your monitors and switches when you plug in another screen; after a theme update it fetches only the wallpapers that changed. Open it from Omarchy's menu (Super + Space, type `pbloom`).
+The companion app is a gallery for the 42 wallpapers: ← → browse, ↑ ↓ show one at another intensity, Enter puts it on your desktop. It also downloads the set made for your monitors and switches when you plug in another screen, and offers its own updates when there are new wallpapers. Open it from Omarchy's menu (Super + Space, type `pbloom`).
+
+It lives in its own repository, [ncr/p-bloom-wallpapers](https://github.com/ncr/p-bloom-wallpapers), with what it installs and how it works:
 
 ```bash
-python3 ~/.config/omarchy/themes/p-bloom/companion/install.py
+git clone https://github.com/ncr/p-bloom-wallpapers.git ~/.local/share/p-bloom-wallpapers/checkout
+python3 ~/.local/share/p-bloom-wallpapers/checkout/companion/install.py
 ```
 
-Removing the theme (Remove > Theme) removes the app with it. To remove only the app, add `--uninstall`; `--purge` also deletes its downloaded sets and settings.
-
-[What it installs and how it works](companion/README.md)
+Removing the theme (Remove > Theme) removes the app with it.
 
 ![42 blueprint wallpapers of machines from a future worth building](previews/wallpaper-collage.webp)
 
